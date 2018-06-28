@@ -8,8 +8,9 @@ import wave
 import glob 
 import math
 
+iv_th = 0.7
 
-            
+
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
     wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
@@ -18,11 +19,35 @@ def main(speaker_name,ivpath):
     
     print("filename:{}".format(filename))
     
-    #f = open("/home/nozaki/python/memo/{0}.txt".format(filename),"w")
+    #print_cos(wavpath,ivpath,filelist)#ivのコサイン類似度を表示
     
-    print_cos(wavpath,ivpath,filelist)#ivのコサイン類似度を表示
+    tyouhuku = []
+    i = 0
+    for item in filelist:
+        cnt = 0
+        for item2 in filelist:
+            if(item != item2):
+                if(calc_cos(ivpath,item,item2) > iv_th):
+                    cnt += 1
+        tyouhuku.append(cnt)
+        #print(item,cnt,num,get_time(wavpath,item))
+        i += 1
     
-    #f.close
+    print(filelist[np.argmax(tyouhuku)],max(tyouhuku))
+    #filelist.remove(filelist[np.argmax(tyouhuku)])
+    
+    thlist = get_thlist(ivpath,filelist,tyouhuku)
+    
+    print(thlist)        
+        
+def get_thlist(ivpath,filelist,tyouhuku):
+    #閾値以上のファイルのリストを返す
+    list = []
+    for item in filelist:
+        if(calc_cos(ivpath,filelist[np.argmax(tyouhuku)],item)>iv_th):
+            list.append(item)
+            
+    return list
             
 def get_filelist(path):
 # os.listdir('パス')
@@ -119,8 +144,6 @@ def print_cos(wavpath,ivpath,filelist):
                     
                     print("{0} {1} {2:9f} {3:2f} {4:4f} {5:4f}\n".format(item,item2,get_time(wavpath,item),get_time(wavpath,item2),
                           abs(get_time(wavpath,item) - get_time(wavpath,item2)),calc_cos(ivpath,item,item2)))
-
-
 
 if __name__ == '__main__':
     ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
