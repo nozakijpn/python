@@ -7,20 +7,60 @@ import wave
 import glob 
 import math
 
+np.set_printoptions(threshold=np.inf)
+
+roop_num = 5
 iv_th = 0.7
-tyouhuku_th = 10
+tyouhuku_th = 5
+anchor_th = 0.05
+
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
     
-    filelist,num,filename = get_filelist(ivpath)
-    del_filelist,_,_ = get_filelist(ivpath)
+    filelist,num,filename = get_filelist(ivpath)#filelist:ループされていく毎に減っていくwavデータのリスト
+    ori_filelist,ori_num,_ = get_filelist(ivpath)     #ori_filelist:クラスタ分けする全ての音声ファイル
+    
     cluster = np.zeros(num)
     print("filename:{}".format(filename))
     
-    #print_cos(wavpath,ivpath,filelist)#ivのコサイン類似度を表示
-    
+    for i in range(roop_num):
+        num = cnt_filenum(filelist)
+        tyouhuku = cnt_tyouhuku_num(ivpath,filelist)#リストにある音声ファイルのcos類似度による重複回数のリストを返す
+        
+        maxfile = filelist[np.argmax(tyouhuku)]#重複回数が最大となる音声ファイルを探し、
+        th_list = get_thlist(ivpath,maxfile,filelist)#もっとも重複した音声ファイルが多い音声ファイルの重複したwavファイルのリストを返す
+        
+        tyouhukulist = get_tyouhukulist(ivpath,filelist,th_list)#重重したwavファイルのリストを返す
+
+        lis = np.array(make_tyouhukulist(filelist,tyouhukulist,num))#重複回数が閾値以上のファイルのリストを返してnumpy.arrayに変換
+        
+        if((cnt_filenum(lis)/ori_num) < anchor_th):
+            break
+        
+        for item in lis:
+            delnum = search_filenum(ori_filelist,item,ori_num)
+            cluster[delnum] = i+1#クラスタ分けされた音声ファイルにラベルを付ける
+            filelist.remove(item)#クラスタ分けされた音声ファイルをリストから削除する
+            
+    clusnum_to_filename(cluster,ori_num,ori_filelist)
+        
+def clusnum_to_filename(cluster,ori_num,ori_filelist):
+    for i in range(roop_num):
+        print("cluster_{0}".format(i+1))
+        for j in range(ori_num):
+            if(cluster[j] == i+1):
+                print(ori_filelist[j])
+        print("\n")
+
+def cnt_filenum(filelist):
+    filelist = np.array(filelist)
+    num = filelist.shape
+    return num[0]
+
+def cnt_tyouhuku_num(ivpath,filelist):   
+    #リストにある音声ファイルのcos類似度による重複回数のリストを返す
     tyouhuku = []
     i = 0
     for item in filelist:
@@ -30,29 +70,13 @@ def main(speaker_name,ivpath):
                 if(calc_cos(ivpath,item,item2) > iv_th):
                     cnt += 1
         tyouhuku.append(cnt)
-        #print(item,cnt,num,get_time(wavpath,item))
         i += 1
     
-    #print(filelist[np.argmax(tyouhuku)],max(tyouhuku))
-    #filelist.remove(filelist[np.argmax(tyouhuku)])
-    
-    th_list = get_thlist(ivpath,filelist[np.argmax(tyouhuku)],filelist)
-    
-    tyouhukulist = get_tyouhukulist(ivpath,filelist,th_list)
-    
-    lis = np.array(make_tyouhukulist(filelist,tyouhukulist,num))
-    
-    for item in lis:
-        cluster[search_filenum(filelist,item,num)] = 1
-        del_filelist.remove(item)
-        
-    print(cluster)
-    print(lis)
+    return tyouhuku
 
 def search_filenum(filelist,filename,num):
     for i in range(num):
         if(filelist[i] == filename):
-            print(i,filelist[i],filename)
             return i
     
 def make_tyouhukulist(filelist,tyouhukulist,num):
