@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#ivのリストを取得し、標準偏差と分散を取得するプログラム
 
 import os # osモジュールのインポート
 import numpy as np
@@ -9,14 +8,15 @@ import glob
 import math
 
 iv_th = 0.7
-
+tyouhuku_th = 10
+wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
-    wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
     
     filelist,num,filename = get_filelist(ivpath)
-    
+    del_filelist,_,_ = get_filelist(ivpath)
+    cluster = np.zeros(num)
     print("filename:{}".format(filename))
     
     #print_cos(wavpath,ivpath,filelist)#ivのコサイン類似度を表示
@@ -33,22 +33,62 @@ def main(speaker_name,ivpath):
         #print(item,cnt,num,get_time(wavpath,item))
         i += 1
     
-    print(filelist[np.argmax(tyouhuku)],max(tyouhuku))
+    #print(filelist[np.argmax(tyouhuku)],max(tyouhuku))
     #filelist.remove(filelist[np.argmax(tyouhuku)])
     
-    thlist = get_thlist(ivpath,filelist,tyouhuku)
+    th_list = get_thlist(ivpath,filelist[np.argmax(tyouhuku)],filelist)
     
-    print(thlist)        
+    tyouhukulist = get_tyouhukulist(ivpath,filelist,th_list)
+    
+    lis = np.array(make_tyouhukulist(filelist,tyouhukulist,num))
+    
+    for item in lis:
+        cluster[search_filenum(filelist,item,num)] = 1
+        del_filelist.remove(item)
         
-def get_thlist(ivpath,filelist,tyouhuku):
+    print(cluster)
+    print(lis)
+
+def search_filenum(filelist,filename,num):
+    for i in range(num):
+        if(filelist[i] == filename):
+            print(i,filelist[i],filename)
+            return i
+    
+def make_tyouhukulist(filelist,tyouhukulist,num):
+    #重複回数が閾値以上のファイルのリストを返す
+    lis = []
+    for i in range(num):
+        cnt = 0
+        for item in tyouhukulist:
+            if(filelist[i]==item):
+                cnt += 1
+        if(cnt > tyouhuku_th):
+            lis.append(filelist[i])
+        
+    return lis
+
+def get_tyouhukulist(ivpath,filelist,th_list):
+    #重重したwavファイルのリストを返す
+    tyouhukulist = []
+    for item in th_list:
+        li = get_thlist(ivpath,item,filelist)
+        tyouhukulist = tyouhukulist + li
+        
+    return tyouhukulist
+    
+
+def get_thlist(ivpath,maxfile,filelist):
     #閾値以上のファイルのリストを返す
     list = []
     for item in filelist:
-        if(calc_cos(ivpath,filelist[np.argmax(tyouhuku)],item)>iv_th):
-            list.append(item)
+        if(calc_cos(ivpath,maxfile,item)>iv_th):
+            if(maxfile != item):
+                list.append(item)
             
     return list
-            
+ 
+           
 def get_filelist(path):
 # os.listdir('パス')
 # 指定したパス内の全てのファイルとディレクトリを要素とするリストを返す
@@ -151,7 +191,10 @@ if __name__ == '__main__':
     lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
     f.close()
     
+    """
     for line in lines2:
         line = line.replace("\n","")
         if(os.path.exists("{0}{1}".format(ivpath,line))):
             main(line,ivpath)
+    """
+    main("A01F0001",ivpath)
