@@ -10,11 +10,12 @@ import math
 np.set_printoptions(threshold=np.inf)
 
 roop_num = 5
-iv_th = 0.7
+iv_th = 0.65
 tyouhuku_th = 5
 anchor_th = 0.05
 
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
+anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/NHK0826/re_anchor1.txt"
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
@@ -22,7 +23,8 @@ def main(speaker_name,ivpath):
     filelist,num,filename = get_filelist(ivpath)#filelist:ループされていく毎に減っていくwavデータのリスト
     ori_filelist,ori_num,_ = get_filelist(ivpath)     #ori_filelist:クラスタ分けする全ての音声ファイル
     
-    cluster = np.zeros(num)
+    cluster = np.zeros(ori_num)
+    
     print("filename:{}".format(filename))
     
     for i in range(roop_num):
@@ -30,21 +32,73 @@ def main(speaker_name,ivpath):
         tyouhuku = cnt_tyouhuku_num(ivpath,filelist)#リストにある音声ファイルのcos類似度による重複回数のリストを返す
         
         maxfile = filelist[np.argmax(tyouhuku)]#重複回数が最大となる音声ファイルを探し、
+
         th_list = get_thlist(ivpath,maxfile,filelist)#もっとも重複した音声ファイルが多い音声ファイルの重複したwavファイルのリストを返す
         
         tyouhukulist = get_tyouhukulist(ivpath,filelist,th_list)#重重したwavファイルのリストを返す
 
         lis = np.array(make_tyouhukulist(filelist,tyouhukulist,num))#重複回数が閾値以上のファイルのリストを返してnumpy.arrayに変換
         
-        if((cnt_filenum(lis)/ori_num) < anchor_th):
-            break
+        #if((cnt_filenum(lis)/ori_num) < anchor_th):
+            #break
         
+        if(i == 0):
+            queslist = lis
+            
         for item in lis:
             delnum = search_filenum(ori_filelist,item,ori_num)
             cluster[delnum] = i+1#クラスタ分けされた音声ファイルにラベルを付ける
             filelist.remove(item)#クラスタ分けされた音声ファイルをリストから削除する
             
-    clusnum_to_filename(cluster,ori_num,ori_filelist)
+    #clusnum_to_filename(cluster,ori_num,ori_filelist)
+    
+    anslist = read_ansfile()
+    
+    acc,recall,precision,f_measure = test(ori_filelist,anslist,queslist)
+
+    print("acc:{0:.3f}\nrecall:{1:.3f}\nprecision:{2:.3f}\nf_measure:{3:.3f}".format(acc,recall,precision,f_measure))
+    
+def test(ori_filelist,anslist,queslist):
+    tp,tn,fp,fn = 0,0,0,0
+    for item in ori_filelist:
+        ansflag = search_file(anslist,item)
+        quesflag = search_file(queslist,item)
+        
+        if(ansflag == 1 and quesflag == 1):
+            tp += 1
+        if(ansflag == 0 and quesflag == 1):
+            fp += 1
+        if(ansflag == 1 and quesflag == 0):
+            fn += 1
+        if(ansflag == 0 and quesflag == 0):
+            tn += 1
+    
+    acc = (tp+tn)/(tp+tn+fp+fn)
+    
+    recall = float(tp/(tp+fn))
+    
+    precision = float(tp/(tp+fp))
+    
+    f_measure = float((2*recall*precision)/(recall + precision))
+    
+    return acc,recall,precision,f_measure
+    
+def read_ansfile():    
+    ans = []
+    f = open(anstxtpath)
+    lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
+    f.close()
+    
+    for line in lines2:
+        line = line.replace("\n","")
+        ans.append(line)
+    return ans       
+    
+def search_file(filelist,search_file):
+    for item in filelist:
+        if(item == search_file):
+            return 1                   #if exist
+    return 0                           #if not exist
         
 def clusnum_to_filename(cluster,ori_num,ori_filelist):
     for i in range(roop_num):
@@ -221,4 +275,4 @@ if __name__ == '__main__':
         if(os.path.exists("{0}{1}".format(ivpath,line))):
             main(line,ivpath)
     """
-    main("A01F0001",ivpath)
+    main("NHK0826",ivpath)
