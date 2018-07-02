@@ -14,14 +14,15 @@ tyouhuku_th = 10
 anchor_th = 0.05
 
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
-anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/NHK1112/re_anchor1.txt"
+
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
+    anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/{0}/re_anchor1.txt".format(speaker_name)
     
     filelist,num,filename = get_filelist(ivpath)#filelist:ループされていく毎に減っていくwavデータのリスト
     ori_filelist,ori_num,_ = get_filelist(ivpath)     #ori_filelist:クラスタ分けする全ての音声ファイル
-    anslist = read_ansfile()
+    anslist = read_ansfile(anstxtpath)
     cluster = np.zeros(ori_num)
     all_anchor = []
     anchor_num = 0
@@ -84,7 +85,7 @@ def test(ori_filelist,anslist,queslist):
     
     return acc,recall,precision,f_measure
     
-def read_ansfile():    
+def read_ansfile(anstxtpath):    
     ans = []
     f = open(anstxtpath)
     lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
@@ -267,14 +268,15 @@ def print_cos(wavpath,ivpath,filelist):
 if __name__ == '__main__':
     #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
     ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
-    f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/A01name.txt')
+    f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/newslist.txt')
     lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
     f.close()
     
-    """
+    
     for line in lines2:
         line = line.replace("\n","")
         if(os.path.exists("{0}{1}".format(ivpath,line))):
             main(line,ivpath)
-    """
-    main("NHK1112",ivpath)
+            print("\n")
+    
+    #main("NHK1112",ivpath)

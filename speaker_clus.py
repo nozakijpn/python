@@ -9,21 +9,24 @@ import math
 
 np.set_printoptions(threshold=np.inf)
 
-roop_num = 5
-iv_th = 0.65
-tyouhuku_th = 5
+roop_num = 100
+iv_th = 0.6
+tyouhuku_th = 10
 anchor_th = 0.05
 
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
-anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/NHK0826/re_anchor1.txt"
+
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
+    anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/{0}/re_anchor1.txt".format(speaker_name)
     
     filelist,num,filename = get_filelist(ivpath)#filelist:ループされていく毎に減っていくwavデータのリスト
     ori_filelist,ori_num,_ = get_filelist(ivpath)     #ori_filelist:クラスタ分けする全ての音声ファイル
-    
+    anslist = read_ansfile(anstxtpath)
     cluster = np.zeros(ori_num)
+    all_anchor = []
+    anchor_num = 0
     
     print("filename:{}".format(filename))
     
@@ -39,22 +42,27 @@ def main(speaker_name,ivpath):
 
         lis = np.array(make_tyouhukulist(filelist,tyouhukulist,num))#重複回数が閾値以上のファイルのリストを返してnumpy.arrayに変換
         
-        #if((cnt_filenum(lis)/ori_num) < anchor_th):
-            #break
+        if((cnt_filenum(lis)/ori_num) < anchor_th):
+            if(anchor_num == 0):
+                anchor_num = i
+            break
         
         if(i == 0):
-            queslist = lis
+            queslist1 = lis
+        if(i == 1):
+            queslist2 = lis
             
         for item in lis:
             delnum = search_filenum(ori_filelist,item,ori_num)
             cluster[delnum] = i+1#クラスタ分けされた音声ファイルにラベルを付ける
             filelist.remove(item)#クラスタ分けされた音声ファイルをリストから削除する
-            
-    #clusnum_to_filename(cluster,ori_num,ori_filelist)
+            all_anchor.append(item)
+     
+    print("anchor_num is:{}\n".format(anchor_num))
     
-    anslist = read_ansfile()
+    #clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num)#クラスタ分けの数字からファイル名をクラスタ毎に取り出す
     
-    acc,recall,precision,f_measure = test(ori_filelist,anslist,queslist)
+    acc,recall,precision,f_measure = test(ori_filelist,anslist,queslist1)
 
     print("acc:{0:.3f}\nrecall:{1:.3f}\nprecision:{2:.3f}\nf_measure:{3:.3f}".format(acc,recall,precision,f_measure))
     
@@ -73,6 +81,8 @@ def test(ori_filelist,anslist,queslist):
         if(ansflag == 0 and quesflag == 0):
             tn += 1
     
+    print("tp:{0} tn:{1} fp:{2} fn:{3}".format(tp,tn,fp,fn))
+    
     acc = (tp+tn)/(tp+tn+fp+fn)
     
     recall = float(tp/(tp+fn))
@@ -83,7 +93,7 @@ def test(ori_filelist,anslist,queslist):
     
     return acc,recall,precision,f_measure
     
-def read_ansfile():    
+def read_ansfile(anstxtpath):    
     ans = []
     f = open(anstxtpath)
     lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
@@ -100,8 +110,8 @@ def search_file(filelist,search_file):
             return 1                   #if exist
     return 0                           #if not exist
         
-def clusnum_to_filename(cluster,ori_num,ori_filelist):
-    for i in range(roop_num):
+def clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num):
+    for i in range(anchor_num):
         print("cluster_{0}".format(i+1))
         for j in range(ori_num):
             if(cluster[j] == i+1):
@@ -264,15 +274,17 @@ def print_cos(wavpath,ivpath,filelist):
                           abs(get_time(wavpath,item) - get_time(wavpath,item2)),calc_cos(ivpath,item,item2)))
 
 if __name__ == '__main__':
-    ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
-    f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/A01name.txt')
+    #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
+    ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
+    f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/newslist.txt')
     lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
     f.close()
     
-    """
+    
     for line in lines2:
         line = line.replace("\n","")
         if(os.path.exists("{0}{1}".format(ivpath,line))):
             main(line,ivpath)
-    """
-    main("NHK0826",ivpath)
+            print("\n")
+    
+    #main("NHK1112",ivpath)
