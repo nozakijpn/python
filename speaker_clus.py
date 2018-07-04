@@ -11,13 +11,16 @@ iv_th = 0.6
 tyouhuku_th = 10
 anchor_th = 0.05
 
+mode = "single"
+single_filename = "NHK0826"
+
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/sph/"
 
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
     
-    test_anchor_num = 1
+    test_anchor_num = 1#評価したいアンカーのクラスタ番号の指定
     anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/{0}/re_anchor{1}.txt".format(speaker_name,test_anchor_num)
     
     ivmodule = iv_module(roop_num,iv_th,tyouhuku_th,anchor_th)
@@ -64,17 +67,20 @@ def main(speaker_name,ivpath):
     print("acc:{0:.3f}\nrecall:{1:.3f}\nprecision:{2:.3f}\nf_measure:{3:.3f}".format(acc,recall,precision,f_measure))
     
 if __name__ == '__main__':
-    #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
-    ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
-    f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/newslist.txt')
-    lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
-    f.close()
     
-    
-    for line in lines2:
-        line = line.replace("\n","")
-        if(os.path.exists("{0}{1}".format(ivpath,line))):
-            main(line,ivpath)
-            print("\n")
-    
-    #main("NHK1112",ivpath)
+    if(mode == "multi"):
+        #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
+        ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
+        f = open('/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/newslist.txt')
+        lines2 = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
+        f.close()
+        
+        
+        for line in lines2:
+            line = line.replace("\n","")
+            if(os.path.exists("{0}{1}".format(ivpath,line))):
+                main(line,ivpath)
+                print("\n")
+                
+    if(mode == "single"):
+        main(single_filename,ivpath)
