@@ -17,7 +17,8 @@ wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data
 
 def main(speaker_name,ivpath):
     ivpath = "{0}{1}/".format(ivpath,speaker_name)
-    anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/{0}/re_anchor1.txt".format(speaker_name)
+    test_anchor_num = 1
+    anstxtpath = "/home/nozaki/speaker_clustering/news_kotae/{0}/re_anchor{1}.txt".format(speaker_name,test_anchor_num)
     
     ivmodule = iv_module(roop_num,iv_th,tyouhuku_th,anchor_th)
     
@@ -53,7 +54,8 @@ def main(speaker_name,ivpath):
      
     print("anchor_num is:{}\n".format(anchor_num))
     
-    #clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num)#クラスタ分けの数字からファイル名をクラスタ毎に取り出す
+    #ivmodule.all_clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num)#クラスタ分けの数字からファイル名をクラスタ毎に取り出す
+    queslist = ivmodule.clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num,test_anchor_num)
     
     acc,recall,precision,f_measure = ivmodule.test(ori_filelist,anslist,queslist)
 

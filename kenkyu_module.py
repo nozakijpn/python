@@ -61,13 +61,22 @@ class iv_module:
                 return 1                   #if exist
         return 0                           #if not exist
             
-    def clusnum_to_filename(self,cluster,ori_num,ori_filelist,anchor_num):
+    def all_clusnum_to_filename(self,cluster,ori_num,ori_filelist,anchor_num):
         for i in range(anchor_num):
             print("cluster_{0}".format(i+1))
             for j in range(ori_num):
                 if(cluster[j] == i+1):
                     print(ori_filelist[j])
             print("\n")
+    
+    def clusnum_to_filename(self,cluster,ori_num,ori_filelist,anchor_num,test_anchor_num):
+        speaker_list = []
+        for i in range(ori_num):
+            if(cluster[i] == test_anchor_num):
+                #print(ori_filelist[i])
+                speaker_list.append(ori_filelist[i])
+        #print("\n")
+        return np.array(speaker_list)
     
     def cnt_filenum(self,filelist):
         filelist = np.array(filelist)
