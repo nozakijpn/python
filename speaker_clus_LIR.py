@@ -11,6 +11,7 @@ iv_th = 0.8
 tyouhuku_th = 10
 anchor_th = 0.01
 test_anchor_num = 1#評価したいアンカーのクラスタ番号の指定
+splice_num = 10
 
 mode = "single"
 single_filename = "LIRG63"
@@ -54,9 +55,12 @@ def main(speaker_name,ivpath):
             cluster[delnum] = i+1#クラスタ分けされた音声ファイルにラベルを付ける
             filelist.remove(item)#クラスタ分けされた音声ファイルをリストから削除する
             all_anchor.append(item)
-     
-    print("anchor_num is:{}\n".format(anchor_num))
     
+    cluster = ivmodule.speaker_0reset(cluster,ori_num,anchor_num)
+    
+    cluster,anchor_num = ivmodule.speaker_splice(cluster,ori_filelist,ori_num,anchor_num)
+    cluster = ivmodule.speaker_heikatuka(cluster,ori_filelist,ori_num,anchor_num)
+    print("anchor_num is:{}\n".format(anchor_num))
     ivmodule.all_clusnum_to_filename(cluster,ori_num,ori_filelist,anchor_num)#クラスタ分けの数字からファイル名をクラスタ毎に取り出す
     
 if __name__ == '__main__':
