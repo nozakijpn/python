@@ -25,7 +25,7 @@ anchor_th = 0.05
 test_anchor_num = 1#評価したいアンカーのクラスタ番号の指定
 
 mode = "single"
-single_filename = "NHK0826"
+single_filename = "NHK1114"
 
 wavpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/news/"
 ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
