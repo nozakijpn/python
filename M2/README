@@ -1,0 +1,12 @@
+connect_timeonly.py
+時間情報のみでwavデータを結合する
+connect_time_iv.py
+時間情報とi-vectorの数値で結合する
+
+
+usage
+・connectのいずれかを実行
+・作られるconnect_{}.shを実行
+・i-vectorを抽出
+・抽出したi-vectorをrename_{}.shでリネーム。
+・speaker_clus3.pyなどでクラスタリング

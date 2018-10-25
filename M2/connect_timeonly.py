@@ -11,7 +11,7 @@ newsname = "NHK0826"
 th_iv = 0.8
 savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed"
 wavpath = "/home/nozaki/newsdata/cutwav/vdet_wav"
-f1 = open("/home/nozaki/newsdata/rename_{}.sh".format(newsname),"w")
+
 
 f = open("/home/nozaki/newsdata/txt/vdet_txt/{}.txt".format(newsname),"r")#音声切り出しのテキスト
 strings = f.readlines()
@@ -69,38 +69,29 @@ f.close
 sox_list = []
 
 f = open("/home/nozaki/newsdata/connect_{}.sh".format(newsname),"w")
-f.write("/home/nozaki/newsdata/cutwav/vdet_soxed/*")
 flag_skip = 0
-flag_pred = 0
 
 for i,item in enumerate(interval_list):
     print(i,i+1,i+2,interval_list[i],interval_time[i])
     
-    if(i < len(interval_list)-1):#first line
+    if(i < np.array(interval_list).shape[0]):#first line
         if(interval_time[i]<th_time):
             flag_time = 1
         else:
             flag_time = 0
-        
+        """
         if(interval_list[i+1] == interval_list[i]):
             flag_next = 1
         else:
             flag_next = 0
-        
-        if(interval_list[i-1] == interval_list[i]):
-            flag_pred = 1
-        else:
-            flag_pred = 0
-
+        """
         #under if is important method!!
         
         ivname1 = "{}_{:04d}".format(newsname,i+1)
         ivname2 = "{}_{:04d}".format(newsname,i+2)
         
-        #if(flag_time == 1):#connect method
-        if(flag_time == 1 and flag_next == 1):#connect method
-            sox_list.append(i+1)
-        elif(flag_time == 1 and flag_next == 0 and flag_pred == 1):#connect method2
+        #if(flag_time == 1 and ivmodule.calc_cos(ivpath,ivname1,ivname2)>th_iv):#connect method
+        if(flag_time == 1):#connect method
             sox_list.append(i+1)
         else:#cut method
             sox_cnt += 1
@@ -111,58 +102,16 @@ for i,item in enumerate(interval_list):
                 for item1 in sox_list:
                     print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
                     f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
-                    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
                 print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
                 f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
                 sox_list = []
             else:
-                f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
                 print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
                 f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
                 sox_list = []
 
-sox_cnt += 1
-if(interval_time[i]<th_time and interval_list[i-1] == interval_list[i]):
-    sox_list.append(i+1)
-    sox_list.append(i+2)
-    print("sox ")
-    f.write("sox ")
-    for item1 in sox_list:
-        f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
-        print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
-        f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
-    print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
-    f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
-elif(sox_list):
-    sox_list.append(i+1)
-    print("sox ")
-    f.write("sox ")
-    for item1 in sox_list:
-        f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
-        print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
-        f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
-    print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
-    f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
-    sox_list = []
-    sox_list.append(i+2)
-    sox_cnt += 1
-    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
-    print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-    f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-else:
-    sox_list.append(i+1)
-    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
-    print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-    f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-    sox_list = []
-    sox_list.append(i+2)
-    sox_cnt += 1
-    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
-    print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-    f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
 
-"""
-sox_list.append(len(interval_list))
+sox_list.append(np.array(interval_list).shape[0]+1)
 sox_cnt += 1
 if len(sox_list)!=1:
     print(sox_list)
@@ -179,7 +128,8 @@ else:
     f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
     sox_list = []
     sox_list.append(i+1)
-"""
+
+
 f.close
 
 
