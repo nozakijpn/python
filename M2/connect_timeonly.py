@@ -3,16 +3,16 @@
 #なぜかspyder上ではうまくconnect_{}.shが書き込めないので、コマンドライン上で動かす必要あり
 
 import numpy as np
-from kenkyu_module_M2 import iv_module
+from kenkyu_module import iv_module
 
 flame_time = 0.02321995464 #vdetの１フレームの秒数
 th_time = 0.5 #インターバルの時間の閾値
 newsname = "NHK0826"
 th_iv = 0.8
-savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed"
+savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed/timeonly"
 wavpath = "/home/nozaki/newsdata/cutwav/vdet_wav"
 
-
+f1 = open("/home/nozaki/newsdata/rename_{}.sh".format(newsname),"w")
 f = open("/home/nozaki/newsdata/txt/vdet_txt/{}.txt".format(newsname),"r")#音声切り出しのテキスト
 strings = f.readlines()
 
@@ -100,12 +100,14 @@ for i,item in enumerate(interval_list):
                 print("sox ")
                 f.write("sox ")
                 for item1 in sox_list:
+                    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
                     print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
                     f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
                 print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
                 f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
                 sox_list = []
             else:
+                f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
                 print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
                 f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
                 sox_list = []
@@ -118,12 +120,14 @@ if len(sox_list)!=1:
     print("sox ")
     f.write("sox ")
     for item1 in sox_list:
+        f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
         print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
         f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
     print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
     f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
 
 else:
+    f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
     print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
     f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
     sox_list = []

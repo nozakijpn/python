@@ -9,7 +9,7 @@ flame_time = 0.02321995464 #vdetの１フレームの秒数
 th_time = 0.5 #インターバルの時間の閾値
 newsname = "NHK0826"
 th_iv = 0.8
-savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed"
+savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed/background_noise"
 wavpath = "/home/nozaki/newsdata/cutwav/vdet_wav"
 f1 = open("/home/nozaki/newsdata/rename_{}.sh".format(newsname),"w")
 

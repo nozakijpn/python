@@ -12,8 +12,7 @@ import wave
 import numpy as np
 
 basepath = "/home/nozaki/newsdata"
-#filelist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
-filelist = ["NHK0826","NHK1112","NHK1113","NHK1114"]
+filelist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
 
 for filename in filelist:
     f = open("{}/kakiokoshi_txt/{}.txt".format(basepath,filename), "r")
@@ -37,7 +36,8 @@ for filename in filelist:
         data[1] = data[1] * 100
         data[0],data[1] = int(data[0]),int(data[1])
         
-        f1 = open("{}/anchorlist/{}_anchor1.txt".format(basepath,filename), "r")
+        #f1 = open("{}/anchorlist/{}_anchor1.txt".format(basepath,filename), "r")
+        f1 = open("{}/anchorlist/{}_allanchor.txt".format(basepath,filename), "r")
         anchor_data = f1.readlines()
         for item2 in anchor_data:
             item2 = int(item2)
@@ -51,7 +51,7 @@ for filename in filelist:
     f = open("{}/txt/vdet_txt/{}.txt".format(basepath,filename), "r")
     strings = f.readlines()
     
-    output = open("{}/txt/vdet_txt/{}_anchorlist.txt".format(basepath,filename), "w")
+    output = open("{}/txt/vdet_txt/{}_all_anchorlist.txt".format(basepath,filename), "w")
     
     for i,line in enumerate(strings):
         data = line.split()
