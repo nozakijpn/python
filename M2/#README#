@@ -3,6 +3,7 @@ connect_timeonly.py
 connect_time_iv.py
 時間情報とi-vectorの数値で結合する
 
+prob_connect.pyに上のやつをまとめた
 
 usage
 ・python prob_connect.py {num}を実行

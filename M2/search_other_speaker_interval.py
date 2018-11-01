@@ -29,7 +29,6 @@ for path in path_list:
             
             if(line.find("_S") != -1):
                 sflag = 1
-                #print(line)
 
             line = re.sub("_S\w*","",line)
             line = re.sub("_E\w*","",line)
@@ -37,12 +36,15 @@ for path in path_list:
             line = line.split()
             if(line[1]=="-1" and sflag == 1):
                 if(i!=8):
-                    if(line[2]==pre[2] and pre[1]=="-1"):
-                        times.append(int(float(line[0])-float(pre[0])))
-                        print("\n")
-                        print(pre[2])
-                        print(line[2])
-                        print(float(line[0])-float(pre[0]))
+                    if(line[2]!=pre[2] and pre[1]=="-1"):
+
+                        if(float(line[0])-float(pre[0])<100):
+                            print("\n")
+                            print(path)
+                            print(pre[2])
+                            print(line[2])
+                            times.append(int(float(line[0])-float(pre[0])))
+                            print(float(line[0])-float(pre[0]))
                 
             pre = line    
     f.close

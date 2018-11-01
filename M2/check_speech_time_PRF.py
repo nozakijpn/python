@@ -9,13 +9,12 @@ Created on Tue Oct  2 15:45:11 2018
 import wave
 import numpy as np
 
-#filelist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
-filelist = ["NHK0826","NHK1112","NHK1113","NHK1114"]
+filelist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
 for filename in filelist:
     f = open("/home/nozaki/newsdata/kakiokoshi_txt/{}.txt".format(filename), "r")
     strings = f.readlines()
     
-    wf = wave.open("/home/nozaki/newsdata/{}.wav".format(filename) , "r" )
+    wf = wave.open("/home/nozaki/newsdata/wav/{}.wav".format(filename) , "r" )
     time = float(wf.getnframes()) / wf.getframerate()
     time = time * 100
     

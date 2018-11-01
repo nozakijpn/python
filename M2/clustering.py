@@ -22,9 +22,11 @@ mode = "multi"#single or multi
 single_filename = "NHK1112"
 
 wavpath = "/home/nozaki/newsdata/cutwav/vdet_wav/"
-ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
+ivpath = "/home/nozaki/speaker_clustering/news_i-vector/iv/raw/"
 
 newslist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
+
+print("iv_th : {}".format(iv_th))
 
 if(mode=="single"):
     newslist = [single_filename]
@@ -33,7 +35,7 @@ f_measurelist = []
 #def main(speaker_name,ivpath):
 for speaker_name in newslist:
     print(speaker_name)
-    print(iv_th)
+    #print(iv_th)
     #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
     #ivpath = "{0}{1}/".format(ivpath,speaker_name)
     

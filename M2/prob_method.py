@@ -19,8 +19,12 @@ mode = 1 : timeonly
 mode = 2 : time and iv
 mode = 3 : background noise
 """
+f = open("/home/nozaki/newsdata/connect.sh","w")
+f1 = open("/home/nozaki/newsdata/rename.sh","w")
 
 wavpath = "/home/nozaki/newsdata/cutwav/vdet_wav"
+ivpath = "/home/nozaki/speaker_clustering/news_i-vector/iv/raw/"
+
 if(mode == 1):
     savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed/timeonly"
 elif(mode == 2):
@@ -28,10 +32,7 @@ elif(mode == 2):
 elif(mode == 3):
     savepath = "/home/nozaki/newsdata/cutwav/vdet_soxed/background_noise"
 
-
-
-f = open("/home/nozaki/newsdata/connect.sh","w")
-f1 = open("/home/nozaki/newsdata/rename.sh","w")
+f.write("rm {} -r\nmkdir {}\n".format(savepath,savepath))
 
 for newsname in newslist:
     f3 = open("/home/nozaki/newsdata/txt/vdet_txt/{}.txt".format(newsname),"r")#音声切り出しのテキスト
@@ -49,7 +50,7 @@ for newsname in newslist:
     f3.close
 
     #ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/soturon_news_ivdata/"
-    ivpath = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/iv/raw/"
+    
     #ivpath = "{0}{1}/".format(ivpath,newsname)
 
     ivmodule = iv_module(0,0.8,5,0.05,ivpath,wavpath)
@@ -150,11 +151,13 @@ for newsname in newslist:
             f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
 
         else:
-            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
+            sox_list = []
+            sox_list.append(i+2)
+            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
             print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
             f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-            sox_list = []
-            sox_list.append(i+1)
+            
+            
 
     elif(mode == 2):
         for i,item in enumerate(interval_list):
@@ -212,11 +215,12 @@ for newsname in newslist:
             f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
 
         else:
-            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
+            sox_list = []
+            sox_list.append(i+2)
+            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
             print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
             f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
-            sox_list = []
-            sox_list.append(i+1)
+            
 
     elif(mode == 3):
         flag_skip = 0
@@ -312,8 +316,6 @@ for newsname in newslist:
 
     else:
         print("error please select 1 ,2 or 3")
+    f.write("cp {}/* -t /home/nozaki/speaker_clustering/news_i-vector/data/sph/\n".format(savepath))
     f.close
     f1.close
-
-
-

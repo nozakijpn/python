@@ -16,6 +16,10 @@ f1 = open("/home/nozaki/newsdata/rename_{}.sh".format(newsname),"w")
 f = open("/home/nozaki/newsdata/txt/vdet_txt/{}.txt".format(newsname),"r")#音声切り出しのテキスト
 strings = f.readlines()
 
+"""
+
+"""
+
 st = []
 end = []
 
