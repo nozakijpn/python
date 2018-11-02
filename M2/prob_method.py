@@ -315,7 +315,7 @@ for newsname in newslist:
             f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
 
     else:
-        print("error please select 1 ,2 or 3")
+        print("error please select number")
     f.write("cp {}/* -t /home/nozaki/speaker_clustering/news_i-vector/data/sph/\n".format(savepath))
     f.close
     f1.close

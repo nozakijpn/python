@@ -128,7 +128,8 @@ for speaker_name in newslist:
     queslist = queslist.tolist()
     acc,recall,precision,f_measure,tp,tn,fp,fn = ivmodule.test(ori_filelist,anslist,queslist)
     print("{},{},{},{}".format(acc,recall,precision,f_measure))
-    
+    for item in [tp,tn,fp,fn]:
+        calclist.append(item)
     
     """時間的な分散の云々かんぬん
     print(queslist)
@@ -136,14 +137,14 @@ for speaker_name in newslist:
     print(variance)
     """
 
-"""
+
     #print("anchor_num is:{}\n".format(anchor_num))
     #print("acc:{0:.3f}\nrecall:{1:.3f}\nprecision:{2:.3f}\nf_measure:{3:.3f}".format(acc,recall,precision,f_measure))
     #for i,item in enumerate(ori_filelist):
     #    print("{0} {1}".format(ori_filelist[i],int(cluster[i])))
 calclist = np.array(calclist)
 #print(calclist.shape)
-calclist = np.reshape(calclist,(6,4))
+calclist = np.reshape(calclist,(5,4))
 #print(calclist)
 calc = np.sum(calclist,0)
 tp = calc[0]
@@ -154,6 +155,5 @@ acc = (tp+tn)/(tp+tn+fp+fn)
 recall = float(tp/(tp+fn))      
 precision = float(tp/(tp+fp))
 f_measure = float((2*recall*precision)/(recall + precision))
-print("total {},{},{},{}".format(acc*100,recall*100,precision*100,f_measure*100))
-print("std : {}".format(np.std(np.array(f_measurelist))*100))
-"""
+print("total\n{},{},{},{}\n".format(acc*100,recall*100,precision*100,f_measure*100))
+#print("std : {}".format(np.std(np.array(f_measurelist))*100))

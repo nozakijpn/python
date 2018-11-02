@@ -14,7 +14,7 @@ pre = ""
 
 path_list = glob.glob("/home/nozaki/newsdata/lbl/NHK*_v.lbl")
 #f = open("/home/nozaki/newsdata/lbl/NHK0826_v.lbl","r")
-
+pre = ["","",""]
 for path in path_list:
     print(path)
     f = open(path,"r")
@@ -37,14 +37,15 @@ for path in path_list:
             line = line.split()
             if(line[1]=="-1" and sflag == 1):
                 if(i!=8):
-                    if(line[2]==pre[2] and pre[1]=="-1"):
+                    if(line[2]==pre[2] and pre[1]=="-1" and float(line[0])-float(pre[0]) > 0):
                         times.append(int(float(line[0])-float(pre[0])))
                         print("\n")
                         print(pre[2])
                         print(line[2])
                         print(float(line[0])-float(pre[0]))
                 
-            pre = line    
+            if(line[1]=="-1"):
+                pre = line    
     f.close
 print("\n")
 print(np.average(np.array(times)))

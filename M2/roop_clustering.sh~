@@ -1,0 +1,4 @@
+for i in 0.8 0.9
+do
+    python clustering.py $i
+done

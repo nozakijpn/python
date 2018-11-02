@@ -21,6 +21,7 @@ for path in path_list:
     times = []
     lines = f.readlines()
     flag = 0
+    pre = ["","",""]
     for i,line in enumerate(lines):
         sflag = 0
         if(i>7):
@@ -45,8 +46,8 @@ for path in path_list:
                             print(line[2])
                             times.append(int(float(line[0])-float(pre[0])))
                             print(float(line[0])-float(pre[0]))
-                
-            pre = line    
+            if(line[1]=="-1"):
+                pre = line
     f.close
 print("\n")
 print(np.average(np.array(times)))
