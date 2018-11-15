@@ -13,3 +13,14 @@ usage
 ・i-vectorを抽出
 ・抽出したi-vectorをrename_{}.shでリネーム。
 ・python clustering.pyでクラスタリング
+
+acc_sox.py
+・get_connect_iv.shを実行したあとで実行すると、soxの精度が出る
+
+search_other_speaker_interval.py
+search_same_speaker_interval.py
+・発話間の時間が同じ話者同士とそうでない場合のふたとおりで時間を計算、出力
+
+mk_connect_wav.py
+・connect.shではただつなげるだけだったが、こちらでは同じ話者は発話区間を範囲で切り出すためにtrimを行う。
+・get_connect_iv_v2.shに組み込んでいるため、これを実行すれば動く。

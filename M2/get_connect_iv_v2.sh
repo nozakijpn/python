@@ -10,8 +10,9 @@ python prob_method.py $1
 rm -r /home/nozaki/speaker_clustering/news_i-vector/data/sph 
 mkdir /home/nozaki/speaker_clustering/news_i-vector/data/sph
 cd /home/nozaki/newsdata
-sh connect.sh
+#sh connect.sh
 mv connect.sh /home/nozaki/github/python/M2/tooltxt/connect.txt
+python /home/nozaki/github/python/M2/mk_connect_wav.py
 cp rename.sh /home/nozaki/github/python/M2/tooltxt/rename.txt
 
 cd /home/nozaki/speaker_clustering/news_i-vector

@@ -9,14 +9,23 @@ Created on Tue Oct 23 11:52:01 2018
 import re
 import numpy as np
 import glob
+import sys
+from scipy import stats
+li = []
+def harmonic_mean(x,y):
+    return 2/((1/x)+(1/y))
 
+cnt = 0
+th = 0
+total = 0
 pre = ""
 
 path_list = glob.glob("/home/nozaki/newsdata/lbl/NHK*_v.lbl")
 #f = open("/home/nozaki/newsdata/lbl/NHK0826_v.lbl","r")
 pre = ["","",""]
+
 for path in path_list:
-    print(path)
+    #print(path)
     f = open(path,"r")
     times = []
     lines = f.readlines()
@@ -39,13 +48,23 @@ for path in path_list:
                 if(i!=8):
                     if(line[2]==pre[2] and pre[1]=="-1" and float(line[0])-float(pre[0]) > 0):
                         times.append(int(float(line[0])-float(pre[0])))
+                        """
                         print("\n")
                         print(pre[2])
                         print(line[2])
                         print(float(line[0])-float(pre[0]))
-                
+                        """
+                        total += 1
+                        if(float(line[0])-float(pre[0])<th):
+                            cnt += 1
+
             if(line[1]=="-1"):
                 pre = line    
     f.close
+
 print("\n")
-print(np.average(np.array(times)))
+print(total)
+print(cnt)
+samepercent = float(cnt)/total
+print(samepercent)
+#print(np.average(np.array(times)))

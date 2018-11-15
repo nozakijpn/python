@@ -9,10 +9,10 @@ from scipy.spatial.distance import correlation
 args = sys.argv
 
 flame_time = 0.02322 #vdetの１フレームの秒数
-th_time = 0.5 #インターバルの時間の閾値
+th_time = 1.16#インターバルの時間の閾値
 #newsname = "NHK0826"
 newslist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
-th_iv = 0.8
+th_iv = 0.5
 th_pearson = 1.0
 
 mode = int(args[1])
@@ -22,6 +22,7 @@ mode = 2 : time and iv
 mode = 3 : background noise
 mode = 4 : background noise and time
 mode = 5 : background noise use pearson for interval time
+mode = 6 : mode5 + time
 """
 f = open("/home/nozaki/newsdata/connect.sh","w")
 f1 = open("/home/nozaki/newsdata/rename.sh","w")
@@ -542,6 +543,125 @@ for newsname in newslist:
             f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
 
     elif(mode == 6):
+        flag_skip = 0
+        flag_pred = 0
+
+        for i,item in enumerate(interval_list):
+            print(i,i+1,i+2,interval_list[i],interval_time[i])
+            
+            if(i < len(interval_list)-1):#first line
+                if(interval_time[i]<th_time):
+                    flag_time = 1
+                else:
+                    flag_time = 0
+                
+                interval_percent_next,interval_percent_now = [],[]
+                
+                interval_percent_next.append(list_bgm[i+1])
+                interval_percent_next.append(list_noise[i+1])
+                interval_percent_next.append(list_pause[i+1])
+                interval_percent_now.append(list_bgm[i])
+                interval_percent_now.append(list_noise[i])
+                interval_percent_now.append(list_pause[i])
+                if(1 - correlation(interval_percent_next, interval_percent_now) > th_pearson):
+                    flag_next = 1
+                else:
+                    flag_next = 0
+                
+                interval_percent_pre,interval_percent_now = [],[]
+                
+                interval_percent_pre.append(list_bgm[i-1])
+                interval_percent_pre.append(list_noise[i-1])
+                interval_percent_pre.append(list_pause[i-1])
+                interval_percent_now.append(list_bgm[i])
+                interval_percent_now.append(list_noise[i])
+                interval_percent_now.append(list_pause[i])
+
+                if(1 - correlation(interval_percent_pre, interval_percent_now) > th_pearson):
+                    flag_pred = 1
+                else:
+                    flag_pred = 0
+
+                #under if is important method!!
+                
+                ivname1 = "{}_{:04d}".format(newsname,i+1)
+                ivname2 = "{}_{:04d}".format(newsname,i+2)
+                
+                #if(flag_time == 1):#connect method
+                if(flag_time == 1 and flag_next == 1):#connect method
+                    sox_list.append(i+1)
+                elif(flag_time == 1 and flag_next == 0 and flag_pred == 1):#connect method2
+                    sox_list.append(i+1)
+                else:#cut method
+                    sox_cnt += 1
+                    sox_list.append(i+1)
+                    if len(sox_list)!=1:
+                        print("sox ")
+                        f.write("sox ")
+                        for item1 in sox_list:
+                            print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+                            f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+                            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
+                        print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+                        f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+                        sox_list = []
+                    else:
+                        f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
+                        print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+                        f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+                        sox_list = []
+
+        sox_cnt += 1
+        interval_percent_pre,interval_percent_now = [],[]
+        
+        interval_percent_pre.append(list_bgm[i-1])
+        interval_percent_pre.append(list_noise[i-1])
+        interval_percent_pre.append(list_pause[i-1])
+        interval_percent_now.append(list_bgm[i])
+        interval_percent_now.append(list_noise[i])
+        interval_percent_now.append(list_pause[i])
+
+        if(flag_time == 1 and (1 - correlation(interval_percent_pre, interval_percent_now) > th_pearson)):
+            sox_list.append(i+1)
+            sox_list.append(i+2)
+            print("sox ")
+            f.write("sox ")
+            for item1 in sox_list:
+                f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
+                print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+                f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+            print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+            f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+        elif(sox_list):
+            sox_list.append(i+1)
+            print("sox ")
+            f.write("sox ")
+            for item1 in sox_list:
+                f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,item1))
+                print("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+                f.write("{}/{}_{:04d}.wav ".format(wavpath,newsname,item1))
+            print("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+            f.write("{}/soxed_{}_{:04d}.wav\n".format(savepath,newsname,sox_cnt))
+            sox_list = []
+            sox_list.append(i+2)
+            sox_cnt += 1
+            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
+            print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+            f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+        else:
+            sox_list.append(i+1)
+            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
+            print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+            f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+            sox_list = []
+            sox_list.append(i+2)
+            sox_cnt += 1
+            f1.write("cp soxed_{}_{:04d}.y {}_{:04d}.y\n".format(newsname,sox_cnt,newsname,sox_list[0]))
+            print("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+            f.write("cp {}/{}_{:04d}.wav {}/soxed_{}_{:04d}.wav\n".format(wavpath,newsname,sox_list[0],savepath,newsname,sox_cnt))
+
+
+    elif(mode == 7):
         flag_skip = 0
         flag_pred = 0
 
