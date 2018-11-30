@@ -11,9 +11,9 @@ rm -r /home/nozaki/speaker_clustering/news_i-vector/data/sph
 mkdir /home/nozaki/speaker_clustering/news_i-vector/data/sph
 cd /home/nozaki/newsdata
 sh connect.sh
-mv connect.sh /home/nozaki/github/python/M2/tooltxt/connect.txt
-cp rename.sh /home/nozaki/github/python/M2/tooltxt/rename.txt
-
+mv connect.sh /home/nozaki/tooltxt/
+cp rename.sh /home/nozaki/tooltxt/
+<<comment
 cd /home/nozaki/speaker_clustering/news_i-vector
 sh delete_nozaki.sh
 sh make_i-vector_nozaki.sh
@@ -23,3 +23,4 @@ mv /home/nozaki/newsdata/rename.sh ./
 sh rename.sh
 rm soxed* rename.sh
 #mv rename.sh /home/nozaki/github/python/M2/rename.txt
+comment

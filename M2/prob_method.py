@@ -9,11 +9,12 @@ from scipy.spatial.distance import correlation
 args = sys.argv
 
 flame_time = 0.02322 #vdetの１フレームの秒数
-th_time = 1.16#インターバルの時間の閾値
+th_time = 0.99#インターバルの時間の閾値
 #newsname = "NHK0826"
 newslist = ["NHK0825","NHK0826","NHK1112","NHK1113","NHK1114"]
 th_iv = 0.5
-th_pearson = 1.0
+th_pearson = 0.75
+shortest = 0.5
 
 mode = int(args[1])
 """
@@ -588,9 +589,7 @@ for newsname in newslist:
                 ivname2 = "{}_{:04d}".format(newsname,i+2)
                 
                 #if(flag_time == 1):#connect method
-                if(flag_time == 1 and flag_next == 1):#connect method
-                    sox_list.append(i+1)
-                elif(flag_time == 1 and flag_next == 0 and flag_pred == 1):#connect method2
+                if((flag_time == 1 and flag_next == 1)or interval_time[i]<shortest):#connect method
                     sox_list.append(i+1)
                 else:#cut method
                     sox_cnt += 1
@@ -692,8 +691,6 @@ for newsname in newslist:
                 #if(flag_time == 1):#connect method
                 if(flag_time == 1 or flag_next == 1):#connect method
                     sox_list.append(i+1)
-                elif(flag_time == 1 or (flag_next == 0 and flag_pred == 1)):#connect method2
-                    sox_list.append(i+1)
                 else:#cut method
                     sox_cnt += 1
                     sox_list.append(i+1)
@@ -714,7 +711,7 @@ for newsname in newslist:
                         sox_list = []
 
         sox_cnt += 1
-        if(interval_time[i]<th_time or interval_list[i-1] == interval_list[i]):
+        if((interval_time[i]<th_time or interval_list[i-1] == interval_list[i]) or interval_time[i] < shortest ):
             sox_list.append(i+1)
             sox_list.append(i+2)
             print("sox ")
