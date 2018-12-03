@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 
 #th_time = float(sys.argv[1])
-path_lbl = "/home/nozaki/tooltxt" 
-#path_lbl = "./vdet_lbl_v" 
+#path_lbl = "/home/nozaki/tooltxt" 
+path_lbl = "./vdet_lbl_v" 
 list_lbl = glob.glob("{}/*NHK*lbl".format(path_lbl))
 list_hm = []
 
