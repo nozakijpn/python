@@ -16,6 +16,8 @@ path_list.sort()
 time_list = []
 name = ""
 
+cuttime = 1
+
 for item in path_list:
     wf = wave.open(item, "r" )
     time = float(wf.getnframes()) / wf.getframerate()
@@ -27,7 +29,8 @@ for item in path_list:
     	cnt = 1
     else:
     	cnt += 1
-    os.system("sox {} ../../sph/{}_{:04d}.wav trim 0.1 1.1\n".format(item,name,cnt))
+    os.system("sox {} ../../sph/{}_{:04d}.wav trim 0.1 {}\n".format(item,name,cnt,cuttime))
+    print("sox {} ../../sph/{}_{:04d}.wav trim 0.1 1.1\n".format(item,name,cnt))
    
 time_list = np.array(time_list)
 print(np.max(time_list))

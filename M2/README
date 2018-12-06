@@ -24,3 +24,14 @@ search_same_speaker_interval.py
 mk_connect_wav.py
 ・connect.shではただつなげるだけだったが、こちらでは同じ話者は発話区間を範囲で切り出すためにtrimを行う。
 ・get_connect_iv_v2.shに組み込んでいるため、これを実行すれば動く。
+
+check_balance.py
+バランス文で、何秒以上だと話者性を確保できるかを検証するためのプログラム。
+パラメータは、trimする秒数。
+実行する前に、sph内の音声データを削除する必要あり
+実行場所はバランス文があるディレクトリ内
+
+comp_same_or_other_iv.py
+i-vectorで、何秒以上だと話者性を確保できるかを検証するためのプログラム。
+check_balance.pyを実行後にiv/raw内で実行する。
+のちのち、ヒストグラムで表示する予定

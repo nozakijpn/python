@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 path_lbl = "./vdet_lbl_v" 
 list_lbl = glob.glob("{}/*NHK*lbl".format(path_lbl))
 list_hm = []
-
+th_time = 1
 weight1,weight2 = 1,2
 
 def weight_mean(x,y):
@@ -24,10 +24,15 @@ def harmonic_mean(x,y):
         y = 0.000001
     return 2/((1/x)+(1/y))
 
-th_time = 1.26
+th_time = 0.99
 shortest = 0
 list_same,list_other = [],[]
 list_per_same,list_per_other = [],[]
+cnt_same,cnt_other,cnt_shortest_same,cnt_shortest_other = 0,0,0,0
+
+#config of histgram
+bins = 100
+
 
 for newspath in list_lbl:
     f = open(newspath,"r")
@@ -40,15 +45,16 @@ for newspath in list_lbl:
         st.append(float(line[0]))
         end.append(float(line[1]))
         sp.append(line[2])
-
+        
         if(i!=0):
             if(end[i-1]<st[i]):
                 if(sp[i-1] == sp[i]):
                     list_same.append(st[i]-end[i-1])
+                    cnt_same += 1
                 elif(sp[i-1] != sp[i]):
+                    cnt_other += 1
                     list_other.append(st[i]-end[i-1])
-                    
-                    if(st[i]-end[i-1] < 1):
+                    if(st[i]-end[i-1] < th_time):
                         ti = st[i]
                         #print(newspath,sp[i-1],sp[i],end[i-1],st[i],st[i]-end[i-1])
                         print(newspath,sp[i-1],sp[i],end[i-1],st[i],"{}:{}".format(int(ti/60),int(ti)%60))
@@ -72,13 +78,13 @@ list_per_other.append(percent_other)
 plt.xlabel("time[s]")
 plt.ylabel("Num of speech data")
 plt.title("histogram of time plot (same speaker)")
-plt.hist(list_same,bins=200,range=(0,10))
+plt.hist(list_same,bins,range=(0,10))
 plt.show()
 
 plt.xlabel("time[s]")
 plt.ylabel("Num of speech data")
 plt.title("histogram of time plot (different speaker)")
-plt.hist(list_other,bins=200,range=(0,10))
+plt.hist(list_other,bins,range=(0,10))
 plt.show()
 
 print(len(list_lbl))
@@ -86,6 +92,9 @@ print(len(list_same))
 print("same ave",np.average(np.array(list_same)))
 print("same std",np.std(np.array(list_same)))
 print(len(list_other))
-print(shortest)
+
 print("different ave",np.average(np.array(list_other)))
 print("different std",np.std(np.array(list_other)))
+
+print("percent of same min{}sec\n".format(th_time),np.sum(list_same < th_time)/float(cnt_same))
+print("percent of different min{}sec\n".format(th_time),np.sum(list_other > th_time)/float(cnt_other))
