@@ -11,27 +11,34 @@ import os
 #path = "/home/nozaki/speaker_clustering/02_i-vector_system_with_ALIZE3.0/data/news/*.wav"
 #path = "/home/nozaki/newsdata/cutwav/vdet_wav/*.wav"
 path = "./*.wav"
+savepath = "../trim_short_balance"
 path_list = glob.glob(path)
 path_list.sort()
 time_list = []
 name = ""
 
-cuttime = 1
+cuttime = 0.3
+
+basename="JM110_JB10N044"
+basespeaker="JM110"
+
+th_shortest = 5
+
+trim_st = 2
 
 for item in path_list:
     wf = wave.open(item, "r" )
     time = float(wf.getnframes()) / wf.getframerate()
-    time_list.append(time)
-    result = item.replace("./","")
-    result = re.sub("_[a-xA-Z0-9_]*.raw.wav","",result)
-    if(name != result):
-    	name = result
-    	cnt = 1
-    else:
-    	cnt += 1
-    os.system("sox {} ../../sph/{}_{:04d}.wav trim 0.1 {}\n".format(item,name,cnt,cuttime))
-    print("sox {} ../../sph/{}_{:04d}.wav trim 0.1 1.1\n".format(item,name,cnt))
+    if(time > trim_st+cuttime):
+        time_list.append(time)
+        result = item.replace("./","")
+        result = re.sub("_[a-xA-Z0-9_]*.raw.wav","",result)
+        if(name != result):
+        	name = result
+        	cnt = 1
+        else:
+        	cnt += 1
+        os.system("sox {} {}/{}_{:04d}.wav trim {} {}\n".format(item,savepath,name,cnt,trim_st,cuttime))
+        print("sox {} {}/{}_{:04d}.wav trim {} {}\n".format(item,savepath,name,cnt,trim_st,cuttime))
    
-time_list = np.array(time_list)
-print(np.max(time_list))
-print(np.min(time_list))
+#time_list = np.array(time_list)
