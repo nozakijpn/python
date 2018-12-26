@@ -1,0 +1,113 @@
+meeting_bunkatu_org.sh
+
+L67-L69
+for x in `ls  -d LIR* MEETING` ; do #MEETING
+cp -r meeting/$x data/$x #ここで会議音声のディレクトリをdata以下に作成する
+echo "cp meeting/$x data/$x"
+done
+
+↓
+
+for x in `ls  -d NHK* MEETING` ; do #NHK
+cp -r meeting/$x data/$x #ここで会議音声のディレクトリをdata以下に作成する
+echo "cp meeting/$x data/$x"
+done
+
+わからない点
+・一行目のlsでLIRの一覧を参照して配列に入れているが、そもそもLIRがs10直下に存在しない。
+
+##########################################################################
+L81-99
+for x in train `ls  -d LIR* MEETING` ; do
+if [[ $x =~ "train" ]]; then
+   echo "if"
+   echo "$x"
+    steps/make_mfcc.sh --nj 16 --cmd "$train_cmd" \
+    data/$x exp/make_mfcc/$x $mfccdir              ###   make_mfcc3>sh ->make_mfcc              nj 10 -> 1
+
+  echo "if1"
+    steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir
+  echo "if2"
+    utils/fix_data_dir.sh data/$x
+  echo "if3"
+else
+    steps/make_mfcc.sh --nj 16 --cmd "$train_cmd" \
+	data/$x exp/make_mfcc/$x $mfccdir                              #  nj 8 -> 1
+    steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir
+    utils/fix_data_dir.sh data/$x
+fi
+done
+
+↓
+
+for x in train `ls  -d NHK* MEETING` ; do
+if [[ $x =~ "train" ]]; then
+   echo "if"
+   echo "$x"
+    steps/make_mfcc.sh --nj 16 --cmd "$train_cmd" \
+    data/$x exp/make_mfcc/$x $mfccdir              ###   make_mfcc3>sh ->make_mfcc              nj 10 -> 1
+
+  echo "if1"
+    steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir
+  echo "if2"
+    utils/fix_data_dir.sh data/$x
+  echo "if3"
+else
+    steps/make_mfcc.sh --nj 16 --cmd "$train_cmd" \
+	data/$x exp/make_mfcc/$x $mfccdir                              #  nj 8 -> 1
+    steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir
+    utils/fix_data_dir.sh data/$x
+fi
+done
+
+
+L213-216
+for meeting in `ls  -d LIR* MEETING`; do
+    steps/decode_fmllr.sh --nj 8 --cmd "$decode_cmd" --config conf/decode.config \
+	$graph_dir data/$meeting exp/tri4/$meeting #ここは会議音声用  8->1 
+done
+
+↓
+
+for meeting in `ls  -d NHK* MEETING`; do
+    steps/decode_fmllr.sh --nj 8 --cmd "$decode_cmd" --config conf/decode.config \
+	$graph_dir data/$meeting exp/tri4/$meeting #ここは会議音声用  8->1 
+done
+
+##########################################################################
+meeting/make_text3.sh
+L3-L5
+echo "rm -r ../LIR*"     
+rm -r ../LIR*
+echo "rm -r LIR*"  
+rm -r LIR*
+
+↓
+
+echo "rm -r ../NHK*"     
+rm -r ../NHK*
+echo "rm -r NHK*"  
+rm -r NHK*
+
+L144
+for x in LIRG61 LIRG62 LIRG63 LIRH61 LIRH62 LIRH63 ; do 
+
+↓
+
+for x in NHK0825 NHK0826 NHK1112 NHK1113 NHK1114 ; do 
+
+L158
+cp  -r ./LIR* ../
+
+↓
+
+cp  -r ./NHK* ../
+
+#########################################################################
+meeting/change2_2.pl
+L9
+@ref2s = glob("/work/speech_recognition/kaldi/egs/csj/meeting/split$ARGV[0]/*/*.ref2");
+
+↓
+
+@ref2s = glob("/work/speech_recognition/kaldi/egs/csj/newsdata/$ARGV[0]/*/*.ref2");
