@@ -95,7 +95,7 @@ class iv_module:
         precision = float(tp/(tp+fp))
         
         #print("tplist")
-        #print(fplist)
+        print(fplist)
         #print(fnlist)
         #print(fnlist)
         wavpath = self.wavpath

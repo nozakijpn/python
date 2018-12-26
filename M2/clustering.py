@@ -11,7 +11,8 @@ import sys
 args = sys.argv
 
 roop_num = 100
-iv_th = float(args[1])
+#iv_th = float(args[1])
+iv_th = 0.7
 tyouhuku_th = 20
 anchor_th = 0.05
 test_anchor_num = 1#評価したいアンカーのクラスタ番号の指定

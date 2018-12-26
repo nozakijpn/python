@@ -35,3 +35,16 @@ comp_same_or_other_iv.py
 i-vectorで、何秒以上だと話者性を確保できるかを検証するためのプログラム。
 check_balance.pyを実行後にiv/raw内で実行する。
 のちのち、ヒストグラムで表示する予定
+
+calc_cos_long_short.py
+実行場所は、i-vectorがあるディレクトリ内。
+basenameで指定した音声データとその他の音声データのi-vectorのコサイン類似度を調べる。
+このプログラムを動かす前に、check_balance.pyで音声データをtrim、i-vectorの抽出を行う必要がある。
+
+sh decide_connect_th.sh $i
+rm txt_for_decide_th/*
+python acc_sox2.py
+結合の閾値を決めるためにプロットするプログラム。$iはコマンドライン引数で、結合するメソッドを選択する。(1:timeonly,5:backgroundonly,7:1+5,8:1+iv)
+
+acc_sox3.py
+acc_sox2.pyにacc,precision,recall,fmeasureの計算を追加
