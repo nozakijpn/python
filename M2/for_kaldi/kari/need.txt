@@ -1,0 +1,16 @@
+〜やったこと〜
+1.プログラムの変更(履歴はchange_log.txtに記述)←消えてもた
+　→変えたのはmake_text3とbunnkatu_meeting_org.shの2つ
+2.newsdataの作成
+3.s10下のmeetingの中のmake_text3.shに必要なファイルの作成
+4.「./meeting」内のファイルを「/work/speech_recognition/kaldi/egs/csj/s10/meeting」に移動して重なるファイルを上書き（バックアップはs10/meeting/backup内）
+
+s10以下にはアクセン権限があったため、上書きが出来た。しかし、csj直下には権限がないため、そこだけもらう必要あり。
+
+〜これから必要なこと〜
+1.b313036のホームディレクトリにある、「for_kaldi/newsdata」を「/work/speech_recognition/kaldi/egs/csj/」に移動
+cp ~/for_kaldi/newsdata /work/speech_recognition/kaldi/egs/csj/ -r
+
+2.bunnkatu_meeting_org.shを実行→make_text3.shでの問には「0」で返答。
+
+あとは動かさないとどこで止まるかわからない

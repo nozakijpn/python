@@ -1,2512 +1,2512 @@
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0001.wav ./dic/NHK0825/NHK08251/NHK08251_0001.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0002.wav ./dic/NHK0825/NHK08251/NHK08251_0002.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0003.wav ./dic/NHK0825/NHK08251/NHK08251_0003.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0004.wav ./dic/NHK0825/NHK08251/NHK08251_0004.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0005.wav ./dic/NHK0825/NHK08251/NHK08251_0005.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0006.wav ./dic/NHK0825/NHK08251/NHK08251_0006.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0007.wav ./dic/NHK0825/NHK08251/NHK08251_0007.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0008.wav ./dic/NHK0825/NHK08251/NHK08251_0008.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0009.wav ./dic/NHK0825/NHK08251/NHK08251_0009.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0010.wav ./dic/NHK0825/NHK08251/NHK08251_0010.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0011.wav ./dic/NHK0825/NHK08251/NHK08251_0011.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0012.wav ./dic/NHK0825/NHK08251/NHK08251_0012.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0013.wav ./dic/NHK0825/NHK08251/NHK08251_0013.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0014.wav ./dic/NHK0825/NHK08251/NHK08251_0014.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0015.wav ./dic/NHK0825/NHK08251/NHK08251_0015.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0016.wav ./dic/NHK0825/NHK08251/NHK08251_0016.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0017.wav ./dic/NHK0825/NHK08251/NHK08251_0017.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0018.wav ./dic/NHK0825/NHK08251/NHK08251_0018.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0019.wav ./dic/NHK0825/NHK08251/NHK08251_0019.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0020.wav ./dic/NHK0825/NHK08251/NHK08251_0020.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0021.wav ./dic/NHK0825/NHK08251/NHK08251_0021.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0022.wav ./dic/NHK0825/NHK08251/NHK08251_0022.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0023.wav ./dic/NHK0825/NHK08251/NHK08251_0023.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0024.wav ./dic/NHK0825/NHK08251/NHK08251_0024.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0025.wav ./dic/NHK0825/NHK08251/NHK08251_0025.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0026.wav ./dic/NHK0825/NHK08251/NHK08251_0026.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0027.wav ./dic/NHK0825/NHK08251/NHK08251_0027.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0028.wav ./dic/NHK0825/NHK08251/NHK08251_0028.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0029.wav ./dic/NHK0825/NHK08251/NHK08251_0029.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0030.wav ./dic/NHK0825/NHK08251/NHK08251_0030.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0031.wav ./dic/NHK0825/NHK08251/NHK08251_0031.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0032.wav ./dic/NHK0825/NHK08251/NHK08251_0032.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0033.wav ./dic/NHK0825/NHK08251/NHK08251_0033.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0034.wav ./dic/NHK0825/NHK08251/NHK08251_0034.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0035.wav ./dic/NHK0825/NHK08251/NHK08251_0035.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0036.wav ./dic/NHK0825/NHK08251/NHK08251_0036.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0037.wav ./dic/NHK0825/NHK08251/NHK08251_0037.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0038.wav ./dic/NHK0825/NHK08251/NHK08251_0038.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0039.wav ./dic/NHK0825/NHK08251/NHK08251_0039.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0040.wav ./dic/NHK0825/NHK08251/NHK08251_0040.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0041.wav ./dic/NHK0825/NHK08251/NHK08251_0041.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0042.wav ./dic/NHK0825/NHK08251/NHK08251_0042.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0043.wav ./dic/NHK0825/NHK08251/NHK08251_0043.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0044.wav ./dic/NHK0825/NHK08251/NHK08251_0044.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0045.wav ./dic/NHK0825/NHK08251/NHK08251_0045.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0046.wav ./dic/NHK0825/NHK08251/NHK08251_0046.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0047.wav ./dic/NHK0825/NHK08251/NHK08251_0047.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0048.wav ./dic/NHK0825/NHK08251/NHK08251_0048.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0049.wav ./dic/NHK0825/NHK08252/NHK08252_0049.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0050.wav ./dic/NHK0825/NHK08252/NHK08252_0050.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0051.wav ./dic/NHK0825/NHK08252/NHK08252_0051.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0052.wav ./dic/NHK0825/NHK08252/NHK08252_0052.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0053.wav ./dic/NHK0825/NHK08252/NHK08252_0053.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0054.wav ./dic/NHK0825/NHK08252/NHK08252_0054.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0055.wav ./dic/NHK0825/NHK08252/NHK08252_0055.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0056.wav ./dic/NHK0825/NHK08252/NHK08252_0056.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0057.wav ./dic/NHK0825/NHK08252/NHK08252_0057.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0058.wav ./dic/NHK0825/NHK08252/NHK08252_0058.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0059.wav ./dic/NHK0825/NHK08252/NHK08252_0059.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0060.wav ./dic/NHK0825/NHK08252/NHK08252_0060.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0061.wav ./dic/NHK0825/NHK08252/NHK08252_0061.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0062.wav ./dic/NHK0825/NHK08252/NHK08252_0062.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0063.wav ./dic/NHK0825/NHK08252/NHK08252_0063.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0064.wav ./dic/NHK0825/NHK08252/NHK08252_0064.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0065.wav ./dic/NHK0825/NHK08252/NHK08252_0065.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0066.wav ./dic/NHK0825/NHK08252/NHK08252_0066.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0067.wav ./dic/NHK0825/NHK08252/NHK08252_0067.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0068.wav ./dic/NHK0825/NHK08252/NHK08252_0068.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0069.wav ./dic/NHK0825/NHK08252/NHK08252_0069.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0070.wav ./dic/NHK0825/NHK08252/NHK08252_0070.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0071.wav ./dic/NHK0825/NHK08252/NHK08252_0071.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0072.wav ./dic/NHK0825/NHK08252/NHK08252_0072.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0073.wav ./dic/NHK0825/NHK08252/NHK08252_0073.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0074.wav ./dic/NHK0825/NHK08252/NHK08252_0074.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0075.wav ./dic/NHK0825/NHK08252/NHK08252_0075.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0076.wav ./dic/NHK0825/NHK08252/NHK08252_0076.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0077.wav ./dic/NHK0825/NHK08252/NHK08252_0077.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0078.wav ./dic/NHK0825/NHK08252/NHK08252_0078.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0079.wav ./dic/NHK0825/NHK08252/NHK08252_0079.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0080.wav ./dic/NHK0825/NHK08252/NHK08252_0080.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0081.wav ./dic/NHK0825/NHK08252/NHK08252_0081.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0082.wav ./dic/NHK0825/NHK08252/NHK08252_0082.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0083.wav ./dic/NHK0825/NHK08252/NHK08252_0083.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0084.wav ./dic/NHK0825/NHK08252/NHK08252_0084.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0085.wav ./dic/NHK0825/NHK08252/NHK08252_0085.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0086.wav ./dic/NHK0825/NHK08252/NHK08252_0086.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0087.wav ./dic/NHK0825/NHK08252/NHK08252_0087.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0088.wav ./dic/NHK0825/NHK08252/NHK08252_0088.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0089.wav ./dic/NHK0825/NHK08252/NHK08252_0089.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0090.wav ./dic/NHK0825/NHK08252/NHK08252_0090.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0091.wav ./dic/NHK0825/NHK08252/NHK08252_0091.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0092.wav ./dic/NHK0825/NHK08252/NHK08252_0092.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0093.wav ./dic/NHK0825/NHK08252/NHK08252_0093.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0094.wav ./dic/NHK0825/NHK08252/NHK08252_0094.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0095.wav ./dic/NHK0825/NHK08252/NHK08252_0095.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0096.wav ./dic/NHK0825/NHK08252/NHK08252_0096.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0097.wav ./dic/NHK0825/NHK08253/NHK08253_0097.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0098.wav ./dic/NHK0825/NHK08253/NHK08253_0098.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0099.wav ./dic/NHK0825/NHK08253/NHK08253_0099.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0100.wav ./dic/NHK0825/NHK08253/NHK08253_0100.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0101.wav ./dic/NHK0825/NHK08253/NHK08253_0101.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0102.wav ./dic/NHK0825/NHK08253/NHK08253_0102.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0103.wav ./dic/NHK0825/NHK08253/NHK08253_0103.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0104.wav ./dic/NHK0825/NHK08253/NHK08253_0104.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0105.wav ./dic/NHK0825/NHK08253/NHK08253_0105.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0106.wav ./dic/NHK0825/NHK08253/NHK08253_0106.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0107.wav ./dic/NHK0825/NHK08253/NHK08253_0107.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0108.wav ./dic/NHK0825/NHK08253/NHK08253_0108.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0109.wav ./dic/NHK0825/NHK08253/NHK08253_0109.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0110.wav ./dic/NHK0825/NHK08253/NHK08253_0110.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0111.wav ./dic/NHK0825/NHK08253/NHK08253_0111.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0112.wav ./dic/NHK0825/NHK08253/NHK08253_0112.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0113.wav ./dic/NHK0825/NHK08253/NHK08253_0113.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0114.wav ./dic/NHK0825/NHK08253/NHK08253_0114.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0115.wav ./dic/NHK0825/NHK08253/NHK08253_0115.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0116.wav ./dic/NHK0825/NHK08253/NHK08253_0116.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0117.wav ./dic/NHK0825/NHK08253/NHK08253_0117.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0118.wav ./dic/NHK0825/NHK08253/NHK08253_0118.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0119.wav ./dic/NHK0825/NHK08253/NHK08253_0119.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0120.wav ./dic/NHK0825/NHK08253/NHK08253_0120.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0121.wav ./dic/NHK0825/NHK08253/NHK08253_0121.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0122.wav ./dic/NHK0825/NHK08253/NHK08253_0122.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0123.wav ./dic/NHK0825/NHK08253/NHK08253_0123.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0124.wav ./dic/NHK0825/NHK08253/NHK08253_0124.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0125.wav ./dic/NHK0825/NHK08253/NHK08253_0125.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0126.wav ./dic/NHK0825/NHK08253/NHK08253_0126.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0127.wav ./dic/NHK0825/NHK08253/NHK08253_0127.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0128.wav ./dic/NHK0825/NHK08253/NHK08253_0128.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0129.wav ./dic/NHK0825/NHK08253/NHK08253_0129.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0130.wav ./dic/NHK0825/NHK08253/NHK08253_0130.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0131.wav ./dic/NHK0825/NHK08253/NHK08253_0131.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0132.wav ./dic/NHK0825/NHK08253/NHK08253_0132.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0133.wav ./dic/NHK0825/NHK08253/NHK08253_0133.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0134.wav ./dic/NHK0825/NHK08253/NHK08253_0134.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0135.wav ./dic/NHK0825/NHK08253/NHK08253_0135.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0136.wav ./dic/NHK0825/NHK08253/NHK08253_0136.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0137.wav ./dic/NHK0825/NHK08253/NHK08253_0137.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0138.wav ./dic/NHK0825/NHK08253/NHK08253_0138.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0139.wav ./dic/NHK0825/NHK08253/NHK08253_0139.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0140.wav ./dic/NHK0825/NHK08253/NHK08253_0140.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0141.wav ./dic/NHK0825/NHK08253/NHK08253_0141.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0142.wav ./dic/NHK0825/NHK08253/NHK08253_0142.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0143.wav ./dic/NHK0825/NHK08253/NHK08253_0143.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0144.wav ./dic/NHK0825/NHK08253/NHK08253_0144.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0145.wav ./dic/NHK0825/NHK08254/NHK08254_0145.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0146.wav ./dic/NHK0825/NHK08254/NHK08254_0146.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0147.wav ./dic/NHK0825/NHK08254/NHK08254_0147.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0148.wav ./dic/NHK0825/NHK08254/NHK08254_0148.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0149.wav ./dic/NHK0825/NHK08254/NHK08254_0149.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0150.wav ./dic/NHK0825/NHK08254/NHK08254_0150.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0151.wav ./dic/NHK0825/NHK08254/NHK08254_0151.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0152.wav ./dic/NHK0825/NHK08254/NHK08254_0152.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0153.wav ./dic/NHK0825/NHK08254/NHK08254_0153.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0154.wav ./dic/NHK0825/NHK08254/NHK08254_0154.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0155.wav ./dic/NHK0825/NHK08254/NHK08254_0155.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0156.wav ./dic/NHK0825/NHK08254/NHK08254_0156.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0157.wav ./dic/NHK0825/NHK08254/NHK08254_0157.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0158.wav ./dic/NHK0825/NHK08254/NHK08254_0158.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0159.wav ./dic/NHK0825/NHK08254/NHK08254_0159.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0160.wav ./dic/NHK0825/NHK08254/NHK08254_0160.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0161.wav ./dic/NHK0825/NHK08254/NHK08254_0161.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0162.wav ./dic/NHK0825/NHK08254/NHK08254_0162.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0163.wav ./dic/NHK0825/NHK08254/NHK08254_0163.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0164.wav ./dic/NHK0825/NHK08254/NHK08254_0164.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0165.wav ./dic/NHK0825/NHK08254/NHK08254_0165.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0166.wav ./dic/NHK0825/NHK08254/NHK08254_0166.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0167.wav ./dic/NHK0825/NHK08254/NHK08254_0167.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0168.wav ./dic/NHK0825/NHK08254/NHK08254_0168.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0169.wav ./dic/NHK0825/NHK08254/NHK08254_0169.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0170.wav ./dic/NHK0825/NHK08254/NHK08254_0170.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0171.wav ./dic/NHK0825/NHK08254/NHK08254_0171.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0172.wav ./dic/NHK0825/NHK08254/NHK08254_0172.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0173.wav ./dic/NHK0825/NHK08254/NHK08254_0173.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0174.wav ./dic/NHK0825/NHK08254/NHK08254_0174.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0175.wav ./dic/NHK0825/NHK08254/NHK08254_0175.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0176.wav ./dic/NHK0825/NHK08254/NHK08254_0176.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0177.wav ./dic/NHK0825/NHK08254/NHK08254_0177.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0178.wav ./dic/NHK0825/NHK08254/NHK08254_0178.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0179.wav ./dic/NHK0825/NHK08254/NHK08254_0179.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0180.wav ./dic/NHK0825/NHK08254/NHK08254_0180.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0181.wav ./dic/NHK0825/NHK08254/NHK08254_0181.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0182.wav ./dic/NHK0825/NHK08254/NHK08254_0182.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0183.wav ./dic/NHK0825/NHK08254/NHK08254_0183.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0184.wav ./dic/NHK0825/NHK08254/NHK08254_0184.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0185.wav ./dic/NHK0825/NHK08254/NHK08254_0185.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0186.wav ./dic/NHK0825/NHK08254/NHK08254_0186.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0187.wav ./dic/NHK0825/NHK08254/NHK08254_0187.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0188.wav ./dic/NHK0825/NHK08254/NHK08254_0188.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0189.wav ./dic/NHK0825/NHK08254/NHK08254_0189.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0190.wav ./dic/NHK0825/NHK08254/NHK08254_0190.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0191.wav ./dic/NHK0825/NHK08254/NHK08254_0191.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0192.wav ./dic/NHK0825/NHK08254/NHK08254_0192.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0193.wav ./dic/NHK0825/NHK08255/NHK08255_0193.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0194.wav ./dic/NHK0825/NHK08255/NHK08255_0194.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0195.wav ./dic/NHK0825/NHK08255/NHK08255_0195.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0196.wav ./dic/NHK0825/NHK08255/NHK08255_0196.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0197.wav ./dic/NHK0825/NHK08255/NHK08255_0197.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0198.wav ./dic/NHK0825/NHK08255/NHK08255_0198.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0199.wav ./dic/NHK0825/NHK08255/NHK08255_0199.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0200.wav ./dic/NHK0825/NHK08255/NHK08255_0200.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0201.wav ./dic/NHK0825/NHK08255/NHK08255_0201.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0202.wav ./dic/NHK0825/NHK08255/NHK08255_0202.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0203.wav ./dic/NHK0825/NHK08255/NHK08255_0203.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0204.wav ./dic/NHK0825/NHK08255/NHK08255_0204.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0205.wav ./dic/NHK0825/NHK08255/NHK08255_0205.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0206.wav ./dic/NHK0825/NHK08255/NHK08255_0206.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0207.wav ./dic/NHK0825/NHK08255/NHK08255_0207.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0208.wav ./dic/NHK0825/NHK08255/NHK08255_0208.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0209.wav ./dic/NHK0825/NHK08255/NHK08255_0209.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0210.wav ./dic/NHK0825/NHK08255/NHK08255_0210.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0211.wav ./dic/NHK0825/NHK08255/NHK08255_0211.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0212.wav ./dic/NHK0825/NHK08255/NHK08255_0212.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0213.wav ./dic/NHK0825/NHK08255/NHK08255_0213.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0214.wav ./dic/NHK0825/NHK08255/NHK08255_0214.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0215.wav ./dic/NHK0825/NHK08255/NHK08255_0215.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0216.wav ./dic/NHK0825/NHK08255/NHK08255_0216.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0217.wav ./dic/NHK0825/NHK08255/NHK08255_0217.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0218.wav ./dic/NHK0825/NHK08255/NHK08255_0218.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0219.wav ./dic/NHK0825/NHK08255/NHK08255_0219.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0220.wav ./dic/NHK0825/NHK08255/NHK08255_0220.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0221.wav ./dic/NHK0825/NHK08255/NHK08255_0221.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0222.wav ./dic/NHK0825/NHK08255/NHK08255_0222.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0223.wav ./dic/NHK0825/NHK08255/NHK08255_0223.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0224.wav ./dic/NHK0825/NHK08255/NHK08255_0224.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0225.wav ./dic/NHK0825/NHK08255/NHK08255_0225.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0226.wav ./dic/NHK0825/NHK08255/NHK08255_0226.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0227.wav ./dic/NHK0825/NHK08255/NHK08255_0227.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0228.wav ./dic/NHK0825/NHK08255/NHK08255_0228.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0229.wav ./dic/NHK0825/NHK08255/NHK08255_0229.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0230.wav ./dic/NHK0825/NHK08255/NHK08255_0230.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0231.wav ./dic/NHK0825/NHK08255/NHK08255_0231.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0232.wav ./dic/NHK0825/NHK08255/NHK08255_0232.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0233.wav ./dic/NHK0825/NHK08255/NHK08255_0233.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0234.wav ./dic/NHK0825/NHK08255/NHK08255_0234.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0235.wav ./dic/NHK0825/NHK08255/NHK08255_0235.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0236.wav ./dic/NHK0825/NHK08255/NHK08255_0236.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0237.wav ./dic/NHK0825/NHK08255/NHK08255_0237.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0238.wav ./dic/NHK0825/NHK08255/NHK08255_0238.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0239.wav ./dic/NHK0825/NHK08255/NHK08255_0239.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0240.wav ./dic/NHK0825/NHK08255/NHK08255_0240.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0241.wav ./dic/NHK0825/NHK08256/NHK08256_0241.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0242.wav ./dic/NHK0825/NHK08256/NHK08256_0242.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0243.wav ./dic/NHK0825/NHK08256/NHK08256_0243.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0244.wav ./dic/NHK0825/NHK08256/NHK08256_0244.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0245.wav ./dic/NHK0825/NHK08256/NHK08256_0245.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0246.wav ./dic/NHK0825/NHK08256/NHK08256_0246.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0247.wav ./dic/NHK0825/NHK08256/NHK08256_0247.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0248.wav ./dic/NHK0825/NHK08256/NHK08256_0248.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0249.wav ./dic/NHK0825/NHK08256/NHK08256_0249.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0250.wav ./dic/NHK0825/NHK08256/NHK08256_0250.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0251.wav ./dic/NHK0825/NHK08256/NHK08256_0251.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0252.wav ./dic/NHK0825/NHK08256/NHK08256_0252.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0253.wav ./dic/NHK0825/NHK08256/NHK08256_0253.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0254.wav ./dic/NHK0825/NHK08256/NHK08256_0254.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0255.wav ./dic/NHK0825/NHK08256/NHK08256_0255.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0256.wav ./dic/NHK0825/NHK08256/NHK08256_0256.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0257.wav ./dic/NHK0825/NHK08256/NHK08256_0257.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0258.wav ./dic/NHK0825/NHK08256/NHK08256_0258.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0259.wav ./dic/NHK0825/NHK08256/NHK08256_0259.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0260.wav ./dic/NHK0825/NHK08256/NHK08256_0260.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0261.wav ./dic/NHK0825/NHK08256/NHK08256_0261.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0262.wav ./dic/NHK0825/NHK08256/NHK08256_0262.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0263.wav ./dic/NHK0825/NHK08256/NHK08256_0263.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0264.wav ./dic/NHK0825/NHK08256/NHK08256_0264.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0265.wav ./dic/NHK0825/NHK08256/NHK08256_0265.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0266.wav ./dic/NHK0825/NHK08256/NHK08256_0266.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0267.wav ./dic/NHK0825/NHK08256/NHK08256_0267.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0268.wav ./dic/NHK0825/NHK08256/NHK08256_0268.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0269.wav ./dic/NHK0825/NHK08256/NHK08256_0269.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0270.wav ./dic/NHK0825/NHK08256/NHK08256_0270.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0271.wav ./dic/NHK0825/NHK08256/NHK08256_0271.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0272.wav ./dic/NHK0825/NHK08256/NHK08256_0272.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0273.wav ./dic/NHK0825/NHK08256/NHK08256_0273.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0274.wav ./dic/NHK0825/NHK08256/NHK08256_0274.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0275.wav ./dic/NHK0825/NHK08256/NHK08256_0275.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0276.wav ./dic/NHK0825/NHK08256/NHK08256_0276.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0277.wav ./dic/NHK0825/NHK08256/NHK08256_0277.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0278.wav ./dic/NHK0825/NHK08256/NHK08256_0278.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0279.wav ./dic/NHK0825/NHK08256/NHK08256_0279.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0280.wav ./dic/NHK0825/NHK08256/NHK08256_0280.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0281.wav ./dic/NHK0825/NHK08256/NHK08256_0281.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0282.wav ./dic/NHK0825/NHK08256/NHK08256_0282.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0283.wav ./dic/NHK0825/NHK08256/NHK08256_0283.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0284.wav ./dic/NHK0825/NHK08256/NHK08256_0284.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0285.wav ./dic/NHK0825/NHK08256/NHK08256_0285.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0286.wav ./dic/NHK0825/NHK08256/NHK08256_0286.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0287.wav ./dic/NHK0825/NHK08256/NHK08256_0287.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0288.wav ./dic/NHK0825/NHK08256/NHK08256_0288.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0289.wav ./dic/NHK0825/NHK08257/NHK08257_0289.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0290.wav ./dic/NHK0825/NHK08257/NHK08257_0290.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0291.wav ./dic/NHK0825/NHK08257/NHK08257_0291.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0292.wav ./dic/NHK0825/NHK08257/NHK08257_0292.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0293.wav ./dic/NHK0825/NHK08257/NHK08257_0293.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0294.wav ./dic/NHK0825/NHK08257/NHK08257_0294.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0295.wav ./dic/NHK0825/NHK08257/NHK08257_0295.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0296.wav ./dic/NHK0825/NHK08257/NHK08257_0296.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0297.wav ./dic/NHK0825/NHK08257/NHK08257_0297.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0298.wav ./dic/NHK0825/NHK08257/NHK08257_0298.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0299.wav ./dic/NHK0825/NHK08257/NHK08257_0299.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0300.wav ./dic/NHK0825/NHK08257/NHK08257_0300.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0301.wav ./dic/NHK0825/NHK08257/NHK08257_0301.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0302.wav ./dic/NHK0825/NHK08257/NHK08257_0302.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0303.wav ./dic/NHK0825/NHK08257/NHK08257_0303.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0304.wav ./dic/NHK0825/NHK08257/NHK08257_0304.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0305.wav ./dic/NHK0825/NHK08257/NHK08257_0305.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0306.wav ./dic/NHK0825/NHK08257/NHK08257_0306.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0307.wav ./dic/NHK0825/NHK08257/NHK08257_0307.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0308.wav ./dic/NHK0825/NHK08257/NHK08257_0308.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0309.wav ./dic/NHK0825/NHK08257/NHK08257_0309.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0310.wav ./dic/NHK0825/NHK08257/NHK08257_0310.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0311.wav ./dic/NHK0825/NHK08257/NHK08257_0311.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0312.wav ./dic/NHK0825/NHK08257/NHK08257_0312.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0313.wav ./dic/NHK0825/NHK08257/NHK08257_0313.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0314.wav ./dic/NHK0825/NHK08257/NHK08257_0314.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0315.wav ./dic/NHK0825/NHK08257/NHK08257_0315.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0316.wav ./dic/NHK0825/NHK08257/NHK08257_0316.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0317.wav ./dic/NHK0825/NHK08257/NHK08257_0317.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0318.wav ./dic/NHK0825/NHK08257/NHK08257_0318.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0319.wav ./dic/NHK0825/NHK08257/NHK08257_0319.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0320.wav ./dic/NHK0825/NHK08257/NHK08257_0320.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0321.wav ./dic/NHK0825/NHK08257/NHK08257_0321.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0322.wav ./dic/NHK0825/NHK08257/NHK08257_0322.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0323.wav ./dic/NHK0825/NHK08257/NHK08257_0323.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0324.wav ./dic/NHK0825/NHK08257/NHK08257_0324.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0325.wav ./dic/NHK0825/NHK08257/NHK08257_0325.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0326.wav ./dic/NHK0825/NHK08257/NHK08257_0326.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0327.wav ./dic/NHK0825/NHK08257/NHK08257_0327.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0328.wav ./dic/NHK0825/NHK08257/NHK08257_0328.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0329.wav ./dic/NHK0825/NHK08257/NHK08257_0329.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0330.wav ./dic/NHK0825/NHK08257/NHK08257_0330.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0331.wav ./dic/NHK0825/NHK08257/NHK08257_0331.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0332.wav ./dic/NHK0825/NHK08257/NHK08257_0332.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0333.wav ./dic/NHK0825/NHK08257/NHK08257_0333.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0334.wav ./dic/NHK0825/NHK08257/NHK08257_0334.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0335.wav ./dic/NHK0825/NHK08257/NHK08257_0335.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0336.wav ./dic/NHK0825/NHK08257/NHK08257_0336.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0337.wav ./dic/NHK0825/NHK08257/NHK08257_0337.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0338.wav ./dic/NHK0825/NHK08257/NHK08257_0338.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0339.wav ./dic/NHK0825/NHK08257/NHK08257_0339.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0340.wav ./dic/NHK0825/NHK08257/NHK08257_0340.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0341.wav ./dic/NHK0825/NHK08257/NHK08257_0341.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0342.wav ./dic/NHK0825/NHK08257/NHK08257_0342.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0343.wav ./dic/NHK0825/NHK08257/NHK08257_0343.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0344.wav ./dic/NHK0825/NHK08257/NHK08257_0344.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0345.wav ./dic/NHK0825/NHK08257/NHK08257_0345.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0001.wav ./dic/NHK0826/NHK08261/NHK08261_0001.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0002.wav ./dic/NHK0826/NHK08261/NHK08261_0002.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0003.wav ./dic/NHK0826/NHK08261/NHK08261_0003.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0004.wav ./dic/NHK0826/NHK08261/NHK08261_0004.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0005.wav ./dic/NHK0826/NHK08261/NHK08261_0005.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0006.wav ./dic/NHK0826/NHK08261/NHK08261_0006.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0007.wav ./dic/NHK0826/NHK08261/NHK08261_0007.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0008.wav ./dic/NHK0826/NHK08261/NHK08261_0008.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0009.wav ./dic/NHK0826/NHK08261/NHK08261_0009.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0010.wav ./dic/NHK0826/NHK08261/NHK08261_0010.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0011.wav ./dic/NHK0826/NHK08261/NHK08261_0011.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0012.wav ./dic/NHK0826/NHK08261/NHK08261_0012.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0013.wav ./dic/NHK0826/NHK08261/NHK08261_0013.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0014.wav ./dic/NHK0826/NHK08261/NHK08261_0014.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0015.wav ./dic/NHK0826/NHK08261/NHK08261_0015.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0016.wav ./dic/NHK0826/NHK08261/NHK08261_0016.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0017.wav ./dic/NHK0826/NHK08261/NHK08261_0017.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0018.wav ./dic/NHK0826/NHK08261/NHK08261_0018.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0019.wav ./dic/NHK0826/NHK08261/NHK08261_0019.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0020.wav ./dic/NHK0826/NHK08261/NHK08261_0020.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0021.wav ./dic/NHK0826/NHK08261/NHK08261_0021.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0022.wav ./dic/NHK0826/NHK08261/NHK08261_0022.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0023.wav ./dic/NHK0826/NHK08261/NHK08261_0023.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0024.wav ./dic/NHK0826/NHK08261/NHK08261_0024.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0025.wav ./dic/NHK0826/NHK08261/NHK08261_0025.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0026.wav ./dic/NHK0826/NHK08261/NHK08261_0026.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0027.wav ./dic/NHK0826/NHK08261/NHK08261_0027.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0028.wav ./dic/NHK0826/NHK08261/NHK08261_0028.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0029.wav ./dic/NHK0826/NHK08261/NHK08261_0029.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0030.wav ./dic/NHK0826/NHK08261/NHK08261_0030.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0031.wav ./dic/NHK0826/NHK08261/NHK08261_0031.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0032.wav ./dic/NHK0826/NHK08261/NHK08261_0032.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0033.wav ./dic/NHK0826/NHK08261/NHK08261_0033.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0034.wav ./dic/NHK0826/NHK08261/NHK08261_0034.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0035.wav ./dic/NHK0826/NHK08261/NHK08261_0035.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0036.wav ./dic/NHK0826/NHK08261/NHK08261_0036.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0037.wav ./dic/NHK0826/NHK08261/NHK08261_0037.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0038.wav ./dic/NHK0826/NHK08261/NHK08261_0038.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0039.wav ./dic/NHK0826/NHK08261/NHK08261_0039.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0040.wav ./dic/NHK0826/NHK08261/NHK08261_0040.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0041.wav ./dic/NHK0826/NHK08261/NHK08261_0041.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0042.wav ./dic/NHK0826/NHK08261/NHK08261_0042.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0043.wav ./dic/NHK0826/NHK08261/NHK08261_0043.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0044.wav ./dic/NHK0826/NHK08261/NHK08261_0044.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0045.wav ./dic/NHK0826/NHK08261/NHK08261_0045.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0046.wav ./dic/NHK0826/NHK08261/NHK08261_0046.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0047.wav ./dic/NHK0826/NHK08261/NHK08261_0047.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0048.wav ./dic/NHK0826/NHK08261/NHK08261_0048.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0049.wav ./dic/NHK0826/NHK08261/NHK08261_0049.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0050.wav ./dic/NHK0826/NHK08261/NHK08261_0050.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0051.wav ./dic/NHK0826/NHK08261/NHK08261_0051.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0052.wav ./dic/NHK0826/NHK08261/NHK08261_0052.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0053.wav ./dic/NHK0826/NHK08261/NHK08261_0053.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0054.wav ./dic/NHK0826/NHK08261/NHK08261_0054.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0055.wav ./dic/NHK0826/NHK08261/NHK08261_0055.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0056.wav ./dic/NHK0826/NHK08261/NHK08261_0056.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0057.wav ./dic/NHK0826/NHK08261/NHK08261_0057.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0058.wav ./dic/NHK0826/NHK08261/NHK08261_0058.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0059.wav ./dic/NHK0826/NHK08261/NHK08261_0059.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0060.wav ./dic/NHK0826/NHK08261/NHK08261_0060.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0061.wav ./dic/NHK0826/NHK08261/NHK08261_0061.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0062.wav ./dic/NHK0826/NHK08261/NHK08261_0062.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0063.wav ./dic/NHK0826/NHK08261/NHK08261_0063.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0064.wav ./dic/NHK0826/NHK08261/NHK08261_0064.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0065.wav ./dic/NHK0826/NHK08261/NHK08261_0065.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0066.wav ./dic/NHK0826/NHK08261/NHK08261_0066.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0067.wav ./dic/NHK0826/NHK08261/NHK08261_0067.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0068.wav ./dic/NHK0826/NHK08261/NHK08261_0068.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0069.wav ./dic/NHK0826/NHK08261/NHK08261_0069.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0070.wav ./dic/NHK0826/NHK08261/NHK08261_0070.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0071.wav ./dic/NHK0826/NHK08261/NHK08261_0071.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0072.wav ./dic/NHK0826/NHK08261/NHK08261_0072.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0073.wav ./dic/NHK0826/NHK08261/NHK08261_0073.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0074.wav ./dic/NHK0826/NHK08262/NHK08262_0074.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0075.wav ./dic/NHK0826/NHK08262/NHK08262_0075.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0076.wav ./dic/NHK0826/NHK08262/NHK08262_0076.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0077.wav ./dic/NHK0826/NHK08262/NHK08262_0077.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0078.wav ./dic/NHK0826/NHK08262/NHK08262_0078.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0079.wav ./dic/NHK0826/NHK08262/NHK08262_0079.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0080.wav ./dic/NHK0826/NHK08262/NHK08262_0080.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0081.wav ./dic/NHK0826/NHK08262/NHK08262_0081.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0082.wav ./dic/NHK0826/NHK08262/NHK08262_0082.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0083.wav ./dic/NHK0826/NHK08262/NHK08262_0083.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0084.wav ./dic/NHK0826/NHK08262/NHK08262_0084.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0085.wav ./dic/NHK0826/NHK08262/NHK08262_0085.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0086.wav ./dic/NHK0826/NHK08262/NHK08262_0086.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0087.wav ./dic/NHK0826/NHK08262/NHK08262_0087.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0088.wav ./dic/NHK0826/NHK08262/NHK08262_0088.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0089.wav ./dic/NHK0826/NHK08262/NHK08262_0089.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0090.wav ./dic/NHK0826/NHK08262/NHK08262_0090.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0091.wav ./dic/NHK0826/NHK08262/NHK08262_0091.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0092.wav ./dic/NHK0826/NHK08262/NHK08262_0092.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0093.wav ./dic/NHK0826/NHK08262/NHK08262_0093.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0094.wav ./dic/NHK0826/NHK08262/NHK08262_0094.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0095.wav ./dic/NHK0826/NHK08262/NHK08262_0095.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0096.wav ./dic/NHK0826/NHK08262/NHK08262_0096.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0097.wav ./dic/NHK0826/NHK08262/NHK08262_0097.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0098.wav ./dic/NHK0826/NHK08262/NHK08262_0098.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0099.wav ./dic/NHK0826/NHK08262/NHK08262_0099.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0100.wav ./dic/NHK0826/NHK08262/NHK08262_0100.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0101.wav ./dic/NHK0826/NHK08262/NHK08262_0101.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0102.wav ./dic/NHK0826/NHK08262/NHK08262_0102.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0103.wav ./dic/NHK0826/NHK08262/NHK08262_0103.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0104.wav ./dic/NHK0826/NHK08262/NHK08262_0104.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0105.wav ./dic/NHK0826/NHK08262/NHK08262_0105.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0106.wav ./dic/NHK0826/NHK08262/NHK08262_0106.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0107.wav ./dic/NHK0826/NHK08262/NHK08262_0107.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0108.wav ./dic/NHK0826/NHK08262/NHK08262_0108.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0109.wav ./dic/NHK0826/NHK08262/NHK08262_0109.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0110.wav ./dic/NHK0826/NHK08262/NHK08262_0110.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0111.wav ./dic/NHK0826/NHK08262/NHK08262_0111.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0112.wav ./dic/NHK0826/NHK08262/NHK08262_0112.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0113.wav ./dic/NHK0826/NHK08262/NHK08262_0113.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0114.wav ./dic/NHK0826/NHK08262/NHK08262_0114.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0115.wav ./dic/NHK0826/NHK08262/NHK08262_0115.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0116.wav ./dic/NHK0826/NHK08262/NHK08262_0116.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0117.wav ./dic/NHK0826/NHK08262/NHK08262_0117.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0118.wav ./dic/NHK0826/NHK08262/NHK08262_0118.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0119.wav ./dic/NHK0826/NHK08262/NHK08262_0119.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0120.wav ./dic/NHK0826/NHK08262/NHK08262_0120.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0121.wav ./dic/NHK0826/NHK08262/NHK08262_0121.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0122.wav ./dic/NHK0826/NHK08262/NHK08262_0122.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0123.wav ./dic/NHK0826/NHK08262/NHK08262_0123.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0124.wav ./dic/NHK0826/NHK08262/NHK08262_0124.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0125.wav ./dic/NHK0826/NHK08262/NHK08262_0125.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0126.wav ./dic/NHK0826/NHK08262/NHK08262_0126.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0127.wav ./dic/NHK0826/NHK08262/NHK08262_0127.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0128.wav ./dic/NHK0826/NHK08262/NHK08262_0128.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0129.wav ./dic/NHK0826/NHK08262/NHK08262_0129.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0130.wav ./dic/NHK0826/NHK08262/NHK08262_0130.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0131.wav ./dic/NHK0826/NHK08262/NHK08262_0131.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0132.wav ./dic/NHK0826/NHK08262/NHK08262_0132.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0133.wav ./dic/NHK0826/NHK08262/NHK08262_0133.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0134.wav ./dic/NHK0826/NHK08262/NHK08262_0134.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0135.wav ./dic/NHK0826/NHK08262/NHK08262_0135.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0136.wav ./dic/NHK0826/NHK08262/NHK08262_0136.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0137.wav ./dic/NHK0826/NHK08262/NHK08262_0137.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0138.wav ./dic/NHK0826/NHK08262/NHK08262_0138.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0139.wav ./dic/NHK0826/NHK08262/NHK08262_0139.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0140.wav ./dic/NHK0826/NHK08262/NHK08262_0140.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0141.wav ./dic/NHK0826/NHK08262/NHK08262_0141.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0142.wav ./dic/NHK0826/NHK08262/NHK08262_0142.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0143.wav ./dic/NHK0826/NHK08262/NHK08262_0143.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0144.wav ./dic/NHK0826/NHK08262/NHK08262_0144.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0145.wav ./dic/NHK0826/NHK08262/NHK08262_0145.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0146.wav ./dic/NHK0826/NHK08262/NHK08262_0146.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0147.wav ./dic/NHK0826/NHK08263/NHK08263_0147.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0148.wav ./dic/NHK0826/NHK08263/NHK08263_0148.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0149.wav ./dic/NHK0826/NHK08263/NHK08263_0149.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0150.wav ./dic/NHK0826/NHK08263/NHK08263_0150.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0151.wav ./dic/NHK0826/NHK08263/NHK08263_0151.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0152.wav ./dic/NHK0826/NHK08263/NHK08263_0152.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0153.wav ./dic/NHK0826/NHK08263/NHK08263_0153.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0154.wav ./dic/NHK0826/NHK08263/NHK08263_0154.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0155.wav ./dic/NHK0826/NHK08263/NHK08263_0155.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0156.wav ./dic/NHK0826/NHK08263/NHK08263_0156.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0157.wav ./dic/NHK0826/NHK08263/NHK08263_0157.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0158.wav ./dic/NHK0826/NHK08263/NHK08263_0158.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0159.wav ./dic/NHK0826/NHK08263/NHK08263_0159.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0160.wav ./dic/NHK0826/NHK08263/NHK08263_0160.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0161.wav ./dic/NHK0826/NHK08263/NHK08263_0161.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0162.wav ./dic/NHK0826/NHK08263/NHK08263_0162.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0163.wav ./dic/NHK0826/NHK08263/NHK08263_0163.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0164.wav ./dic/NHK0826/NHK08263/NHK08263_0164.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0165.wav ./dic/NHK0826/NHK08263/NHK08263_0165.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0166.wav ./dic/NHK0826/NHK08263/NHK08263_0166.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0167.wav ./dic/NHK0826/NHK08263/NHK08263_0167.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0168.wav ./dic/NHK0826/NHK08263/NHK08263_0168.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0169.wav ./dic/NHK0826/NHK08263/NHK08263_0169.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0170.wav ./dic/NHK0826/NHK08263/NHK08263_0170.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0171.wav ./dic/NHK0826/NHK08263/NHK08263_0171.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0172.wav ./dic/NHK0826/NHK08263/NHK08263_0172.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0173.wav ./dic/NHK0826/NHK08263/NHK08263_0173.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0174.wav ./dic/NHK0826/NHK08263/NHK08263_0174.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0175.wav ./dic/NHK0826/NHK08263/NHK08263_0175.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0176.wav ./dic/NHK0826/NHK08263/NHK08263_0176.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0177.wav ./dic/NHK0826/NHK08263/NHK08263_0177.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0178.wav ./dic/NHK0826/NHK08263/NHK08263_0178.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0179.wav ./dic/NHK0826/NHK08263/NHK08263_0179.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0180.wav ./dic/NHK0826/NHK08263/NHK08263_0180.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0181.wav ./dic/NHK0826/NHK08263/NHK08263_0181.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0182.wav ./dic/NHK0826/NHK08263/NHK08263_0182.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0183.wav ./dic/NHK0826/NHK08263/NHK08263_0183.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0184.wav ./dic/NHK0826/NHK08263/NHK08263_0184.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0185.wav ./dic/NHK0826/NHK08263/NHK08263_0185.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0186.wav ./dic/NHK0826/NHK08263/NHK08263_0186.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0187.wav ./dic/NHK0826/NHK08263/NHK08263_0187.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0188.wav ./dic/NHK0826/NHK08263/NHK08263_0188.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0189.wav ./dic/NHK0826/NHK08263/NHK08263_0189.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0190.wav ./dic/NHK0826/NHK08263/NHK08263_0190.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0191.wav ./dic/NHK0826/NHK08263/NHK08263_0191.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0192.wav ./dic/NHK0826/NHK08263/NHK08263_0192.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0193.wav ./dic/NHK0826/NHK08263/NHK08263_0193.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0194.wav ./dic/NHK0826/NHK08263/NHK08263_0194.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0195.wav ./dic/NHK0826/NHK08263/NHK08263_0195.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0196.wav ./dic/NHK0826/NHK08263/NHK08263_0196.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0197.wav ./dic/NHK0826/NHK08263/NHK08263_0197.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0198.wav ./dic/NHK0826/NHK08263/NHK08263_0198.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0199.wav ./dic/NHK0826/NHK08263/NHK08263_0199.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0200.wav ./dic/NHK0826/NHK08263/NHK08263_0200.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0201.wav ./dic/NHK0826/NHK08263/NHK08263_0201.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0202.wav ./dic/NHK0826/NHK08263/NHK08263_0202.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0203.wav ./dic/NHK0826/NHK08263/NHK08263_0203.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0204.wav ./dic/NHK0826/NHK08263/NHK08263_0204.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0205.wav ./dic/NHK0826/NHK08263/NHK08263_0205.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0206.wav ./dic/NHK0826/NHK08263/NHK08263_0206.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0207.wav ./dic/NHK0826/NHK08263/NHK08263_0207.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0208.wav ./dic/NHK0826/NHK08263/NHK08263_0208.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0209.wav ./dic/NHK0826/NHK08263/NHK08263_0209.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0210.wav ./dic/NHK0826/NHK08263/NHK08263_0210.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0211.wav ./dic/NHK0826/NHK08263/NHK08263_0211.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0212.wav ./dic/NHK0826/NHK08263/NHK08263_0212.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0213.wav ./dic/NHK0826/NHK08263/NHK08263_0213.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0214.wav ./dic/NHK0826/NHK08263/NHK08263_0214.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0215.wav ./dic/NHK0826/NHK08263/NHK08263_0215.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0216.wav ./dic/NHK0826/NHK08263/NHK08263_0216.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0217.wav ./dic/NHK0826/NHK08263/NHK08263_0217.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0218.wav ./dic/NHK0826/NHK08263/NHK08263_0218.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0219.wav ./dic/NHK0826/NHK08263/NHK08263_0219.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0220.wav ./dic/NHK0826/NHK08264/NHK08264_0220.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0221.wav ./dic/NHK0826/NHK08264/NHK08264_0221.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0222.wav ./dic/NHK0826/NHK08264/NHK08264_0222.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0223.wav ./dic/NHK0826/NHK08264/NHK08264_0223.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0224.wav ./dic/NHK0826/NHK08264/NHK08264_0224.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0225.wav ./dic/NHK0826/NHK08264/NHK08264_0225.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0226.wav ./dic/NHK0826/NHK08264/NHK08264_0226.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0227.wav ./dic/NHK0826/NHK08264/NHK08264_0227.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0228.wav ./dic/NHK0826/NHK08264/NHK08264_0228.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0229.wav ./dic/NHK0826/NHK08264/NHK08264_0229.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0230.wav ./dic/NHK0826/NHK08264/NHK08264_0230.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0231.wav ./dic/NHK0826/NHK08264/NHK08264_0231.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0232.wav ./dic/NHK0826/NHK08264/NHK08264_0232.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0233.wav ./dic/NHK0826/NHK08264/NHK08264_0233.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0234.wav ./dic/NHK0826/NHK08264/NHK08264_0234.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0235.wav ./dic/NHK0826/NHK08264/NHK08264_0235.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0236.wav ./dic/NHK0826/NHK08264/NHK08264_0236.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0237.wav ./dic/NHK0826/NHK08264/NHK08264_0237.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0238.wav ./dic/NHK0826/NHK08264/NHK08264_0238.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0239.wav ./dic/NHK0826/NHK08264/NHK08264_0239.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0240.wav ./dic/NHK0826/NHK08264/NHK08264_0240.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0241.wav ./dic/NHK0826/NHK08264/NHK08264_0241.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0242.wav ./dic/NHK0826/NHK08264/NHK08264_0242.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0243.wav ./dic/NHK0826/NHK08264/NHK08264_0243.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0244.wav ./dic/NHK0826/NHK08264/NHK08264_0244.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0245.wav ./dic/NHK0826/NHK08264/NHK08264_0245.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0246.wav ./dic/NHK0826/NHK08264/NHK08264_0246.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0247.wav ./dic/NHK0826/NHK08264/NHK08264_0247.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0248.wav ./dic/NHK0826/NHK08264/NHK08264_0248.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0249.wav ./dic/NHK0826/NHK08264/NHK08264_0249.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0250.wav ./dic/NHK0826/NHK08264/NHK08264_0250.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0251.wav ./dic/NHK0826/NHK08264/NHK08264_0251.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0252.wav ./dic/NHK0826/NHK08264/NHK08264_0252.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0253.wav ./dic/NHK0826/NHK08264/NHK08264_0253.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0254.wav ./dic/NHK0826/NHK08264/NHK08264_0254.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0255.wav ./dic/NHK0826/NHK08264/NHK08264_0255.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0256.wav ./dic/NHK0826/NHK08264/NHK08264_0256.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0257.wav ./dic/NHK0826/NHK08264/NHK08264_0257.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0258.wav ./dic/NHK0826/NHK08264/NHK08264_0258.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0259.wav ./dic/NHK0826/NHK08264/NHK08264_0259.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0260.wav ./dic/NHK0826/NHK08264/NHK08264_0260.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0261.wav ./dic/NHK0826/NHK08264/NHK08264_0261.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0262.wav ./dic/NHK0826/NHK08264/NHK08264_0262.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0263.wav ./dic/NHK0826/NHK08264/NHK08264_0263.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0264.wav ./dic/NHK0826/NHK08264/NHK08264_0264.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0265.wav ./dic/NHK0826/NHK08264/NHK08264_0265.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0266.wav ./dic/NHK0826/NHK08264/NHK08264_0266.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0267.wav ./dic/NHK0826/NHK08264/NHK08264_0267.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0268.wav ./dic/NHK0826/NHK08264/NHK08264_0268.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0269.wav ./dic/NHK0826/NHK08264/NHK08264_0269.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0270.wav ./dic/NHK0826/NHK08264/NHK08264_0270.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0271.wav ./dic/NHK0826/NHK08264/NHK08264_0271.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0272.wav ./dic/NHK0826/NHK08264/NHK08264_0272.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0273.wav ./dic/NHK0826/NHK08264/NHK08264_0273.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0274.wav ./dic/NHK0826/NHK08264/NHK08264_0274.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0275.wav ./dic/NHK0826/NHK08264/NHK08264_0275.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0276.wav ./dic/NHK0826/NHK08264/NHK08264_0276.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0277.wav ./dic/NHK0826/NHK08264/NHK08264_0277.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0278.wav ./dic/NHK0826/NHK08264/NHK08264_0278.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0279.wav ./dic/NHK0826/NHK08264/NHK08264_0279.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0280.wav ./dic/NHK0826/NHK08264/NHK08264_0280.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0281.wav ./dic/NHK0826/NHK08264/NHK08264_0281.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0282.wav ./dic/NHK0826/NHK08264/NHK08264_0282.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0283.wav ./dic/NHK0826/NHK08264/NHK08264_0283.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0284.wav ./dic/NHK0826/NHK08264/NHK08264_0284.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0285.wav ./dic/NHK0826/NHK08264/NHK08264_0285.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0286.wav ./dic/NHK0826/NHK08264/NHK08264_0286.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0287.wav ./dic/NHK0826/NHK08264/NHK08264_0287.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0288.wav ./dic/NHK0826/NHK08264/NHK08264_0288.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0289.wav ./dic/NHK0826/NHK08264/NHK08264_0289.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0290.wav ./dic/NHK0826/NHK08264/NHK08264_0290.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0291.wav ./dic/NHK0826/NHK08264/NHK08264_0291.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0292.wav ./dic/NHK0826/NHK08264/NHK08264_0292.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0293.wav ./dic/NHK0826/NHK08265/NHK08265_0293.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0294.wav ./dic/NHK0826/NHK08265/NHK08265_0294.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0295.wav ./dic/NHK0826/NHK08265/NHK08265_0295.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0296.wav ./dic/NHK0826/NHK08265/NHK08265_0296.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0297.wav ./dic/NHK0826/NHK08265/NHK08265_0297.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0298.wav ./dic/NHK0826/NHK08265/NHK08265_0298.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0299.wav ./dic/NHK0826/NHK08265/NHK08265_0299.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0300.wav ./dic/NHK0826/NHK08265/NHK08265_0300.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0301.wav ./dic/NHK0826/NHK08265/NHK08265_0301.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0302.wav ./dic/NHK0826/NHK08265/NHK08265_0302.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0303.wav ./dic/NHK0826/NHK08265/NHK08265_0303.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0304.wav ./dic/NHK0826/NHK08265/NHK08265_0304.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0305.wav ./dic/NHK0826/NHK08265/NHK08265_0305.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0306.wav ./dic/NHK0826/NHK08265/NHK08265_0306.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0307.wav ./dic/NHK0826/NHK08265/NHK08265_0307.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0308.wav ./dic/NHK0826/NHK08265/NHK08265_0308.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0309.wav ./dic/NHK0826/NHK08265/NHK08265_0309.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0310.wav ./dic/NHK0826/NHK08265/NHK08265_0310.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0311.wav ./dic/NHK0826/NHK08265/NHK08265_0311.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0312.wav ./dic/NHK0826/NHK08265/NHK08265_0312.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0313.wav ./dic/NHK0826/NHK08265/NHK08265_0313.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0314.wav ./dic/NHK0826/NHK08265/NHK08265_0314.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0315.wav ./dic/NHK0826/NHK08265/NHK08265_0315.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0316.wav ./dic/NHK0826/NHK08265/NHK08265_0316.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0317.wav ./dic/NHK0826/NHK08265/NHK08265_0317.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0318.wav ./dic/NHK0826/NHK08265/NHK08265_0318.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0319.wav ./dic/NHK0826/NHK08265/NHK08265_0319.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0320.wav ./dic/NHK0826/NHK08265/NHK08265_0320.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0321.wav ./dic/NHK0826/NHK08265/NHK08265_0321.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0322.wav ./dic/NHK0826/NHK08265/NHK08265_0322.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0323.wav ./dic/NHK0826/NHK08265/NHK08265_0323.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0324.wav ./dic/NHK0826/NHK08265/NHK08265_0324.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0325.wav ./dic/NHK0826/NHK08265/NHK08265_0325.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0326.wav ./dic/NHK0826/NHK08265/NHK08265_0326.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0327.wav ./dic/NHK0826/NHK08265/NHK08265_0327.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0328.wav ./dic/NHK0826/NHK08265/NHK08265_0328.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0329.wav ./dic/NHK0826/NHK08265/NHK08265_0329.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0330.wav ./dic/NHK0826/NHK08265/NHK08265_0330.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0331.wav ./dic/NHK0826/NHK08265/NHK08265_0331.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0332.wav ./dic/NHK0826/NHK08265/NHK08265_0332.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0333.wav ./dic/NHK0826/NHK08265/NHK08265_0333.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0334.wav ./dic/NHK0826/NHK08265/NHK08265_0334.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0335.wav ./dic/NHK0826/NHK08265/NHK08265_0335.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0336.wav ./dic/NHK0826/NHK08265/NHK08265_0336.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0337.wav ./dic/NHK0826/NHK08265/NHK08265_0337.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0338.wav ./dic/NHK0826/NHK08265/NHK08265_0338.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0339.wav ./dic/NHK0826/NHK08265/NHK08265_0339.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0340.wav ./dic/NHK0826/NHK08265/NHK08265_0340.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0341.wav ./dic/NHK0826/NHK08265/NHK08265_0341.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0342.wav ./dic/NHK0826/NHK08265/NHK08265_0342.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0343.wav ./dic/NHK0826/NHK08265/NHK08265_0343.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0344.wav ./dic/NHK0826/NHK08265/NHK08265_0344.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0345.wav ./dic/NHK0826/NHK08265/NHK08265_0345.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0346.wav ./dic/NHK0826/NHK08265/NHK08265_0346.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0347.wav ./dic/NHK0826/NHK08265/NHK08265_0347.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0348.wav ./dic/NHK0826/NHK08265/NHK08265_0348.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0349.wav ./dic/NHK0826/NHK08265/NHK08265_0349.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0350.wav ./dic/NHK0826/NHK08265/NHK08265_0350.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0351.wav ./dic/NHK0826/NHK08265/NHK08265_0351.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0352.wav ./dic/NHK0826/NHK08265/NHK08265_0352.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0353.wav ./dic/NHK0826/NHK08265/NHK08265_0353.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0354.wav ./dic/NHK0826/NHK08265/NHK08265_0354.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0355.wav ./dic/NHK0826/NHK08265/NHK08265_0355.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0356.wav ./dic/NHK0826/NHK08265/NHK08265_0356.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0357.wav ./dic/NHK0826/NHK08265/NHK08265_0357.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0358.wav ./dic/NHK0826/NHK08265/NHK08265_0358.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0359.wav ./dic/NHK0826/NHK08265/NHK08265_0359.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0360.wav ./dic/NHK0826/NHK08265/NHK08265_0360.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0361.wav ./dic/NHK0826/NHK08265/NHK08265_0361.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0362.wav ./dic/NHK0826/NHK08265/NHK08265_0362.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0363.wav ./dic/NHK0826/NHK08265/NHK08265_0363.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0364.wav ./dic/NHK0826/NHK08265/NHK08265_0364.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0365.wav ./dic/NHK0826/NHK08265/NHK08265_0365.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0366.wav ./dic/NHK0826/NHK08266/NHK08266_0366.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0367.wav ./dic/NHK0826/NHK08266/NHK08266_0367.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0368.wav ./dic/NHK0826/NHK08266/NHK08266_0368.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0369.wav ./dic/NHK0826/NHK08266/NHK08266_0369.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0370.wav ./dic/NHK0826/NHK08266/NHK08266_0370.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0371.wav ./dic/NHK0826/NHK08266/NHK08266_0371.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0372.wav ./dic/NHK0826/NHK08266/NHK08266_0372.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0373.wav ./dic/NHK0826/NHK08266/NHK08266_0373.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0374.wav ./dic/NHK0826/NHK08266/NHK08266_0374.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0375.wav ./dic/NHK0826/NHK08266/NHK08266_0375.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0376.wav ./dic/NHK0826/NHK08266/NHK08266_0376.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0377.wav ./dic/NHK0826/NHK08266/NHK08266_0377.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0378.wav ./dic/NHK0826/NHK08266/NHK08266_0378.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0379.wav ./dic/NHK0826/NHK08266/NHK08266_0379.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0380.wav ./dic/NHK0826/NHK08266/NHK08266_0380.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0381.wav ./dic/NHK0826/NHK08266/NHK08266_0381.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0382.wav ./dic/NHK0826/NHK08266/NHK08266_0382.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0383.wav ./dic/NHK0826/NHK08266/NHK08266_0383.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0384.wav ./dic/NHK0826/NHK08266/NHK08266_0384.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0385.wav ./dic/NHK0826/NHK08266/NHK08266_0385.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0386.wav ./dic/NHK0826/NHK08266/NHK08266_0386.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0387.wav ./dic/NHK0826/NHK08266/NHK08266_0387.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0388.wav ./dic/NHK0826/NHK08266/NHK08266_0388.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0389.wav ./dic/NHK0826/NHK08266/NHK08266_0389.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0390.wav ./dic/NHK0826/NHK08266/NHK08266_0390.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0391.wav ./dic/NHK0826/NHK08266/NHK08266_0391.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0392.wav ./dic/NHK0826/NHK08266/NHK08266_0392.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0393.wav ./dic/NHK0826/NHK08266/NHK08266_0393.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0394.wav ./dic/NHK0826/NHK08266/NHK08266_0394.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0395.wav ./dic/NHK0826/NHK08266/NHK08266_0395.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0396.wav ./dic/NHK0826/NHK08266/NHK08266_0396.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0397.wav ./dic/NHK0826/NHK08266/NHK08266_0397.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0398.wav ./dic/NHK0826/NHK08266/NHK08266_0398.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0399.wav ./dic/NHK0826/NHK08266/NHK08266_0399.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0400.wav ./dic/NHK0826/NHK08266/NHK08266_0400.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0401.wav ./dic/NHK0826/NHK08266/NHK08266_0401.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0402.wav ./dic/NHK0826/NHK08266/NHK08266_0402.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0403.wav ./dic/NHK0826/NHK08266/NHK08266_0403.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0404.wav ./dic/NHK0826/NHK08266/NHK08266_0404.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0405.wav ./dic/NHK0826/NHK08266/NHK08266_0405.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0406.wav ./dic/NHK0826/NHK08266/NHK08266_0406.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0407.wav ./dic/NHK0826/NHK08266/NHK08266_0407.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0408.wav ./dic/NHK0826/NHK08266/NHK08266_0408.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0409.wav ./dic/NHK0826/NHK08266/NHK08266_0409.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0410.wav ./dic/NHK0826/NHK08266/NHK08266_0410.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0411.wav ./dic/NHK0826/NHK08266/NHK08266_0411.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0412.wav ./dic/NHK0826/NHK08266/NHK08266_0412.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0413.wav ./dic/NHK0826/NHK08266/NHK08266_0413.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0414.wav ./dic/NHK0826/NHK08266/NHK08266_0414.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0415.wav ./dic/NHK0826/NHK08266/NHK08266_0415.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0416.wav ./dic/NHK0826/NHK08266/NHK08266_0416.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0417.wav ./dic/NHK0826/NHK08266/NHK08266_0417.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0418.wav ./dic/NHK0826/NHK08266/NHK08266_0418.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0419.wav ./dic/NHK0826/NHK08266/NHK08266_0419.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0420.wav ./dic/NHK0826/NHK08266/NHK08266_0420.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0421.wav ./dic/NHK0826/NHK08266/NHK08266_0421.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0422.wav ./dic/NHK0826/NHK08266/NHK08266_0422.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0423.wav ./dic/NHK0826/NHK08266/NHK08266_0423.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0424.wav ./dic/NHK0826/NHK08266/NHK08266_0424.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0425.wav ./dic/NHK0826/NHK08266/NHK08266_0425.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0426.wav ./dic/NHK0826/NHK08266/NHK08266_0426.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0427.wav ./dic/NHK0826/NHK08266/NHK08266_0427.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0428.wav ./dic/NHK0826/NHK08266/NHK08266_0428.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0429.wav ./dic/NHK0826/NHK08266/NHK08266_0429.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0430.wav ./dic/NHK0826/NHK08266/NHK08266_0430.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0431.wav ./dic/NHK0826/NHK08266/NHK08266_0431.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0432.wav ./dic/NHK0826/NHK08266/NHK08266_0432.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0433.wav ./dic/NHK0826/NHK08266/NHK08266_0433.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0434.wav ./dic/NHK0826/NHK08266/NHK08266_0434.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0435.wav ./dic/NHK0826/NHK08266/NHK08266_0435.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0436.wav ./dic/NHK0826/NHK08266/NHK08266_0436.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0437.wav ./dic/NHK0826/NHK08266/NHK08266_0437.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0438.wav ./dic/NHK0826/NHK08266/NHK08266_0438.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0439.wav ./dic/NHK0826/NHK08267/NHK08267_0439.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0440.wav ./dic/NHK0826/NHK08267/NHK08267_0440.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0441.wav ./dic/NHK0826/NHK08267/NHK08267_0441.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0442.wav ./dic/NHK0826/NHK08267/NHK08267_0442.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0443.wav ./dic/NHK0826/NHK08267/NHK08267_0443.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0444.wav ./dic/NHK0826/NHK08267/NHK08267_0444.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0445.wav ./dic/NHK0826/NHK08267/NHK08267_0445.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0446.wav ./dic/NHK0826/NHK08267/NHK08267_0446.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0447.wav ./dic/NHK0826/NHK08267/NHK08267_0447.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0448.wav ./dic/NHK0826/NHK08267/NHK08267_0448.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0449.wav ./dic/NHK0826/NHK08267/NHK08267_0449.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0450.wav ./dic/NHK0826/NHK08267/NHK08267_0450.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0451.wav ./dic/NHK0826/NHK08267/NHK08267_0451.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0452.wav ./dic/NHK0826/NHK08267/NHK08267_0452.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0453.wav ./dic/NHK0826/NHK08267/NHK08267_0453.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0454.wav ./dic/NHK0826/NHK08267/NHK08267_0454.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0455.wav ./dic/NHK0826/NHK08267/NHK08267_0455.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0456.wav ./dic/NHK0826/NHK08267/NHK08267_0456.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0457.wav ./dic/NHK0826/NHK08267/NHK08267_0457.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0458.wav ./dic/NHK0826/NHK08267/NHK08267_0458.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0459.wav ./dic/NHK0826/NHK08267/NHK08267_0459.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0460.wav ./dic/NHK0826/NHK08267/NHK08267_0460.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0461.wav ./dic/NHK0826/NHK08267/NHK08267_0461.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0462.wav ./dic/NHK0826/NHK08267/NHK08267_0462.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0463.wav ./dic/NHK0826/NHK08267/NHK08267_0463.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0464.wav ./dic/NHK0826/NHK08267/NHK08267_0464.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0465.wav ./dic/NHK0826/NHK08267/NHK08267_0465.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0466.wav ./dic/NHK0826/NHK08267/NHK08267_0466.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0467.wav ./dic/NHK0826/NHK08267/NHK08267_0467.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0468.wav ./dic/NHK0826/NHK08267/NHK08267_0468.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0469.wav ./dic/NHK0826/NHK08267/NHK08267_0469.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0470.wav ./dic/NHK0826/NHK08267/NHK08267_0470.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0471.wav ./dic/NHK0826/NHK08267/NHK08267_0471.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0472.wav ./dic/NHK0826/NHK08267/NHK08267_0472.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0473.wav ./dic/NHK0826/NHK08267/NHK08267_0473.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0474.wav ./dic/NHK0826/NHK08267/NHK08267_0474.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0475.wav ./dic/NHK0826/NHK08267/NHK08267_0475.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0476.wav ./dic/NHK0826/NHK08267/NHK08267_0476.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0477.wav ./dic/NHK0826/NHK08267/NHK08267_0477.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0478.wav ./dic/NHK0826/NHK08267/NHK08267_0478.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0479.wav ./dic/NHK0826/NHK08267/NHK08267_0479.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0480.wav ./dic/NHK0826/NHK08267/NHK08267_0480.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0481.wav ./dic/NHK0826/NHK08267/NHK08267_0481.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0482.wav ./dic/NHK0826/NHK08267/NHK08267_0482.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0483.wav ./dic/NHK0826/NHK08267/NHK08267_0483.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0484.wav ./dic/NHK0826/NHK08267/NHK08267_0484.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0485.wav ./dic/NHK0826/NHK08267/NHK08267_0485.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0486.wav ./dic/NHK0826/NHK08267/NHK08267_0486.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0487.wav ./dic/NHK0826/NHK08267/NHK08267_0487.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0488.wav ./dic/NHK0826/NHK08267/NHK08267_0488.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0489.wav ./dic/NHK0826/NHK08267/NHK08267_0489.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0490.wav ./dic/NHK0826/NHK08267/NHK08267_0490.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0491.wav ./dic/NHK0826/NHK08267/NHK08267_0491.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0492.wav ./dic/NHK0826/NHK08267/NHK08267_0492.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0493.wav ./dic/NHK0826/NHK08267/NHK08267_0493.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0494.wav ./dic/NHK0826/NHK08267/NHK08267_0494.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0495.wav ./dic/NHK0826/NHK08267/NHK08267_0495.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0496.wav ./dic/NHK0826/NHK08267/NHK08267_0496.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0497.wav ./dic/NHK0826/NHK08267/NHK08267_0497.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0498.wav ./dic/NHK0826/NHK08267/NHK08267_0498.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0499.wav ./dic/NHK0826/NHK08267/NHK08267_0499.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0500.wav ./dic/NHK0826/NHK08267/NHK08267_0500.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0501.wav ./dic/NHK0826/NHK08267/NHK08267_0501.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0502.wav ./dic/NHK0826/NHK08267/NHK08267_0502.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0503.wav ./dic/NHK0826/NHK08267/NHK08267_0503.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0504.wav ./dic/NHK0826/NHK08267/NHK08267_0504.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0505.wav ./dic/NHK0826/NHK08267/NHK08267_0505.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0506.wav ./dic/NHK0826/NHK08267/NHK08267_0506.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0507.wav ./dic/NHK0826/NHK08267/NHK08267_0507.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0508.wav ./dic/NHK0826/NHK08267/NHK08267_0508.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0509.wav ./dic/NHK0826/NHK08267/NHK08267_0509.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0510.wav ./dic/NHK0826/NHK08267/NHK08267_0510.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0511.wav ./dic/NHK0826/NHK08267/NHK08267_0511.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0512.wav ./dic/NHK0826/NHK08267/NHK08267_0512.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0513.wav ./dic/NHK0826/NHK08267/NHK08267_0513.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0514.wav ./dic/NHK0826/NHK08267/NHK08267_0514.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0515.wav ./dic/NHK0826/NHK08267/NHK08267_0515.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0516.wav ./dic/NHK0826/NHK08267/NHK08267_0516.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0517.wav ./dic/NHK0826/NHK08267/NHK08267_0517.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0518.wav ./dic/NHK0826/NHK08267/NHK08267_0518.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0519.wav ./dic/NHK0826/NHK08267/NHK08267_0519.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0001.wav ./dic/NHK1112/NHK11121/NHK11121_0001.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0002.wav ./dic/NHK1112/NHK11121/NHK11121_0002.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0003.wav ./dic/NHK1112/NHK11121/NHK11121_0003.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0004.wav ./dic/NHK1112/NHK11121/NHK11121_0004.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0005.wav ./dic/NHK1112/NHK11121/NHK11121_0005.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0006.wav ./dic/NHK1112/NHK11121/NHK11121_0006.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0007.wav ./dic/NHK1112/NHK11121/NHK11121_0007.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0008.wav ./dic/NHK1112/NHK11121/NHK11121_0008.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0009.wav ./dic/NHK1112/NHK11121/NHK11121_0009.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0010.wav ./dic/NHK1112/NHK11121/NHK11121_0010.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0011.wav ./dic/NHK1112/NHK11121/NHK11121_0011.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0012.wav ./dic/NHK1112/NHK11121/NHK11121_0012.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0013.wav ./dic/NHK1112/NHK11121/NHK11121_0013.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0014.wav ./dic/NHK1112/NHK11121/NHK11121_0014.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0015.wav ./dic/NHK1112/NHK11121/NHK11121_0015.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0016.wav ./dic/NHK1112/NHK11121/NHK11121_0016.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0017.wav ./dic/NHK1112/NHK11121/NHK11121_0017.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0018.wav ./dic/NHK1112/NHK11121/NHK11121_0018.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0019.wav ./dic/NHK1112/NHK11121/NHK11121_0019.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0020.wav ./dic/NHK1112/NHK11121/NHK11121_0020.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0021.wav ./dic/NHK1112/NHK11121/NHK11121_0021.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0022.wav ./dic/NHK1112/NHK11121/NHK11121_0022.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0023.wav ./dic/NHK1112/NHK11121/NHK11121_0023.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0024.wav ./dic/NHK1112/NHK11121/NHK11121_0024.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0025.wav ./dic/NHK1112/NHK11121/NHK11121_0025.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0026.wav ./dic/NHK1112/NHK11121/NHK11121_0026.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0027.wav ./dic/NHK1112/NHK11121/NHK11121_0027.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0028.wav ./dic/NHK1112/NHK11121/NHK11121_0028.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0029.wav ./dic/NHK1112/NHK11121/NHK11121_0029.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0030.wav ./dic/NHK1112/NHK11121/NHK11121_0030.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0031.wav ./dic/NHK1112/NHK11121/NHK11121_0031.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0032.wav ./dic/NHK1112/NHK11121/NHK11121_0032.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0033.wav ./dic/NHK1112/NHK11121/NHK11121_0033.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0034.wav ./dic/NHK1112/NHK11121/NHK11121_0034.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0035.wav ./dic/NHK1112/NHK11121/NHK11121_0035.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0036.wav ./dic/NHK1112/NHK11121/NHK11121_0036.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0037.wav ./dic/NHK1112/NHK11121/NHK11121_0037.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0038.wav ./dic/NHK1112/NHK11121/NHK11121_0038.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0039.wav ./dic/NHK1112/NHK11121/NHK11121_0039.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0040.wav ./dic/NHK1112/NHK11121/NHK11121_0040.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0041.wav ./dic/NHK1112/NHK11121/NHK11121_0041.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0042.wav ./dic/NHK1112/NHK11121/NHK11121_0042.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0043.wav ./dic/NHK1112/NHK11121/NHK11121_0043.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0044.wav ./dic/NHK1112/NHK11121/NHK11121_0044.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0045.wav ./dic/NHK1112/NHK11121/NHK11121_0045.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0046.wav ./dic/NHK1112/NHK11121/NHK11121_0046.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0047.wav ./dic/NHK1112/NHK11121/NHK11121_0047.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0048.wav ./dic/NHK1112/NHK11121/NHK11121_0048.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0049.wav ./dic/NHK1112/NHK11121/NHK11121_0049.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0050.wav ./dic/NHK1112/NHK11121/NHK11121_0050.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0051.wav ./dic/NHK1112/NHK11121/NHK11121_0051.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0052.wav ./dic/NHK1112/NHK11121/NHK11121_0052.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0053.wav ./dic/NHK1112/NHK11121/NHK11121_0053.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0054.wav ./dic/NHK1112/NHK11121/NHK11121_0054.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0055.wav ./dic/NHK1112/NHK11121/NHK11121_0055.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0056.wav ./dic/NHK1112/NHK11121/NHK11121_0056.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0057.wav ./dic/NHK1112/NHK11121/NHK11121_0057.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0058.wav ./dic/NHK1112/NHK11121/NHK11121_0058.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0059.wav ./dic/NHK1112/NHK11121/NHK11121_0059.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0060.wav ./dic/NHK1112/NHK11121/NHK11121_0060.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0061.wav ./dic/NHK1112/NHK11121/NHK11121_0061.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0062.wav ./dic/NHK1112/NHK11121/NHK11121_0062.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0063.wav ./dic/NHK1112/NHK11121/NHK11121_0063.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0064.wav ./dic/NHK1112/NHK11121/NHK11121_0064.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0065.wav ./dic/NHK1112/NHK11121/NHK11121_0065.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0066.wav ./dic/NHK1112/NHK11121/NHK11121_0066.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0067.wav ./dic/NHK1112/NHK11121/NHK11121_0067.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0068.wav ./dic/NHK1112/NHK11121/NHK11121_0068.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0069.wav ./dic/NHK1112/NHK11121/NHK11121_0069.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0070.wav ./dic/NHK1112/NHK11121/NHK11121_0070.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0071.wav ./dic/NHK1112/NHK11121/NHK11121_0071.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0072.wav ./dic/NHK1112/NHK11121/NHK11121_0072.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0073.wav ./dic/NHK1112/NHK11121/NHK11121_0073.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0074.wav ./dic/NHK1112/NHK11121/NHK11121_0074.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0075.wav ./dic/NHK1112/NHK11121/NHK11121_0075.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0076.wav ./dic/NHK1112/NHK11121/NHK11121_0076.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0077.wav ./dic/NHK1112/NHK11121/NHK11121_0077.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0078.wav ./dic/NHK1112/NHK11121/NHK11121_0078.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0079.wav ./dic/NHK1112/NHK11121/NHK11121_0079.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0080.wav ./dic/NHK1112/NHK11121/NHK11121_0080.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0081.wav ./dic/NHK1112/NHK11121/NHK11121_0081.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0082.wav ./dic/NHK1112/NHK11121/NHK11121_0082.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0083.wav ./dic/NHK1112/NHK11121/NHK11121_0083.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0084.wav ./dic/NHK1112/NHK11121/NHK11121_0084.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0085.wav ./dic/NHK1112/NHK11121/NHK11121_0085.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0086.wav ./dic/NHK1112/NHK11122/NHK11122_0086.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0087.wav ./dic/NHK1112/NHK11122/NHK11122_0087.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0088.wav ./dic/NHK1112/NHK11122/NHK11122_0088.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0089.wav ./dic/NHK1112/NHK11122/NHK11122_0089.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0090.wav ./dic/NHK1112/NHK11122/NHK11122_0090.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0091.wav ./dic/NHK1112/NHK11122/NHK11122_0091.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0092.wav ./dic/NHK1112/NHK11122/NHK11122_0092.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0093.wav ./dic/NHK1112/NHK11122/NHK11122_0093.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0094.wav ./dic/NHK1112/NHK11122/NHK11122_0094.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0095.wav ./dic/NHK1112/NHK11122/NHK11122_0095.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0096.wav ./dic/NHK1112/NHK11122/NHK11122_0096.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0097.wav ./dic/NHK1112/NHK11122/NHK11122_0097.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0098.wav ./dic/NHK1112/NHK11122/NHK11122_0098.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0099.wav ./dic/NHK1112/NHK11122/NHK11122_0099.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0100.wav ./dic/NHK1112/NHK11122/NHK11122_0100.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0101.wav ./dic/NHK1112/NHK11122/NHK11122_0101.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0102.wav ./dic/NHK1112/NHK11122/NHK11122_0102.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0103.wav ./dic/NHK1112/NHK11122/NHK11122_0103.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0104.wav ./dic/NHK1112/NHK11122/NHK11122_0104.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0105.wav ./dic/NHK1112/NHK11122/NHK11122_0105.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0106.wav ./dic/NHK1112/NHK11122/NHK11122_0106.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0107.wav ./dic/NHK1112/NHK11122/NHK11122_0107.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0108.wav ./dic/NHK1112/NHK11122/NHK11122_0108.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0109.wav ./dic/NHK1112/NHK11122/NHK11122_0109.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0110.wav ./dic/NHK1112/NHK11122/NHK11122_0110.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0111.wav ./dic/NHK1112/NHK11122/NHK11122_0111.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0112.wav ./dic/NHK1112/NHK11122/NHK11122_0112.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0113.wav ./dic/NHK1112/NHK11122/NHK11122_0113.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0114.wav ./dic/NHK1112/NHK11122/NHK11122_0114.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0115.wav ./dic/NHK1112/NHK11122/NHK11122_0115.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0116.wav ./dic/NHK1112/NHK11122/NHK11122_0116.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0117.wav ./dic/NHK1112/NHK11122/NHK11122_0117.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0118.wav ./dic/NHK1112/NHK11122/NHK11122_0118.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0119.wav ./dic/NHK1112/NHK11122/NHK11122_0119.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0120.wav ./dic/NHK1112/NHK11122/NHK11122_0120.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0121.wav ./dic/NHK1112/NHK11122/NHK11122_0121.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0122.wav ./dic/NHK1112/NHK11122/NHK11122_0122.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0123.wav ./dic/NHK1112/NHK11122/NHK11122_0123.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0124.wav ./dic/NHK1112/NHK11122/NHK11122_0124.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0125.wav ./dic/NHK1112/NHK11122/NHK11122_0125.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0126.wav ./dic/NHK1112/NHK11122/NHK11122_0126.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0127.wav ./dic/NHK1112/NHK11122/NHK11122_0127.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0128.wav ./dic/NHK1112/NHK11122/NHK11122_0128.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0129.wav ./dic/NHK1112/NHK11122/NHK11122_0129.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0130.wav ./dic/NHK1112/NHK11122/NHK11122_0130.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0131.wav ./dic/NHK1112/NHK11122/NHK11122_0131.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0132.wav ./dic/NHK1112/NHK11122/NHK11122_0132.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0133.wav ./dic/NHK1112/NHK11122/NHK11122_0133.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0134.wav ./dic/NHK1112/NHK11122/NHK11122_0134.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0135.wav ./dic/NHK1112/NHK11122/NHK11122_0135.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0136.wav ./dic/NHK1112/NHK11122/NHK11122_0136.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0137.wav ./dic/NHK1112/NHK11122/NHK11122_0137.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0138.wav ./dic/NHK1112/NHK11122/NHK11122_0138.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0139.wav ./dic/NHK1112/NHK11122/NHK11122_0139.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0140.wav ./dic/NHK1112/NHK11122/NHK11122_0140.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0141.wav ./dic/NHK1112/NHK11122/NHK11122_0141.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0142.wav ./dic/NHK1112/NHK11122/NHK11122_0142.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0143.wav ./dic/NHK1112/NHK11122/NHK11122_0143.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0144.wav ./dic/NHK1112/NHK11122/NHK11122_0144.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0145.wav ./dic/NHK1112/NHK11122/NHK11122_0145.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0146.wav ./dic/NHK1112/NHK11122/NHK11122_0146.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0147.wav ./dic/NHK1112/NHK11122/NHK11122_0147.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0148.wav ./dic/NHK1112/NHK11122/NHK11122_0148.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0149.wav ./dic/NHK1112/NHK11122/NHK11122_0149.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0150.wav ./dic/NHK1112/NHK11122/NHK11122_0150.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0151.wav ./dic/NHK1112/NHK11122/NHK11122_0151.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0152.wav ./dic/NHK1112/NHK11122/NHK11122_0152.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0153.wav ./dic/NHK1112/NHK11122/NHK11122_0153.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0154.wav ./dic/NHK1112/NHK11122/NHK11122_0154.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0155.wav ./dic/NHK1112/NHK11122/NHK11122_0155.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0156.wav ./dic/NHK1112/NHK11122/NHK11122_0156.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0157.wav ./dic/NHK1112/NHK11122/NHK11122_0157.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0158.wav ./dic/NHK1112/NHK11122/NHK11122_0158.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0159.wav ./dic/NHK1112/NHK11122/NHK11122_0159.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0160.wav ./dic/NHK1112/NHK11122/NHK11122_0160.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0161.wav ./dic/NHK1112/NHK11122/NHK11122_0161.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0162.wav ./dic/NHK1112/NHK11122/NHK11122_0162.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0163.wav ./dic/NHK1112/NHK11122/NHK11122_0163.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0164.wav ./dic/NHK1112/NHK11122/NHK11122_0164.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0165.wav ./dic/NHK1112/NHK11122/NHK11122_0165.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0166.wav ./dic/NHK1112/NHK11122/NHK11122_0166.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0167.wav ./dic/NHK1112/NHK11122/NHK11122_0167.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0168.wav ./dic/NHK1112/NHK11122/NHK11122_0168.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0169.wav ./dic/NHK1112/NHK11122/NHK11122_0169.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0170.wav ./dic/NHK1112/NHK11122/NHK11122_0170.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0171.wav ./dic/NHK1112/NHK11123/NHK11123_0171.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0172.wav ./dic/NHK1112/NHK11123/NHK11123_0172.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0173.wav ./dic/NHK1112/NHK11123/NHK11123_0173.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0174.wav ./dic/NHK1112/NHK11123/NHK11123_0174.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0175.wav ./dic/NHK1112/NHK11123/NHK11123_0175.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0176.wav ./dic/NHK1112/NHK11123/NHK11123_0176.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0177.wav ./dic/NHK1112/NHK11123/NHK11123_0177.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0178.wav ./dic/NHK1112/NHK11123/NHK11123_0178.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0179.wav ./dic/NHK1112/NHK11123/NHK11123_0179.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0180.wav ./dic/NHK1112/NHK11123/NHK11123_0180.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0181.wav ./dic/NHK1112/NHK11123/NHK11123_0181.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0182.wav ./dic/NHK1112/NHK11123/NHK11123_0182.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0183.wav ./dic/NHK1112/NHK11123/NHK11123_0183.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0184.wav ./dic/NHK1112/NHK11123/NHK11123_0184.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0185.wav ./dic/NHK1112/NHK11123/NHK11123_0185.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0186.wav ./dic/NHK1112/NHK11123/NHK11123_0186.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0187.wav ./dic/NHK1112/NHK11123/NHK11123_0187.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0188.wav ./dic/NHK1112/NHK11123/NHK11123_0188.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0189.wav ./dic/NHK1112/NHK11123/NHK11123_0189.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0190.wav ./dic/NHK1112/NHK11123/NHK11123_0190.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0191.wav ./dic/NHK1112/NHK11123/NHK11123_0191.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0192.wav ./dic/NHK1112/NHK11123/NHK11123_0192.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0193.wav ./dic/NHK1112/NHK11123/NHK11123_0193.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0194.wav ./dic/NHK1112/NHK11123/NHK11123_0194.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0195.wav ./dic/NHK1112/NHK11123/NHK11123_0195.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0196.wav ./dic/NHK1112/NHK11123/NHK11123_0196.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0197.wav ./dic/NHK1112/NHK11123/NHK11123_0197.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0198.wav ./dic/NHK1112/NHK11123/NHK11123_0198.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0199.wav ./dic/NHK1112/NHK11123/NHK11123_0199.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0200.wav ./dic/NHK1112/NHK11123/NHK11123_0200.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0201.wav ./dic/NHK1112/NHK11123/NHK11123_0201.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0202.wav ./dic/NHK1112/NHK11123/NHK11123_0202.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0203.wav ./dic/NHK1112/NHK11123/NHK11123_0203.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0204.wav ./dic/NHK1112/NHK11123/NHK11123_0204.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0205.wav ./dic/NHK1112/NHK11123/NHK11123_0205.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0206.wav ./dic/NHK1112/NHK11123/NHK11123_0206.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0207.wav ./dic/NHK1112/NHK11123/NHK11123_0207.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0208.wav ./dic/NHK1112/NHK11123/NHK11123_0208.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0209.wav ./dic/NHK1112/NHK11123/NHK11123_0209.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0210.wav ./dic/NHK1112/NHK11123/NHK11123_0210.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0211.wav ./dic/NHK1112/NHK11123/NHK11123_0211.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0212.wav ./dic/NHK1112/NHK11123/NHK11123_0212.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0213.wav ./dic/NHK1112/NHK11123/NHK11123_0213.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0214.wav ./dic/NHK1112/NHK11123/NHK11123_0214.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0215.wav ./dic/NHK1112/NHK11123/NHK11123_0215.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0216.wav ./dic/NHK1112/NHK11123/NHK11123_0216.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0217.wav ./dic/NHK1112/NHK11123/NHK11123_0217.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0218.wav ./dic/NHK1112/NHK11123/NHK11123_0218.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0219.wav ./dic/NHK1112/NHK11123/NHK11123_0219.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0220.wav ./dic/NHK1112/NHK11123/NHK11123_0220.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0221.wav ./dic/NHK1112/NHK11123/NHK11123_0221.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0222.wav ./dic/NHK1112/NHK11123/NHK11123_0222.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0223.wav ./dic/NHK1112/NHK11123/NHK11123_0223.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0224.wav ./dic/NHK1112/NHK11123/NHK11123_0224.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0225.wav ./dic/NHK1112/NHK11123/NHK11123_0225.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0226.wav ./dic/NHK1112/NHK11123/NHK11123_0226.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0227.wav ./dic/NHK1112/NHK11123/NHK11123_0227.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0228.wav ./dic/NHK1112/NHK11123/NHK11123_0228.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0229.wav ./dic/NHK1112/NHK11123/NHK11123_0229.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0230.wav ./dic/NHK1112/NHK11123/NHK11123_0230.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0231.wav ./dic/NHK1112/NHK11123/NHK11123_0231.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0232.wav ./dic/NHK1112/NHK11123/NHK11123_0232.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0233.wav ./dic/NHK1112/NHK11123/NHK11123_0233.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0234.wav ./dic/NHK1112/NHK11123/NHK11123_0234.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0235.wav ./dic/NHK1112/NHK11123/NHK11123_0235.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0236.wav ./dic/NHK1112/NHK11123/NHK11123_0236.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0237.wav ./dic/NHK1112/NHK11123/NHK11123_0237.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0238.wav ./dic/NHK1112/NHK11123/NHK11123_0238.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0239.wav ./dic/NHK1112/NHK11123/NHK11123_0239.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0240.wav ./dic/NHK1112/NHK11123/NHK11123_0240.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0241.wav ./dic/NHK1112/NHK11123/NHK11123_0241.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0242.wav ./dic/NHK1112/NHK11123/NHK11123_0242.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0243.wav ./dic/NHK1112/NHK11123/NHK11123_0243.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0244.wav ./dic/NHK1112/NHK11123/NHK11123_0244.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0245.wav ./dic/NHK1112/NHK11123/NHK11123_0245.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0246.wav ./dic/NHK1112/NHK11123/NHK11123_0246.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0247.wav ./dic/NHK1112/NHK11123/NHK11123_0247.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0248.wav ./dic/NHK1112/NHK11123/NHK11123_0248.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0249.wav ./dic/NHK1112/NHK11123/NHK11123_0249.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0250.wav ./dic/NHK1112/NHK11123/NHK11123_0250.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0251.wav ./dic/NHK1112/NHK11123/NHK11123_0251.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0252.wav ./dic/NHK1112/NHK11123/NHK11123_0252.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0253.wav ./dic/NHK1112/NHK11123/NHK11123_0253.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0254.wav ./dic/NHK1112/NHK11123/NHK11123_0254.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0255.wav ./dic/NHK1112/NHK11123/NHK11123_0255.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0256.wav ./dic/NHK1112/NHK11124/NHK11124_0256.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0257.wav ./dic/NHK1112/NHK11124/NHK11124_0257.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0258.wav ./dic/NHK1112/NHK11124/NHK11124_0258.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0259.wav ./dic/NHK1112/NHK11124/NHK11124_0259.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0260.wav ./dic/NHK1112/NHK11124/NHK11124_0260.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0261.wav ./dic/NHK1112/NHK11124/NHK11124_0261.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0262.wav ./dic/NHK1112/NHK11124/NHK11124_0262.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0263.wav ./dic/NHK1112/NHK11124/NHK11124_0263.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0264.wav ./dic/NHK1112/NHK11124/NHK11124_0264.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0265.wav ./dic/NHK1112/NHK11124/NHK11124_0265.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0266.wav ./dic/NHK1112/NHK11124/NHK11124_0266.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0267.wav ./dic/NHK1112/NHK11124/NHK11124_0267.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0268.wav ./dic/NHK1112/NHK11124/NHK11124_0268.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0269.wav ./dic/NHK1112/NHK11124/NHK11124_0269.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0270.wav ./dic/NHK1112/NHK11124/NHK11124_0270.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0271.wav ./dic/NHK1112/NHK11124/NHK11124_0271.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0272.wav ./dic/NHK1112/NHK11124/NHK11124_0272.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0273.wav ./dic/NHK1112/NHK11124/NHK11124_0273.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0274.wav ./dic/NHK1112/NHK11124/NHK11124_0274.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0275.wav ./dic/NHK1112/NHK11124/NHK11124_0275.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0276.wav ./dic/NHK1112/NHK11124/NHK11124_0276.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0277.wav ./dic/NHK1112/NHK11124/NHK11124_0277.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0278.wav ./dic/NHK1112/NHK11124/NHK11124_0278.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0279.wav ./dic/NHK1112/NHK11124/NHK11124_0279.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0280.wav ./dic/NHK1112/NHK11124/NHK11124_0280.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0281.wav ./dic/NHK1112/NHK11124/NHK11124_0281.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0282.wav ./dic/NHK1112/NHK11124/NHK11124_0282.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0283.wav ./dic/NHK1112/NHK11124/NHK11124_0283.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0284.wav ./dic/NHK1112/NHK11124/NHK11124_0284.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0285.wav ./dic/NHK1112/NHK11124/NHK11124_0285.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0286.wav ./dic/NHK1112/NHK11124/NHK11124_0286.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0287.wav ./dic/NHK1112/NHK11124/NHK11124_0287.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0288.wav ./dic/NHK1112/NHK11124/NHK11124_0288.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0289.wav ./dic/NHK1112/NHK11124/NHK11124_0289.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0290.wav ./dic/NHK1112/NHK11124/NHK11124_0290.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0291.wav ./dic/NHK1112/NHK11124/NHK11124_0291.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0292.wav ./dic/NHK1112/NHK11124/NHK11124_0292.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0293.wav ./dic/NHK1112/NHK11124/NHK11124_0293.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0294.wav ./dic/NHK1112/NHK11124/NHK11124_0294.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0295.wav ./dic/NHK1112/NHK11124/NHK11124_0295.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0296.wav ./dic/NHK1112/NHK11124/NHK11124_0296.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0297.wav ./dic/NHK1112/NHK11124/NHK11124_0297.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0298.wav ./dic/NHK1112/NHK11124/NHK11124_0298.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0299.wav ./dic/NHK1112/NHK11124/NHK11124_0299.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0300.wav ./dic/NHK1112/NHK11124/NHK11124_0300.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0301.wav ./dic/NHK1112/NHK11124/NHK11124_0301.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0302.wav ./dic/NHK1112/NHK11124/NHK11124_0302.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0303.wav ./dic/NHK1112/NHK11124/NHK11124_0303.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0304.wav ./dic/NHK1112/NHK11124/NHK11124_0304.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0305.wav ./dic/NHK1112/NHK11124/NHK11124_0305.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0306.wav ./dic/NHK1112/NHK11124/NHK11124_0306.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0307.wav ./dic/NHK1112/NHK11124/NHK11124_0307.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0308.wav ./dic/NHK1112/NHK11124/NHK11124_0308.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0309.wav ./dic/NHK1112/NHK11124/NHK11124_0309.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0310.wav ./dic/NHK1112/NHK11124/NHK11124_0310.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0311.wav ./dic/NHK1112/NHK11124/NHK11124_0311.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0312.wav ./dic/NHK1112/NHK11124/NHK11124_0312.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0313.wav ./dic/NHK1112/NHK11124/NHK11124_0313.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0314.wav ./dic/NHK1112/NHK11124/NHK11124_0314.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0315.wav ./dic/NHK1112/NHK11124/NHK11124_0315.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0316.wav ./dic/NHK1112/NHK11124/NHK11124_0316.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0317.wav ./dic/NHK1112/NHK11124/NHK11124_0317.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0318.wav ./dic/NHK1112/NHK11124/NHK11124_0318.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0319.wav ./dic/NHK1112/NHK11124/NHK11124_0319.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0320.wav ./dic/NHK1112/NHK11124/NHK11124_0320.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0321.wav ./dic/NHK1112/NHK11124/NHK11124_0321.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0322.wav ./dic/NHK1112/NHK11124/NHK11124_0322.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0323.wav ./dic/NHK1112/NHK11124/NHK11124_0323.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0324.wav ./dic/NHK1112/NHK11124/NHK11124_0324.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0325.wav ./dic/NHK1112/NHK11124/NHK11124_0325.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0326.wav ./dic/NHK1112/NHK11124/NHK11124_0326.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0327.wav ./dic/NHK1112/NHK11124/NHK11124_0327.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0328.wav ./dic/NHK1112/NHK11124/NHK11124_0328.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0329.wav ./dic/NHK1112/NHK11124/NHK11124_0329.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0330.wav ./dic/NHK1112/NHK11124/NHK11124_0330.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0331.wav ./dic/NHK1112/NHK11124/NHK11124_0331.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0332.wav ./dic/NHK1112/NHK11124/NHK11124_0332.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0333.wav ./dic/NHK1112/NHK11124/NHK11124_0333.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0334.wav ./dic/NHK1112/NHK11124/NHK11124_0334.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0335.wav ./dic/NHK1112/NHK11124/NHK11124_0335.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0336.wav ./dic/NHK1112/NHK11124/NHK11124_0336.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0337.wav ./dic/NHK1112/NHK11124/NHK11124_0337.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0338.wav ./dic/NHK1112/NHK11124/NHK11124_0338.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0339.wav ./dic/NHK1112/NHK11124/NHK11124_0339.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0340.wav ./dic/NHK1112/NHK11124/NHK11124_0340.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0341.wav ./dic/NHK1112/NHK11125/NHK11125_0341.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0342.wav ./dic/NHK1112/NHK11125/NHK11125_0342.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0343.wav ./dic/NHK1112/NHK11125/NHK11125_0343.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0344.wav ./dic/NHK1112/NHK11125/NHK11125_0344.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0345.wav ./dic/NHK1112/NHK11125/NHK11125_0345.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0346.wav ./dic/NHK1112/NHK11125/NHK11125_0346.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0347.wav ./dic/NHK1112/NHK11125/NHK11125_0347.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0348.wav ./dic/NHK1112/NHK11125/NHK11125_0348.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0349.wav ./dic/NHK1112/NHK11125/NHK11125_0349.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0350.wav ./dic/NHK1112/NHK11125/NHK11125_0350.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0351.wav ./dic/NHK1112/NHK11125/NHK11125_0351.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0352.wav ./dic/NHK1112/NHK11125/NHK11125_0352.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0353.wav ./dic/NHK1112/NHK11125/NHK11125_0353.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0354.wav ./dic/NHK1112/NHK11125/NHK11125_0354.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0355.wav ./dic/NHK1112/NHK11125/NHK11125_0355.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0356.wav ./dic/NHK1112/NHK11125/NHK11125_0356.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0357.wav ./dic/NHK1112/NHK11125/NHK11125_0357.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0358.wav ./dic/NHK1112/NHK11125/NHK11125_0358.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0359.wav ./dic/NHK1112/NHK11125/NHK11125_0359.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0360.wav ./dic/NHK1112/NHK11125/NHK11125_0360.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0361.wav ./dic/NHK1112/NHK11125/NHK11125_0361.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0362.wav ./dic/NHK1112/NHK11125/NHK11125_0362.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0363.wav ./dic/NHK1112/NHK11125/NHK11125_0363.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0364.wav ./dic/NHK1112/NHK11125/NHK11125_0364.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0365.wav ./dic/NHK1112/NHK11125/NHK11125_0365.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0366.wav ./dic/NHK1112/NHK11125/NHK11125_0366.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0367.wav ./dic/NHK1112/NHK11125/NHK11125_0367.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0368.wav ./dic/NHK1112/NHK11125/NHK11125_0368.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0369.wav ./dic/NHK1112/NHK11125/NHK11125_0369.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0370.wav ./dic/NHK1112/NHK11125/NHK11125_0370.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0371.wav ./dic/NHK1112/NHK11125/NHK11125_0371.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0372.wav ./dic/NHK1112/NHK11125/NHK11125_0372.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0373.wav ./dic/NHK1112/NHK11125/NHK11125_0373.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0374.wav ./dic/NHK1112/NHK11125/NHK11125_0374.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0375.wav ./dic/NHK1112/NHK11125/NHK11125_0375.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0376.wav ./dic/NHK1112/NHK11125/NHK11125_0376.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0377.wav ./dic/NHK1112/NHK11125/NHK11125_0377.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0378.wav ./dic/NHK1112/NHK11125/NHK11125_0378.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0379.wav ./dic/NHK1112/NHK11125/NHK11125_0379.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0380.wav ./dic/NHK1112/NHK11125/NHK11125_0380.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0381.wav ./dic/NHK1112/NHK11125/NHK11125_0381.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0382.wav ./dic/NHK1112/NHK11125/NHK11125_0382.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0383.wav ./dic/NHK1112/NHK11125/NHK11125_0383.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0384.wav ./dic/NHK1112/NHK11125/NHK11125_0384.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0385.wav ./dic/NHK1112/NHK11125/NHK11125_0385.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0386.wav ./dic/NHK1112/NHK11125/NHK11125_0386.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0387.wav ./dic/NHK1112/NHK11125/NHK11125_0387.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0388.wav ./dic/NHK1112/NHK11125/NHK11125_0388.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0389.wav ./dic/NHK1112/NHK11125/NHK11125_0389.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0390.wav ./dic/NHK1112/NHK11125/NHK11125_0390.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0391.wav ./dic/NHK1112/NHK11125/NHK11125_0391.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0392.wav ./dic/NHK1112/NHK11125/NHK11125_0392.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0393.wav ./dic/NHK1112/NHK11125/NHK11125_0393.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0394.wav ./dic/NHK1112/NHK11125/NHK11125_0394.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0395.wav ./dic/NHK1112/NHK11125/NHK11125_0395.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0396.wav ./dic/NHK1112/NHK11125/NHK11125_0396.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0397.wav ./dic/NHK1112/NHK11125/NHK11125_0397.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0398.wav ./dic/NHK1112/NHK11125/NHK11125_0398.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0399.wav ./dic/NHK1112/NHK11125/NHK11125_0399.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0400.wav ./dic/NHK1112/NHK11125/NHK11125_0400.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0401.wav ./dic/NHK1112/NHK11125/NHK11125_0401.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0402.wav ./dic/NHK1112/NHK11125/NHK11125_0402.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0403.wav ./dic/NHK1112/NHK11125/NHK11125_0403.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0404.wav ./dic/NHK1112/NHK11125/NHK11125_0404.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0405.wav ./dic/NHK1112/NHK11125/NHK11125_0405.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0406.wav ./dic/NHK1112/NHK11125/NHK11125_0406.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0407.wav ./dic/NHK1112/NHK11125/NHK11125_0407.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0408.wav ./dic/NHK1112/NHK11125/NHK11125_0408.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0409.wav ./dic/NHK1112/NHK11125/NHK11125_0409.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0410.wav ./dic/NHK1112/NHK11125/NHK11125_0410.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0411.wav ./dic/NHK1112/NHK11125/NHK11125_0411.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0412.wav ./dic/NHK1112/NHK11125/NHK11125_0412.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0413.wav ./dic/NHK1112/NHK11125/NHK11125_0413.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0414.wav ./dic/NHK1112/NHK11125/NHK11125_0414.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0415.wav ./dic/NHK1112/NHK11125/NHK11125_0415.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0416.wav ./dic/NHK1112/NHK11125/NHK11125_0416.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0417.wav ./dic/NHK1112/NHK11125/NHK11125_0417.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0418.wav ./dic/NHK1112/NHK11125/NHK11125_0418.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0419.wav ./dic/NHK1112/NHK11125/NHK11125_0419.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0420.wav ./dic/NHK1112/NHK11125/NHK11125_0420.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0421.wav ./dic/NHK1112/NHK11125/NHK11125_0421.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0422.wav ./dic/NHK1112/NHK11125/NHK11125_0422.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0423.wav ./dic/NHK1112/NHK11125/NHK11125_0423.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0424.wav ./dic/NHK1112/NHK11125/NHK11125_0424.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0425.wav ./dic/NHK1112/NHK11125/NHK11125_0425.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0426.wav ./dic/NHK1112/NHK11126/NHK11126_0426.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0427.wav ./dic/NHK1112/NHK11126/NHK11126_0427.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0428.wav ./dic/NHK1112/NHK11126/NHK11126_0428.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0429.wav ./dic/NHK1112/NHK11126/NHK11126_0429.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0430.wav ./dic/NHK1112/NHK11126/NHK11126_0430.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0431.wav ./dic/NHK1112/NHK11126/NHK11126_0431.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0432.wav ./dic/NHK1112/NHK11126/NHK11126_0432.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0433.wav ./dic/NHK1112/NHK11126/NHK11126_0433.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0434.wav ./dic/NHK1112/NHK11126/NHK11126_0434.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0435.wav ./dic/NHK1112/NHK11126/NHK11126_0435.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0436.wav ./dic/NHK1112/NHK11126/NHK11126_0436.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0437.wav ./dic/NHK1112/NHK11126/NHK11126_0437.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0438.wav ./dic/NHK1112/NHK11126/NHK11126_0438.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0439.wav ./dic/NHK1112/NHK11126/NHK11126_0439.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0440.wav ./dic/NHK1112/NHK11126/NHK11126_0440.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0441.wav ./dic/NHK1112/NHK11126/NHK11126_0441.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0442.wav ./dic/NHK1112/NHK11126/NHK11126_0442.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0443.wav ./dic/NHK1112/NHK11126/NHK11126_0443.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0444.wav ./dic/NHK1112/NHK11126/NHK11126_0444.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0445.wav ./dic/NHK1112/NHK11126/NHK11126_0445.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0446.wav ./dic/NHK1112/NHK11126/NHK11126_0446.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0447.wav ./dic/NHK1112/NHK11126/NHK11126_0447.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0448.wav ./dic/NHK1112/NHK11126/NHK11126_0448.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0449.wav ./dic/NHK1112/NHK11126/NHK11126_0449.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0450.wav ./dic/NHK1112/NHK11126/NHK11126_0450.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0451.wav ./dic/NHK1112/NHK11126/NHK11126_0451.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0452.wav ./dic/NHK1112/NHK11126/NHK11126_0452.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0453.wav ./dic/NHK1112/NHK11126/NHK11126_0453.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0454.wav ./dic/NHK1112/NHK11126/NHK11126_0454.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0455.wav ./dic/NHK1112/NHK11126/NHK11126_0455.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0456.wav ./dic/NHK1112/NHK11126/NHK11126_0456.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0457.wav ./dic/NHK1112/NHK11126/NHK11126_0457.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0458.wav ./dic/NHK1112/NHK11126/NHK11126_0458.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0459.wav ./dic/NHK1112/NHK11126/NHK11126_0459.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0460.wav ./dic/NHK1112/NHK11126/NHK11126_0460.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0461.wav ./dic/NHK1112/NHK11126/NHK11126_0461.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0462.wav ./dic/NHK1112/NHK11126/NHK11126_0462.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0463.wav ./dic/NHK1112/NHK11126/NHK11126_0463.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0464.wav ./dic/NHK1112/NHK11126/NHK11126_0464.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0465.wav ./dic/NHK1112/NHK11126/NHK11126_0465.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0466.wav ./dic/NHK1112/NHK11126/NHK11126_0466.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0467.wav ./dic/NHK1112/NHK11126/NHK11126_0467.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0468.wav ./dic/NHK1112/NHK11126/NHK11126_0468.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0469.wav ./dic/NHK1112/NHK11126/NHK11126_0469.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0470.wav ./dic/NHK1112/NHK11126/NHK11126_0470.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0471.wav ./dic/NHK1112/NHK11126/NHK11126_0471.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0472.wav ./dic/NHK1112/NHK11126/NHK11126_0472.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0473.wav ./dic/NHK1112/NHK11126/NHK11126_0473.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0474.wav ./dic/NHK1112/NHK11126/NHK11126_0474.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0475.wav ./dic/NHK1112/NHK11126/NHK11126_0475.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0476.wav ./dic/NHK1112/NHK11126/NHK11126_0476.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0477.wav ./dic/NHK1112/NHK11126/NHK11126_0477.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0478.wav ./dic/NHK1112/NHK11126/NHK11126_0478.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0479.wav ./dic/NHK1112/NHK11126/NHK11126_0479.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0480.wav ./dic/NHK1112/NHK11126/NHK11126_0480.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0481.wav ./dic/NHK1112/NHK11126/NHK11126_0481.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0482.wav ./dic/NHK1112/NHK11126/NHK11126_0482.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0483.wav ./dic/NHK1112/NHK11126/NHK11126_0483.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0484.wav ./dic/NHK1112/NHK11126/NHK11126_0484.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0485.wav ./dic/NHK1112/NHK11126/NHK11126_0485.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0486.wav ./dic/NHK1112/NHK11126/NHK11126_0486.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0487.wav ./dic/NHK1112/NHK11126/NHK11126_0487.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0488.wav ./dic/NHK1112/NHK11126/NHK11126_0488.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0489.wav ./dic/NHK1112/NHK11126/NHK11126_0489.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0490.wav ./dic/NHK1112/NHK11126/NHK11126_0490.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0491.wav ./dic/NHK1112/NHK11126/NHK11126_0491.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0492.wav ./dic/NHK1112/NHK11126/NHK11126_0492.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0493.wav ./dic/NHK1112/NHK11126/NHK11126_0493.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0494.wav ./dic/NHK1112/NHK11126/NHK11126_0494.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0495.wav ./dic/NHK1112/NHK11126/NHK11126_0495.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0496.wav ./dic/NHK1112/NHK11126/NHK11126_0496.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0497.wav ./dic/NHK1112/NHK11126/NHK11126_0497.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0498.wav ./dic/NHK1112/NHK11126/NHK11126_0498.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0499.wav ./dic/NHK1112/NHK11126/NHK11126_0499.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0500.wav ./dic/NHK1112/NHK11126/NHK11126_0500.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0501.wav ./dic/NHK1112/NHK11126/NHK11126_0501.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0502.wav ./dic/NHK1112/NHK11126/NHK11126_0502.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0503.wav ./dic/NHK1112/NHK11126/NHK11126_0503.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0504.wav ./dic/NHK1112/NHK11126/NHK11126_0504.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0505.wav ./dic/NHK1112/NHK11126/NHK11126_0505.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0506.wav ./dic/NHK1112/NHK11126/NHK11126_0506.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0507.wav ./dic/NHK1112/NHK11126/NHK11126_0507.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0508.wav ./dic/NHK1112/NHK11126/NHK11126_0508.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0509.wav ./dic/NHK1112/NHK11126/NHK11126_0509.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0510.wav ./dic/NHK1112/NHK11126/NHK11126_0510.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0511.wav ./dic/NHK1112/NHK11127/NHK11127_0511.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0512.wav ./dic/NHK1112/NHK11127/NHK11127_0512.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0513.wav ./dic/NHK1112/NHK11127/NHK11127_0513.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0514.wav ./dic/NHK1112/NHK11127/NHK11127_0514.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0515.wav ./dic/NHK1112/NHK11127/NHK11127_0515.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0516.wav ./dic/NHK1112/NHK11127/NHK11127_0516.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0517.wav ./dic/NHK1112/NHK11127/NHK11127_0517.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0518.wav ./dic/NHK1112/NHK11127/NHK11127_0518.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0519.wav ./dic/NHK1112/NHK11127/NHK11127_0519.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0520.wav ./dic/NHK1112/NHK11127/NHK11127_0520.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0521.wav ./dic/NHK1112/NHK11127/NHK11127_0521.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0522.wav ./dic/NHK1112/NHK11127/NHK11127_0522.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0523.wav ./dic/NHK1112/NHK11127/NHK11127_0523.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0524.wav ./dic/NHK1112/NHK11127/NHK11127_0524.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0525.wav ./dic/NHK1112/NHK11127/NHK11127_0525.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0526.wav ./dic/NHK1112/NHK11127/NHK11127_0526.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0527.wav ./dic/NHK1112/NHK11127/NHK11127_0527.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0528.wav ./dic/NHK1112/NHK11127/NHK11127_0528.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0529.wav ./dic/NHK1112/NHK11127/NHK11127_0529.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0530.wav ./dic/NHK1112/NHK11127/NHK11127_0530.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0531.wav ./dic/NHK1112/NHK11127/NHK11127_0531.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0532.wav ./dic/NHK1112/NHK11127/NHK11127_0532.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0533.wav ./dic/NHK1112/NHK11127/NHK11127_0533.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0534.wav ./dic/NHK1112/NHK11127/NHK11127_0534.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0535.wav ./dic/NHK1112/NHK11127/NHK11127_0535.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0536.wav ./dic/NHK1112/NHK11127/NHK11127_0536.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0537.wav ./dic/NHK1112/NHK11127/NHK11127_0537.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0538.wav ./dic/NHK1112/NHK11127/NHK11127_0538.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0539.wav ./dic/NHK1112/NHK11127/NHK11127_0539.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0540.wav ./dic/NHK1112/NHK11127/NHK11127_0540.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0541.wav ./dic/NHK1112/NHK11127/NHK11127_0541.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0542.wav ./dic/NHK1112/NHK11127/NHK11127_0542.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0543.wav ./dic/NHK1112/NHK11127/NHK11127_0543.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0544.wav ./dic/NHK1112/NHK11127/NHK11127_0544.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0545.wav ./dic/NHK1112/NHK11127/NHK11127_0545.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0546.wav ./dic/NHK1112/NHK11127/NHK11127_0546.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0547.wav ./dic/NHK1112/NHK11127/NHK11127_0547.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0548.wav ./dic/NHK1112/NHK11127/NHK11127_0548.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0549.wav ./dic/NHK1112/NHK11127/NHK11127_0549.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0550.wav ./dic/NHK1112/NHK11127/NHK11127_0550.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0551.wav ./dic/NHK1112/NHK11127/NHK11127_0551.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0552.wav ./dic/NHK1112/NHK11127/NHK11127_0552.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0553.wav ./dic/NHK1112/NHK11127/NHK11127_0553.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0554.wav ./dic/NHK1112/NHK11127/NHK11127_0554.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0555.wav ./dic/NHK1112/NHK11127/NHK11127_0555.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0556.wav ./dic/NHK1112/NHK11127/NHK11127_0556.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0557.wav ./dic/NHK1112/NHK11127/NHK11127_0557.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0558.wav ./dic/NHK1112/NHK11127/NHK11127_0558.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0559.wav ./dic/NHK1112/NHK11127/NHK11127_0559.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0560.wav ./dic/NHK1112/NHK11127/NHK11127_0560.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0561.wav ./dic/NHK1112/NHK11127/NHK11127_0561.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0562.wav ./dic/NHK1112/NHK11127/NHK11127_0562.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0563.wav ./dic/NHK1112/NHK11127/NHK11127_0563.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0564.wav ./dic/NHK1112/NHK11127/NHK11127_0564.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0565.wav ./dic/NHK1112/NHK11127/NHK11127_0565.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0566.wav ./dic/NHK1112/NHK11127/NHK11127_0566.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0567.wav ./dic/NHK1112/NHK11127/NHK11127_0567.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0568.wav ./dic/NHK1112/NHK11127/NHK11127_0568.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0569.wav ./dic/NHK1112/NHK11127/NHK11127_0569.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0570.wav ./dic/NHK1112/NHK11127/NHK11127_0570.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0571.wav ./dic/NHK1112/NHK11127/NHK11127_0571.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0572.wav ./dic/NHK1112/NHK11127/NHK11127_0572.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0573.wav ./dic/NHK1112/NHK11127/NHK11127_0573.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0574.wav ./dic/NHK1112/NHK11127/NHK11127_0574.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0575.wav ./dic/NHK1112/NHK11127/NHK11127_0575.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0576.wav ./dic/NHK1112/NHK11127/NHK11127_0576.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0577.wav ./dic/NHK1112/NHK11127/NHK11127_0577.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0578.wav ./dic/NHK1112/NHK11127/NHK11127_0578.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0579.wav ./dic/NHK1112/NHK11127/NHK11127_0579.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0580.wav ./dic/NHK1112/NHK11127/NHK11127_0580.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0581.wav ./dic/NHK1112/NHK11127/NHK11127_0581.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0582.wav ./dic/NHK1112/NHK11127/NHK11127_0582.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0583.wav ./dic/NHK1112/NHK11127/NHK11127_0583.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0584.wav ./dic/NHK1112/NHK11127/NHK11127_0584.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0585.wav ./dic/NHK1112/NHK11127/NHK11127_0585.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0586.wav ./dic/NHK1112/NHK11127/NHK11127_0586.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0587.wav ./dic/NHK1112/NHK11127/NHK11127_0587.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0588.wav ./dic/NHK1112/NHK11127/NHK11127_0588.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0589.wav ./dic/NHK1112/NHK11127/NHK11127_0589.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0590.wav ./dic/NHK1112/NHK11127/NHK11127_0590.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0591.wav ./dic/NHK1112/NHK11127/NHK11127_0591.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0592.wav ./dic/NHK1112/NHK11127/NHK11127_0592.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0593.wav ./dic/NHK1112/NHK11127/NHK11127_0593.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0594.wav ./dic/NHK1112/NHK11127/NHK11127_0594.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0595.wav ./dic/NHK1112/NHK11127/NHK11127_0595.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0596.wav ./dic/NHK1112/NHK11127/NHK11127_0596.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0597.wav ./dic/NHK1112/NHK11127/NHK11127_0597.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0598.wav ./dic/NHK1112/NHK11127/NHK11127_0598.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0599.wav ./dic/NHK1112/NHK11127/NHK11127_0599.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0600.wav ./dic/NHK1112/NHK11127/NHK11127_0600.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0601.wav ./dic/NHK1112/NHK11127/NHK11127_0601.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0602.wav ./dic/NHK1112/NHK11127/NHK11127_0602.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0603.wav ./dic/NHK1112/NHK11127/NHK11127_0603.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0604.wav ./dic/NHK1112/NHK11127/NHK11127_0604.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0605.wav ./dic/NHK1112/NHK11127/NHK11127_0605.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0606.wav ./dic/NHK1112/NHK11127/NHK11127_0606.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0607.wav ./dic/NHK1112/NHK11127/NHK11127_0607.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0608.wav ./dic/NHK1112/NHK11127/NHK11127_0608.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0001.wav ./dic/NHK1113/NHK11131/NHK11131_0001.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0002.wav ./dic/NHK1113/NHK11131/NHK11131_0002.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0003.wav ./dic/NHK1113/NHK11131/NHK11131_0003.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0004.wav ./dic/NHK1113/NHK11131/NHK11131_0004.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0005.wav ./dic/NHK1113/NHK11131/NHK11131_0005.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0006.wav ./dic/NHK1113/NHK11131/NHK11131_0006.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0007.wav ./dic/NHK1113/NHK11131/NHK11131_0007.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0008.wav ./dic/NHK1113/NHK11131/NHK11131_0008.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0009.wav ./dic/NHK1113/NHK11131/NHK11131_0009.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0010.wav ./dic/NHK1113/NHK11131/NHK11131_0010.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0011.wav ./dic/NHK1113/NHK11131/NHK11131_0011.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0012.wav ./dic/NHK1113/NHK11131/NHK11131_0012.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0013.wav ./dic/NHK1113/NHK11131/NHK11131_0013.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0014.wav ./dic/NHK1113/NHK11131/NHK11131_0014.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0015.wav ./dic/NHK1113/NHK11131/NHK11131_0015.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0016.wav ./dic/NHK1113/NHK11131/NHK11131_0016.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0017.wav ./dic/NHK1113/NHK11131/NHK11131_0017.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0018.wav ./dic/NHK1113/NHK11131/NHK11131_0018.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0019.wav ./dic/NHK1113/NHK11131/NHK11131_0019.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0020.wav ./dic/NHK1113/NHK11131/NHK11131_0020.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0021.wav ./dic/NHK1113/NHK11131/NHK11131_0021.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0022.wav ./dic/NHK1113/NHK11131/NHK11131_0022.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0023.wav ./dic/NHK1113/NHK11131/NHK11131_0023.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0024.wav ./dic/NHK1113/NHK11131/NHK11131_0024.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0025.wav ./dic/NHK1113/NHK11131/NHK11131_0025.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0026.wav ./dic/NHK1113/NHK11131/NHK11131_0026.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0027.wav ./dic/NHK1113/NHK11131/NHK11131_0027.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0028.wav ./dic/NHK1113/NHK11131/NHK11131_0028.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0029.wav ./dic/NHK1113/NHK11131/NHK11131_0029.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0030.wav ./dic/NHK1113/NHK11131/NHK11131_0030.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0031.wav ./dic/NHK1113/NHK11131/NHK11131_0031.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0032.wav ./dic/NHK1113/NHK11131/NHK11131_0032.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0033.wav ./dic/NHK1113/NHK11131/NHK11131_0033.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0034.wav ./dic/NHK1113/NHK11131/NHK11131_0034.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0035.wav ./dic/NHK1113/NHK11131/NHK11131_0035.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0036.wav ./dic/NHK1113/NHK11131/NHK11131_0036.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0037.wav ./dic/NHK1113/NHK11131/NHK11131_0037.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0038.wav ./dic/NHK1113/NHK11131/NHK11131_0038.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0039.wav ./dic/NHK1113/NHK11131/NHK11131_0039.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0040.wav ./dic/NHK1113/NHK11131/NHK11131_0040.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0041.wav ./dic/NHK1113/NHK11131/NHK11131_0041.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0042.wav ./dic/NHK1113/NHK11131/NHK11131_0042.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0043.wav ./dic/NHK1113/NHK11131/NHK11131_0043.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0044.wav ./dic/NHK1113/NHK11131/NHK11131_0044.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0045.wav ./dic/NHK1113/NHK11131/NHK11131_0045.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0046.wav ./dic/NHK1113/NHK11131/NHK11131_0046.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0047.wav ./dic/NHK1113/NHK11131/NHK11131_0047.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0048.wav ./dic/NHK1113/NHK11131/NHK11131_0048.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0049.wav ./dic/NHK1113/NHK11131/NHK11131_0049.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0050.wav ./dic/NHK1113/NHK11131/NHK11131_0050.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0051.wav ./dic/NHK1113/NHK11131/NHK11131_0051.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0052.wav ./dic/NHK1113/NHK11131/NHK11131_0052.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0053.wav ./dic/NHK1113/NHK11131/NHK11131_0053.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0054.wav ./dic/NHK1113/NHK11131/NHK11131_0054.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0055.wav ./dic/NHK1113/NHK11131/NHK11131_0055.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0056.wav ./dic/NHK1113/NHK11131/NHK11131_0056.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0057.wav ./dic/NHK1113/NHK11131/NHK11131_0057.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0058.wav ./dic/NHK1113/NHK11131/NHK11131_0058.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0059.wav ./dic/NHK1113/NHK11131/NHK11131_0059.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0060.wav ./dic/NHK1113/NHK11131/NHK11131_0060.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0061.wav ./dic/NHK1113/NHK11131/NHK11131_0061.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0062.wav ./dic/NHK1113/NHK11131/NHK11131_0062.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0063.wav ./dic/NHK1113/NHK11131/NHK11131_0063.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0064.wav ./dic/NHK1113/NHK11131/NHK11131_0064.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0065.wav ./dic/NHK1113/NHK11131/NHK11131_0065.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0066.wav ./dic/NHK1113/NHK11131/NHK11131_0066.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0067.wav ./dic/NHK1113/NHK11131/NHK11131_0067.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0068.wav ./dic/NHK1113/NHK11131/NHK11131_0068.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0069.wav ./dic/NHK1113/NHK11131/NHK11131_0069.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0070.wav ./dic/NHK1113/NHK11131/NHK11131_0070.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0071.wav ./dic/NHK1113/NHK11131/NHK11131_0071.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0072.wav ./dic/NHK1113/NHK11131/NHK11131_0072.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0073.wav ./dic/NHK1113/NHK11131/NHK11131_0073.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0074.wav ./dic/NHK1113/NHK11132/NHK11132_0074.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0075.wav ./dic/NHK1113/NHK11132/NHK11132_0075.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0076.wav ./dic/NHK1113/NHK11132/NHK11132_0076.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0077.wav ./dic/NHK1113/NHK11132/NHK11132_0077.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0078.wav ./dic/NHK1113/NHK11132/NHK11132_0078.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0079.wav ./dic/NHK1113/NHK11132/NHK11132_0079.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0080.wav ./dic/NHK1113/NHK11132/NHK11132_0080.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0081.wav ./dic/NHK1113/NHK11132/NHK11132_0081.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0082.wav ./dic/NHK1113/NHK11132/NHK11132_0082.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0083.wav ./dic/NHK1113/NHK11132/NHK11132_0083.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0084.wav ./dic/NHK1113/NHK11132/NHK11132_0084.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0085.wav ./dic/NHK1113/NHK11132/NHK11132_0085.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0086.wav ./dic/NHK1113/NHK11132/NHK11132_0086.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0087.wav ./dic/NHK1113/NHK11132/NHK11132_0087.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0088.wav ./dic/NHK1113/NHK11132/NHK11132_0088.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0089.wav ./dic/NHK1113/NHK11132/NHK11132_0089.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0090.wav ./dic/NHK1113/NHK11132/NHK11132_0090.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0091.wav ./dic/NHK1113/NHK11132/NHK11132_0091.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0092.wav ./dic/NHK1113/NHK11132/NHK11132_0092.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0093.wav ./dic/NHK1113/NHK11132/NHK11132_0093.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0094.wav ./dic/NHK1113/NHK11132/NHK11132_0094.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0095.wav ./dic/NHK1113/NHK11132/NHK11132_0095.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0096.wav ./dic/NHK1113/NHK11132/NHK11132_0096.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0097.wav ./dic/NHK1113/NHK11132/NHK11132_0097.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0098.wav ./dic/NHK1113/NHK11132/NHK11132_0098.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0099.wav ./dic/NHK1113/NHK11132/NHK11132_0099.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0100.wav ./dic/NHK1113/NHK11132/NHK11132_0100.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0101.wav ./dic/NHK1113/NHK11132/NHK11132_0101.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0102.wav ./dic/NHK1113/NHK11132/NHK11132_0102.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0103.wav ./dic/NHK1113/NHK11132/NHK11132_0103.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0104.wav ./dic/NHK1113/NHK11132/NHK11132_0104.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0105.wav ./dic/NHK1113/NHK11132/NHK11132_0105.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0106.wav ./dic/NHK1113/NHK11132/NHK11132_0106.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0107.wav ./dic/NHK1113/NHK11132/NHK11132_0107.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0108.wav ./dic/NHK1113/NHK11132/NHK11132_0108.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0109.wav ./dic/NHK1113/NHK11132/NHK11132_0109.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0110.wav ./dic/NHK1113/NHK11132/NHK11132_0110.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0111.wav ./dic/NHK1113/NHK11132/NHK11132_0111.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0112.wav ./dic/NHK1113/NHK11132/NHK11132_0112.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0113.wav ./dic/NHK1113/NHK11132/NHK11132_0113.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0114.wav ./dic/NHK1113/NHK11132/NHK11132_0114.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0115.wav ./dic/NHK1113/NHK11132/NHK11132_0115.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0116.wav ./dic/NHK1113/NHK11132/NHK11132_0116.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0117.wav ./dic/NHK1113/NHK11132/NHK11132_0117.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0118.wav ./dic/NHK1113/NHK11132/NHK11132_0118.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0119.wav ./dic/NHK1113/NHK11132/NHK11132_0119.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0120.wav ./dic/NHK1113/NHK11132/NHK11132_0120.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0121.wav ./dic/NHK1113/NHK11132/NHK11132_0121.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0122.wav ./dic/NHK1113/NHK11132/NHK11132_0122.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0123.wav ./dic/NHK1113/NHK11132/NHK11132_0123.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0124.wav ./dic/NHK1113/NHK11132/NHK11132_0124.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0125.wav ./dic/NHK1113/NHK11132/NHK11132_0125.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0126.wav ./dic/NHK1113/NHK11132/NHK11132_0126.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0127.wav ./dic/NHK1113/NHK11132/NHK11132_0127.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0128.wav ./dic/NHK1113/NHK11132/NHK11132_0128.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0129.wav ./dic/NHK1113/NHK11132/NHK11132_0129.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0130.wav ./dic/NHK1113/NHK11132/NHK11132_0130.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0131.wav ./dic/NHK1113/NHK11132/NHK11132_0131.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0132.wav ./dic/NHK1113/NHK11132/NHK11132_0132.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0133.wav ./dic/NHK1113/NHK11132/NHK11132_0133.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0134.wav ./dic/NHK1113/NHK11132/NHK11132_0134.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0135.wav ./dic/NHK1113/NHK11132/NHK11132_0135.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0136.wav ./dic/NHK1113/NHK11132/NHK11132_0136.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0137.wav ./dic/NHK1113/NHK11132/NHK11132_0137.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0138.wav ./dic/NHK1113/NHK11132/NHK11132_0138.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0139.wav ./dic/NHK1113/NHK11132/NHK11132_0139.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0140.wav ./dic/NHK1113/NHK11132/NHK11132_0140.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0141.wav ./dic/NHK1113/NHK11132/NHK11132_0141.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0142.wav ./dic/NHK1113/NHK11132/NHK11132_0142.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0143.wav ./dic/NHK1113/NHK11132/NHK11132_0143.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0144.wav ./dic/NHK1113/NHK11132/NHK11132_0144.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0145.wav ./dic/NHK1113/NHK11132/NHK11132_0145.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0146.wav ./dic/NHK1113/NHK11132/NHK11132_0146.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0147.wav ./dic/NHK1113/NHK11133/NHK11133_0147.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0148.wav ./dic/NHK1113/NHK11133/NHK11133_0148.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0149.wav ./dic/NHK1113/NHK11133/NHK11133_0149.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0150.wav ./dic/NHK1113/NHK11133/NHK11133_0150.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0151.wav ./dic/NHK1113/NHK11133/NHK11133_0151.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0152.wav ./dic/NHK1113/NHK11133/NHK11133_0152.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0153.wav ./dic/NHK1113/NHK11133/NHK11133_0153.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0154.wav ./dic/NHK1113/NHK11133/NHK11133_0154.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0155.wav ./dic/NHK1113/NHK11133/NHK11133_0155.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0156.wav ./dic/NHK1113/NHK11133/NHK11133_0156.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0157.wav ./dic/NHK1113/NHK11133/NHK11133_0157.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0158.wav ./dic/NHK1113/NHK11133/NHK11133_0158.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0159.wav ./dic/NHK1113/NHK11133/NHK11133_0159.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0160.wav ./dic/NHK1113/NHK11133/NHK11133_0160.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0161.wav ./dic/NHK1113/NHK11133/NHK11133_0161.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0162.wav ./dic/NHK1113/NHK11133/NHK11133_0162.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0163.wav ./dic/NHK1113/NHK11133/NHK11133_0163.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0164.wav ./dic/NHK1113/NHK11133/NHK11133_0164.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0165.wav ./dic/NHK1113/NHK11133/NHK11133_0165.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0166.wav ./dic/NHK1113/NHK11133/NHK11133_0166.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0167.wav ./dic/NHK1113/NHK11133/NHK11133_0167.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0168.wav ./dic/NHK1113/NHK11133/NHK11133_0168.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0169.wav ./dic/NHK1113/NHK11133/NHK11133_0169.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0170.wav ./dic/NHK1113/NHK11133/NHK11133_0170.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0171.wav ./dic/NHK1113/NHK11133/NHK11133_0171.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0172.wav ./dic/NHK1113/NHK11133/NHK11133_0172.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0173.wav ./dic/NHK1113/NHK11133/NHK11133_0173.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0174.wav ./dic/NHK1113/NHK11133/NHK11133_0174.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0175.wav ./dic/NHK1113/NHK11133/NHK11133_0175.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0176.wav ./dic/NHK1113/NHK11133/NHK11133_0176.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0177.wav ./dic/NHK1113/NHK11133/NHK11133_0177.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0178.wav ./dic/NHK1113/NHK11133/NHK11133_0178.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0179.wav ./dic/NHK1113/NHK11133/NHK11133_0179.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0180.wav ./dic/NHK1113/NHK11133/NHK11133_0180.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0181.wav ./dic/NHK1113/NHK11133/NHK11133_0181.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0182.wav ./dic/NHK1113/NHK11133/NHK11133_0182.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0183.wav ./dic/NHK1113/NHK11133/NHK11133_0183.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0184.wav ./dic/NHK1113/NHK11133/NHK11133_0184.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0185.wav ./dic/NHK1113/NHK11133/NHK11133_0185.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0186.wav ./dic/NHK1113/NHK11133/NHK11133_0186.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0187.wav ./dic/NHK1113/NHK11133/NHK11133_0187.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0188.wav ./dic/NHK1113/NHK11133/NHK11133_0188.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0189.wav ./dic/NHK1113/NHK11133/NHK11133_0189.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0190.wav ./dic/NHK1113/NHK11133/NHK11133_0190.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0191.wav ./dic/NHK1113/NHK11133/NHK11133_0191.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0192.wav ./dic/NHK1113/NHK11133/NHK11133_0192.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0193.wav ./dic/NHK1113/NHK11133/NHK11133_0193.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0194.wav ./dic/NHK1113/NHK11133/NHK11133_0194.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0195.wav ./dic/NHK1113/NHK11133/NHK11133_0195.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0196.wav ./dic/NHK1113/NHK11133/NHK11133_0196.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0197.wav ./dic/NHK1113/NHK11133/NHK11133_0197.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0198.wav ./dic/NHK1113/NHK11133/NHK11133_0198.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0199.wav ./dic/NHK1113/NHK11133/NHK11133_0199.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0200.wav ./dic/NHK1113/NHK11133/NHK11133_0200.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0201.wav ./dic/NHK1113/NHK11133/NHK11133_0201.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0202.wav ./dic/NHK1113/NHK11133/NHK11133_0202.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0203.wav ./dic/NHK1113/NHK11133/NHK11133_0203.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0204.wav ./dic/NHK1113/NHK11133/NHK11133_0204.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0205.wav ./dic/NHK1113/NHK11133/NHK11133_0205.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0206.wav ./dic/NHK1113/NHK11133/NHK11133_0206.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0207.wav ./dic/NHK1113/NHK11133/NHK11133_0207.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0208.wav ./dic/NHK1113/NHK11133/NHK11133_0208.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0209.wav ./dic/NHK1113/NHK11133/NHK11133_0209.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0210.wav ./dic/NHK1113/NHK11133/NHK11133_0210.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0211.wav ./dic/NHK1113/NHK11133/NHK11133_0211.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0212.wav ./dic/NHK1113/NHK11133/NHK11133_0212.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0213.wav ./dic/NHK1113/NHK11133/NHK11133_0213.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0214.wav ./dic/NHK1113/NHK11133/NHK11133_0214.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0215.wav ./dic/NHK1113/NHK11133/NHK11133_0215.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0216.wav ./dic/NHK1113/NHK11133/NHK11133_0216.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0217.wav ./dic/NHK1113/NHK11133/NHK11133_0217.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0218.wav ./dic/NHK1113/NHK11133/NHK11133_0218.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0219.wav ./dic/NHK1113/NHK11133/NHK11133_0219.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0220.wav ./dic/NHK1113/NHK11134/NHK11134_0220.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0221.wav ./dic/NHK1113/NHK11134/NHK11134_0221.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0222.wav ./dic/NHK1113/NHK11134/NHK11134_0222.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0223.wav ./dic/NHK1113/NHK11134/NHK11134_0223.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0224.wav ./dic/NHK1113/NHK11134/NHK11134_0224.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0225.wav ./dic/NHK1113/NHK11134/NHK11134_0225.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0226.wav ./dic/NHK1113/NHK11134/NHK11134_0226.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0227.wav ./dic/NHK1113/NHK11134/NHK11134_0227.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0228.wav ./dic/NHK1113/NHK11134/NHK11134_0228.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0229.wav ./dic/NHK1113/NHK11134/NHK11134_0229.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0230.wav ./dic/NHK1113/NHK11134/NHK11134_0230.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0231.wav ./dic/NHK1113/NHK11134/NHK11134_0231.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0232.wav ./dic/NHK1113/NHK11134/NHK11134_0232.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0233.wav ./dic/NHK1113/NHK11134/NHK11134_0233.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0234.wav ./dic/NHK1113/NHK11134/NHK11134_0234.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0235.wav ./dic/NHK1113/NHK11134/NHK11134_0235.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0236.wav ./dic/NHK1113/NHK11134/NHK11134_0236.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0237.wav ./dic/NHK1113/NHK11134/NHK11134_0237.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0238.wav ./dic/NHK1113/NHK11134/NHK11134_0238.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0239.wav ./dic/NHK1113/NHK11134/NHK11134_0239.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0240.wav ./dic/NHK1113/NHK11134/NHK11134_0240.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0241.wav ./dic/NHK1113/NHK11134/NHK11134_0241.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0242.wav ./dic/NHK1113/NHK11134/NHK11134_0242.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0243.wav ./dic/NHK1113/NHK11134/NHK11134_0243.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0244.wav ./dic/NHK1113/NHK11134/NHK11134_0244.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0245.wav ./dic/NHK1113/NHK11134/NHK11134_0245.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0246.wav ./dic/NHK1113/NHK11134/NHK11134_0246.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0247.wav ./dic/NHK1113/NHK11134/NHK11134_0247.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0248.wav ./dic/NHK1113/NHK11134/NHK11134_0248.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0249.wav ./dic/NHK1113/NHK11134/NHK11134_0249.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0250.wav ./dic/NHK1113/NHK11134/NHK11134_0250.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0251.wav ./dic/NHK1113/NHK11134/NHK11134_0251.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0252.wav ./dic/NHK1113/NHK11134/NHK11134_0252.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0253.wav ./dic/NHK1113/NHK11134/NHK11134_0253.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0254.wav ./dic/NHK1113/NHK11134/NHK11134_0254.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0255.wav ./dic/NHK1113/NHK11134/NHK11134_0255.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0256.wav ./dic/NHK1113/NHK11134/NHK11134_0256.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0257.wav ./dic/NHK1113/NHK11134/NHK11134_0257.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0258.wav ./dic/NHK1113/NHK11134/NHK11134_0258.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0259.wav ./dic/NHK1113/NHK11134/NHK11134_0259.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0260.wav ./dic/NHK1113/NHK11134/NHK11134_0260.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0261.wav ./dic/NHK1113/NHK11134/NHK11134_0261.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0262.wav ./dic/NHK1113/NHK11134/NHK11134_0262.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0263.wav ./dic/NHK1113/NHK11134/NHK11134_0263.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0264.wav ./dic/NHK1113/NHK11134/NHK11134_0264.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0265.wav ./dic/NHK1113/NHK11134/NHK11134_0265.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0266.wav ./dic/NHK1113/NHK11134/NHK11134_0266.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0267.wav ./dic/NHK1113/NHK11134/NHK11134_0267.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0268.wav ./dic/NHK1113/NHK11134/NHK11134_0268.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0269.wav ./dic/NHK1113/NHK11134/NHK11134_0269.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0270.wav ./dic/NHK1113/NHK11134/NHK11134_0270.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0271.wav ./dic/NHK1113/NHK11134/NHK11134_0271.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0272.wav ./dic/NHK1113/NHK11134/NHK11134_0272.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0273.wav ./dic/NHK1113/NHK11134/NHK11134_0273.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0274.wav ./dic/NHK1113/NHK11134/NHK11134_0274.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0275.wav ./dic/NHK1113/NHK11134/NHK11134_0275.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0276.wav ./dic/NHK1113/NHK11134/NHK11134_0276.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0277.wav ./dic/NHK1113/NHK11134/NHK11134_0277.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0278.wav ./dic/NHK1113/NHK11134/NHK11134_0278.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0279.wav ./dic/NHK1113/NHK11134/NHK11134_0279.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0280.wav ./dic/NHK1113/NHK11134/NHK11134_0280.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0281.wav ./dic/NHK1113/NHK11134/NHK11134_0281.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0282.wav ./dic/NHK1113/NHK11134/NHK11134_0282.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0283.wav ./dic/NHK1113/NHK11134/NHK11134_0283.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0284.wav ./dic/NHK1113/NHK11134/NHK11134_0284.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0285.wav ./dic/NHK1113/NHK11134/NHK11134_0285.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0286.wav ./dic/NHK1113/NHK11134/NHK11134_0286.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0287.wav ./dic/NHK1113/NHK11134/NHK11134_0287.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0288.wav ./dic/NHK1113/NHK11134/NHK11134_0288.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0289.wav ./dic/NHK1113/NHK11134/NHK11134_0289.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0290.wav ./dic/NHK1113/NHK11134/NHK11134_0290.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0291.wav ./dic/NHK1113/NHK11134/NHK11134_0291.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0292.wav ./dic/NHK1113/NHK11134/NHK11134_0292.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0293.wav ./dic/NHK1113/NHK11135/NHK11135_0293.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0294.wav ./dic/NHK1113/NHK11135/NHK11135_0294.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0295.wav ./dic/NHK1113/NHK11135/NHK11135_0295.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0296.wav ./dic/NHK1113/NHK11135/NHK11135_0296.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0297.wav ./dic/NHK1113/NHK11135/NHK11135_0297.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0298.wav ./dic/NHK1113/NHK11135/NHK11135_0298.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0299.wav ./dic/NHK1113/NHK11135/NHK11135_0299.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0300.wav ./dic/NHK1113/NHK11135/NHK11135_0300.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0301.wav ./dic/NHK1113/NHK11135/NHK11135_0301.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0302.wav ./dic/NHK1113/NHK11135/NHK11135_0302.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0303.wav ./dic/NHK1113/NHK11135/NHK11135_0303.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0304.wav ./dic/NHK1113/NHK11135/NHK11135_0304.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0305.wav ./dic/NHK1113/NHK11135/NHK11135_0305.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0306.wav ./dic/NHK1113/NHK11135/NHK11135_0306.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0307.wav ./dic/NHK1113/NHK11135/NHK11135_0307.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0308.wav ./dic/NHK1113/NHK11135/NHK11135_0308.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0309.wav ./dic/NHK1113/NHK11135/NHK11135_0309.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0310.wav ./dic/NHK1113/NHK11135/NHK11135_0310.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0311.wav ./dic/NHK1113/NHK11135/NHK11135_0311.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0312.wav ./dic/NHK1113/NHK11135/NHK11135_0312.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0313.wav ./dic/NHK1113/NHK11135/NHK11135_0313.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0314.wav ./dic/NHK1113/NHK11135/NHK11135_0314.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0315.wav ./dic/NHK1113/NHK11135/NHK11135_0315.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0316.wav ./dic/NHK1113/NHK11135/NHK11135_0316.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0317.wav ./dic/NHK1113/NHK11135/NHK11135_0317.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0318.wav ./dic/NHK1113/NHK11135/NHK11135_0318.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0319.wav ./dic/NHK1113/NHK11135/NHK11135_0319.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0320.wav ./dic/NHK1113/NHK11135/NHK11135_0320.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0321.wav ./dic/NHK1113/NHK11135/NHK11135_0321.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0322.wav ./dic/NHK1113/NHK11135/NHK11135_0322.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0323.wav ./dic/NHK1113/NHK11135/NHK11135_0323.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0324.wav ./dic/NHK1113/NHK11135/NHK11135_0324.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0325.wav ./dic/NHK1113/NHK11135/NHK11135_0325.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0326.wav ./dic/NHK1113/NHK11135/NHK11135_0326.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0327.wav ./dic/NHK1113/NHK11135/NHK11135_0327.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0328.wav ./dic/NHK1113/NHK11135/NHK11135_0328.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0329.wav ./dic/NHK1113/NHK11135/NHK11135_0329.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0330.wav ./dic/NHK1113/NHK11135/NHK11135_0330.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0331.wav ./dic/NHK1113/NHK11135/NHK11135_0331.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0332.wav ./dic/NHK1113/NHK11135/NHK11135_0332.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0333.wav ./dic/NHK1113/NHK11135/NHK11135_0333.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0334.wav ./dic/NHK1113/NHK11135/NHK11135_0334.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0335.wav ./dic/NHK1113/NHK11135/NHK11135_0335.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0336.wav ./dic/NHK1113/NHK11135/NHK11135_0336.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0337.wav ./dic/NHK1113/NHK11135/NHK11135_0337.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0338.wav ./dic/NHK1113/NHK11135/NHK11135_0338.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0339.wav ./dic/NHK1113/NHK11135/NHK11135_0339.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0340.wav ./dic/NHK1113/NHK11135/NHK11135_0340.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0341.wav ./dic/NHK1113/NHK11135/NHK11135_0341.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0342.wav ./dic/NHK1113/NHK11135/NHK11135_0342.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0343.wav ./dic/NHK1113/NHK11135/NHK11135_0343.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0344.wav ./dic/NHK1113/NHK11135/NHK11135_0344.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0345.wav ./dic/NHK1113/NHK11135/NHK11135_0345.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0346.wav ./dic/NHK1113/NHK11135/NHK11135_0346.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0347.wav ./dic/NHK1113/NHK11135/NHK11135_0347.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0348.wav ./dic/NHK1113/NHK11135/NHK11135_0348.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0349.wav ./dic/NHK1113/NHK11135/NHK11135_0349.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0350.wav ./dic/NHK1113/NHK11135/NHK11135_0350.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0351.wav ./dic/NHK1113/NHK11135/NHK11135_0351.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0352.wav ./dic/NHK1113/NHK11135/NHK11135_0352.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0353.wav ./dic/NHK1113/NHK11135/NHK11135_0353.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0354.wav ./dic/NHK1113/NHK11135/NHK11135_0354.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0355.wav ./dic/NHK1113/NHK11135/NHK11135_0355.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0356.wav ./dic/NHK1113/NHK11135/NHK11135_0356.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0357.wav ./dic/NHK1113/NHK11135/NHK11135_0357.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0358.wav ./dic/NHK1113/NHK11135/NHK11135_0358.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0359.wav ./dic/NHK1113/NHK11135/NHK11135_0359.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0360.wav ./dic/NHK1113/NHK11135/NHK11135_0360.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0361.wav ./dic/NHK1113/NHK11135/NHK11135_0361.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0362.wav ./dic/NHK1113/NHK11135/NHK11135_0362.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0363.wav ./dic/NHK1113/NHK11135/NHK11135_0363.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0364.wav ./dic/NHK1113/NHK11135/NHK11135_0364.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0365.wav ./dic/NHK1113/NHK11135/NHK11135_0365.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0366.wav ./dic/NHK1113/NHK11136/NHK11136_0366.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0367.wav ./dic/NHK1113/NHK11136/NHK11136_0367.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0368.wav ./dic/NHK1113/NHK11136/NHK11136_0368.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0369.wav ./dic/NHK1113/NHK11136/NHK11136_0369.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0370.wav ./dic/NHK1113/NHK11136/NHK11136_0370.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0371.wav ./dic/NHK1113/NHK11136/NHK11136_0371.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0372.wav ./dic/NHK1113/NHK11136/NHK11136_0372.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0373.wav ./dic/NHK1113/NHK11136/NHK11136_0373.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0374.wav ./dic/NHK1113/NHK11136/NHK11136_0374.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0375.wav ./dic/NHK1113/NHK11136/NHK11136_0375.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0376.wav ./dic/NHK1113/NHK11136/NHK11136_0376.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0377.wav ./dic/NHK1113/NHK11136/NHK11136_0377.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0378.wav ./dic/NHK1113/NHK11136/NHK11136_0378.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0379.wav ./dic/NHK1113/NHK11136/NHK11136_0379.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0380.wav ./dic/NHK1113/NHK11136/NHK11136_0380.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0381.wav ./dic/NHK1113/NHK11136/NHK11136_0381.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0382.wav ./dic/NHK1113/NHK11136/NHK11136_0382.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0383.wav ./dic/NHK1113/NHK11136/NHK11136_0383.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0384.wav ./dic/NHK1113/NHK11136/NHK11136_0384.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0385.wav ./dic/NHK1113/NHK11136/NHK11136_0385.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0386.wav ./dic/NHK1113/NHK11136/NHK11136_0386.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0387.wav ./dic/NHK1113/NHK11136/NHK11136_0387.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0388.wav ./dic/NHK1113/NHK11136/NHK11136_0388.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0389.wav ./dic/NHK1113/NHK11136/NHK11136_0389.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0390.wav ./dic/NHK1113/NHK11136/NHK11136_0390.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0391.wav ./dic/NHK1113/NHK11136/NHK11136_0391.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0392.wav ./dic/NHK1113/NHK11136/NHK11136_0392.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0393.wav ./dic/NHK1113/NHK11136/NHK11136_0393.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0394.wav ./dic/NHK1113/NHK11136/NHK11136_0394.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0395.wav ./dic/NHK1113/NHK11136/NHK11136_0395.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0396.wav ./dic/NHK1113/NHK11136/NHK11136_0396.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0397.wav ./dic/NHK1113/NHK11136/NHK11136_0397.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0398.wav ./dic/NHK1113/NHK11136/NHK11136_0398.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0399.wav ./dic/NHK1113/NHK11136/NHK11136_0399.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0400.wav ./dic/NHK1113/NHK11136/NHK11136_0400.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0401.wav ./dic/NHK1113/NHK11136/NHK11136_0401.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0402.wav ./dic/NHK1113/NHK11136/NHK11136_0402.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0403.wav ./dic/NHK1113/NHK11136/NHK11136_0403.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0404.wav ./dic/NHK1113/NHK11136/NHK11136_0404.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0405.wav ./dic/NHK1113/NHK11136/NHK11136_0405.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0406.wav ./dic/NHK1113/NHK11136/NHK11136_0406.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0407.wav ./dic/NHK1113/NHK11136/NHK11136_0407.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0408.wav ./dic/NHK1113/NHK11136/NHK11136_0408.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0409.wav ./dic/NHK1113/NHK11136/NHK11136_0409.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0410.wav ./dic/NHK1113/NHK11136/NHK11136_0410.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0411.wav ./dic/NHK1113/NHK11136/NHK11136_0411.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0412.wav ./dic/NHK1113/NHK11136/NHK11136_0412.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0413.wav ./dic/NHK1113/NHK11136/NHK11136_0413.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0414.wav ./dic/NHK1113/NHK11136/NHK11136_0414.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0415.wav ./dic/NHK1113/NHK11136/NHK11136_0415.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0416.wav ./dic/NHK1113/NHK11136/NHK11136_0416.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0417.wav ./dic/NHK1113/NHK11136/NHK11136_0417.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0418.wav ./dic/NHK1113/NHK11136/NHK11136_0418.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0419.wav ./dic/NHK1113/NHK11136/NHK11136_0419.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0420.wav ./dic/NHK1113/NHK11136/NHK11136_0420.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0421.wav ./dic/NHK1113/NHK11136/NHK11136_0421.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0422.wav ./dic/NHK1113/NHK11136/NHK11136_0422.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0423.wav ./dic/NHK1113/NHK11136/NHK11136_0423.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0424.wav ./dic/NHK1113/NHK11136/NHK11136_0424.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0425.wav ./dic/NHK1113/NHK11136/NHK11136_0425.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0426.wav ./dic/NHK1113/NHK11136/NHK11136_0426.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0427.wav ./dic/NHK1113/NHK11136/NHK11136_0427.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0428.wav ./dic/NHK1113/NHK11136/NHK11136_0428.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0429.wav ./dic/NHK1113/NHK11136/NHK11136_0429.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0430.wav ./dic/NHK1113/NHK11136/NHK11136_0430.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0431.wav ./dic/NHK1113/NHK11136/NHK11136_0431.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0432.wav ./dic/NHK1113/NHK11136/NHK11136_0432.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0433.wav ./dic/NHK1113/NHK11136/NHK11136_0433.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0434.wav ./dic/NHK1113/NHK11136/NHK11136_0434.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0435.wav ./dic/NHK1113/NHK11136/NHK11136_0435.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0436.wav ./dic/NHK1113/NHK11136/NHK11136_0436.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0437.wav ./dic/NHK1113/NHK11136/NHK11136_0437.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0438.wav ./dic/NHK1113/NHK11136/NHK11136_0438.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0439.wav ./dic/NHK1113/NHK11137/NHK11137_0439.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0440.wav ./dic/NHK1113/NHK11137/NHK11137_0440.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0441.wav ./dic/NHK1113/NHK11137/NHK11137_0441.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0442.wav ./dic/NHK1113/NHK11137/NHK11137_0442.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0443.wav ./dic/NHK1113/NHK11137/NHK11137_0443.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0444.wav ./dic/NHK1113/NHK11137/NHK11137_0444.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0445.wav ./dic/NHK1113/NHK11137/NHK11137_0445.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0446.wav ./dic/NHK1113/NHK11137/NHK11137_0446.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0447.wav ./dic/NHK1113/NHK11137/NHK11137_0447.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0448.wav ./dic/NHK1113/NHK11137/NHK11137_0448.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0449.wav ./dic/NHK1113/NHK11137/NHK11137_0449.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0450.wav ./dic/NHK1113/NHK11137/NHK11137_0450.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0451.wav ./dic/NHK1113/NHK11137/NHK11137_0451.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0452.wav ./dic/NHK1113/NHK11137/NHK11137_0452.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0453.wav ./dic/NHK1113/NHK11137/NHK11137_0453.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0454.wav ./dic/NHK1113/NHK11137/NHK11137_0454.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0455.wav ./dic/NHK1113/NHK11137/NHK11137_0455.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0456.wav ./dic/NHK1113/NHK11137/NHK11137_0456.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0457.wav ./dic/NHK1113/NHK11137/NHK11137_0457.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0458.wav ./dic/NHK1113/NHK11137/NHK11137_0458.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0459.wav ./dic/NHK1113/NHK11137/NHK11137_0459.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0460.wav ./dic/NHK1113/NHK11137/NHK11137_0460.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0461.wav ./dic/NHK1113/NHK11137/NHK11137_0461.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0462.wav ./dic/NHK1113/NHK11137/NHK11137_0462.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0463.wav ./dic/NHK1113/NHK11137/NHK11137_0463.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0464.wav ./dic/NHK1113/NHK11137/NHK11137_0464.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0465.wav ./dic/NHK1113/NHK11137/NHK11137_0465.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0466.wav ./dic/NHK1113/NHK11137/NHK11137_0466.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0467.wav ./dic/NHK1113/NHK11137/NHK11137_0467.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0468.wav ./dic/NHK1113/NHK11137/NHK11137_0468.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0469.wav ./dic/NHK1113/NHK11137/NHK11137_0469.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0470.wav ./dic/NHK1113/NHK11137/NHK11137_0470.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0471.wav ./dic/NHK1113/NHK11137/NHK11137_0471.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0472.wav ./dic/NHK1113/NHK11137/NHK11137_0472.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0473.wav ./dic/NHK1113/NHK11137/NHK11137_0473.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0474.wav ./dic/NHK1113/NHK11137/NHK11137_0474.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0475.wav ./dic/NHK1113/NHK11137/NHK11137_0475.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0476.wav ./dic/NHK1113/NHK11137/NHK11137_0476.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0477.wav ./dic/NHK1113/NHK11137/NHK11137_0477.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0478.wav ./dic/NHK1113/NHK11137/NHK11137_0478.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0479.wav ./dic/NHK1113/NHK11137/NHK11137_0479.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0480.wav ./dic/NHK1113/NHK11137/NHK11137_0480.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0481.wav ./dic/NHK1113/NHK11137/NHK11137_0481.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0482.wav ./dic/NHK1113/NHK11137/NHK11137_0482.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0483.wav ./dic/NHK1113/NHK11137/NHK11137_0483.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0484.wav ./dic/NHK1113/NHK11137/NHK11137_0484.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0485.wav ./dic/NHK1113/NHK11137/NHK11137_0485.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0486.wav ./dic/NHK1113/NHK11137/NHK11137_0486.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0487.wav ./dic/NHK1113/NHK11137/NHK11137_0487.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0488.wav ./dic/NHK1113/NHK11137/NHK11137_0488.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0489.wav ./dic/NHK1113/NHK11137/NHK11137_0489.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0490.wav ./dic/NHK1113/NHK11137/NHK11137_0490.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0491.wav ./dic/NHK1113/NHK11137/NHK11137_0491.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0492.wav ./dic/NHK1113/NHK11137/NHK11137_0492.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0493.wav ./dic/NHK1113/NHK11137/NHK11137_0493.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0494.wav ./dic/NHK1113/NHK11137/NHK11137_0494.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0495.wav ./dic/NHK1113/NHK11137/NHK11137_0495.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0496.wav ./dic/NHK1113/NHK11137/NHK11137_0496.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0497.wav ./dic/NHK1113/NHK11137/NHK11137_0497.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0498.wav ./dic/NHK1113/NHK11137/NHK11137_0498.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0499.wav ./dic/NHK1113/NHK11137/NHK11137_0499.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0500.wav ./dic/NHK1113/NHK11137/NHK11137_0500.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0501.wav ./dic/NHK1113/NHK11137/NHK11137_0501.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0502.wav ./dic/NHK1113/NHK11137/NHK11137_0502.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0503.wav ./dic/NHK1113/NHK11137/NHK11137_0503.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0504.wav ./dic/NHK1113/NHK11137/NHK11137_0504.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0505.wav ./dic/NHK1113/NHK11137/NHK11137_0505.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0506.wav ./dic/NHK1113/NHK11137/NHK11137_0506.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0507.wav ./dic/NHK1113/NHK11137/NHK11137_0507.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0508.wav ./dic/NHK1113/NHK11137/NHK11137_0508.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0509.wav ./dic/NHK1113/NHK11137/NHK11137_0509.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0510.wav ./dic/NHK1113/NHK11137/NHK11137_0510.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0511.wav ./dic/NHK1113/NHK11137/NHK11137_0511.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0512.wav ./dic/NHK1113/NHK11137/NHK11137_0512.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0513.wav ./dic/NHK1113/NHK11137/NHK11137_0513.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0514.wav ./dic/NHK1113/NHK11137/NHK11137_0514.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0515.wav ./dic/NHK1113/NHK11137/NHK11137_0515.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0516.wav ./dic/NHK1113/NHK11137/NHK11137_0516.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0517.wav ./dic/NHK1113/NHK11137/NHK11137_0517.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0518.wav ./dic/NHK1113/NHK11137/NHK11137_0518.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0519.wav ./dic/NHK1113/NHK11137/NHK11137_0519.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0520.wav ./dic/NHK1113/NHK11137/NHK11137_0520.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0001.wav ./dic/NHK1114/NHK11141/NHK11141_0001.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0002.wav ./dic/NHK1114/NHK11141/NHK11141_0002.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0003.wav ./dic/NHK1114/NHK11141/NHK11141_0003.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0004.wav ./dic/NHK1114/NHK11141/NHK11141_0004.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0005.wav ./dic/NHK1114/NHK11141/NHK11141_0005.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0006.wav ./dic/NHK1114/NHK11141/NHK11141_0006.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0007.wav ./dic/NHK1114/NHK11141/NHK11141_0007.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0008.wav ./dic/NHK1114/NHK11141/NHK11141_0008.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0009.wav ./dic/NHK1114/NHK11141/NHK11141_0009.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0010.wav ./dic/NHK1114/NHK11141/NHK11141_0010.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0011.wav ./dic/NHK1114/NHK11141/NHK11141_0011.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0012.wav ./dic/NHK1114/NHK11141/NHK11141_0012.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0013.wav ./dic/NHK1114/NHK11141/NHK11141_0013.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0014.wav ./dic/NHK1114/NHK11141/NHK11141_0014.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0015.wav ./dic/NHK1114/NHK11141/NHK11141_0015.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0016.wav ./dic/NHK1114/NHK11141/NHK11141_0016.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0017.wav ./dic/NHK1114/NHK11141/NHK11141_0017.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0018.wav ./dic/NHK1114/NHK11141/NHK11141_0018.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0019.wav ./dic/NHK1114/NHK11141/NHK11141_0019.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0020.wav ./dic/NHK1114/NHK11141/NHK11141_0020.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0021.wav ./dic/NHK1114/NHK11141/NHK11141_0021.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0022.wav ./dic/NHK1114/NHK11141/NHK11141_0022.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0023.wav ./dic/NHK1114/NHK11141/NHK11141_0023.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0024.wav ./dic/NHK1114/NHK11141/NHK11141_0024.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0025.wav ./dic/NHK1114/NHK11141/NHK11141_0025.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0026.wav ./dic/NHK1114/NHK11141/NHK11141_0026.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0027.wav ./dic/NHK1114/NHK11141/NHK11141_0027.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0028.wav ./dic/NHK1114/NHK11141/NHK11141_0028.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0029.wav ./dic/NHK1114/NHK11141/NHK11141_0029.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0030.wav ./dic/NHK1114/NHK11141/NHK11141_0030.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0031.wav ./dic/NHK1114/NHK11141/NHK11141_0031.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0032.wav ./dic/NHK1114/NHK11141/NHK11141_0032.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0033.wav ./dic/NHK1114/NHK11141/NHK11141_0033.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0034.wav ./dic/NHK1114/NHK11141/NHK11141_0034.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0035.wav ./dic/NHK1114/NHK11141/NHK11141_0035.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0036.wav ./dic/NHK1114/NHK11141/NHK11141_0036.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0037.wav ./dic/NHK1114/NHK11141/NHK11141_0037.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0038.wav ./dic/NHK1114/NHK11141/NHK11141_0038.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0039.wav ./dic/NHK1114/NHK11141/NHK11141_0039.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0040.wav ./dic/NHK1114/NHK11141/NHK11141_0040.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0041.wav ./dic/NHK1114/NHK11141/NHK11141_0041.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0042.wav ./dic/NHK1114/NHK11141/NHK11141_0042.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0043.wav ./dic/NHK1114/NHK11141/NHK11141_0043.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0044.wav ./dic/NHK1114/NHK11141/NHK11141_0044.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0045.wav ./dic/NHK1114/NHK11141/NHK11141_0045.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0046.wav ./dic/NHK1114/NHK11141/NHK11141_0046.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0047.wav ./dic/NHK1114/NHK11141/NHK11141_0047.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0048.wav ./dic/NHK1114/NHK11141/NHK11141_0048.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0049.wav ./dic/NHK1114/NHK11141/NHK11141_0049.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0050.wav ./dic/NHK1114/NHK11141/NHK11141_0050.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0051.wav ./dic/NHK1114/NHK11141/NHK11141_0051.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0052.wav ./dic/NHK1114/NHK11141/NHK11141_0052.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0053.wav ./dic/NHK1114/NHK11141/NHK11141_0053.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0054.wav ./dic/NHK1114/NHK11141/NHK11141_0054.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0055.wav ./dic/NHK1114/NHK11141/NHK11141_0055.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0056.wav ./dic/NHK1114/NHK11141/NHK11141_0056.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0057.wav ./dic/NHK1114/NHK11141/NHK11141_0057.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0058.wav ./dic/NHK1114/NHK11141/NHK11141_0058.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0059.wav ./dic/NHK1114/NHK11141/NHK11141_0059.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0060.wav ./dic/NHK1114/NHK11141/NHK11141_0060.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0061.wav ./dic/NHK1114/NHK11141/NHK11141_0061.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0062.wav ./dic/NHK1114/NHK11141/NHK11141_0062.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0063.wav ./dic/NHK1114/NHK11141/NHK11141_0063.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0064.wav ./dic/NHK1114/NHK11141/NHK11141_0064.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0065.wav ./dic/NHK1114/NHK11141/NHK11141_0065.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0066.wav ./dic/NHK1114/NHK11141/NHK11141_0066.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0067.wav ./dic/NHK1114/NHK11141/NHK11141_0067.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0068.wav ./dic/NHK1114/NHK11141/NHK11141_0068.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0069.wav ./dic/NHK1114/NHK11141/NHK11141_0069.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0070.wav ./dic/NHK1114/NHK11141/NHK11141_0070.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0071.wav ./dic/NHK1114/NHK11141/NHK11141_0071.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0072.wav ./dic/NHK1114/NHK11141/NHK11141_0072.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0073.wav ./dic/NHK1114/NHK11141/NHK11141_0073.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0074.wav ./dic/NHK1114/NHK11142/NHK11142_0074.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0075.wav ./dic/NHK1114/NHK11142/NHK11142_0075.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0076.wav ./dic/NHK1114/NHK11142/NHK11142_0076.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0077.wav ./dic/NHK1114/NHK11142/NHK11142_0077.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0078.wav ./dic/NHK1114/NHK11142/NHK11142_0078.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0079.wav ./dic/NHK1114/NHK11142/NHK11142_0079.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0080.wav ./dic/NHK1114/NHK11142/NHK11142_0080.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0081.wav ./dic/NHK1114/NHK11142/NHK11142_0081.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0082.wav ./dic/NHK1114/NHK11142/NHK11142_0082.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0083.wav ./dic/NHK1114/NHK11142/NHK11142_0083.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0084.wav ./dic/NHK1114/NHK11142/NHK11142_0084.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0085.wav ./dic/NHK1114/NHK11142/NHK11142_0085.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0086.wav ./dic/NHK1114/NHK11142/NHK11142_0086.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0087.wav ./dic/NHK1114/NHK11142/NHK11142_0087.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0088.wav ./dic/NHK1114/NHK11142/NHK11142_0088.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0089.wav ./dic/NHK1114/NHK11142/NHK11142_0089.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0090.wav ./dic/NHK1114/NHK11142/NHK11142_0090.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0091.wav ./dic/NHK1114/NHK11142/NHK11142_0091.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0092.wav ./dic/NHK1114/NHK11142/NHK11142_0092.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0093.wav ./dic/NHK1114/NHK11142/NHK11142_0093.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0094.wav ./dic/NHK1114/NHK11142/NHK11142_0094.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0095.wav ./dic/NHK1114/NHK11142/NHK11142_0095.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0096.wav ./dic/NHK1114/NHK11142/NHK11142_0096.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0097.wav ./dic/NHK1114/NHK11142/NHK11142_0097.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0098.wav ./dic/NHK1114/NHK11142/NHK11142_0098.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0099.wav ./dic/NHK1114/NHK11142/NHK11142_0099.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0100.wav ./dic/NHK1114/NHK11142/NHK11142_0100.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0101.wav ./dic/NHK1114/NHK11142/NHK11142_0101.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0102.wav ./dic/NHK1114/NHK11142/NHK11142_0102.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0103.wav ./dic/NHK1114/NHK11142/NHK11142_0103.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0104.wav ./dic/NHK1114/NHK11142/NHK11142_0104.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0105.wav ./dic/NHK1114/NHK11142/NHK11142_0105.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0106.wav ./dic/NHK1114/NHK11142/NHK11142_0106.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0107.wav ./dic/NHK1114/NHK11142/NHK11142_0107.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0108.wav ./dic/NHK1114/NHK11142/NHK11142_0108.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0109.wav ./dic/NHK1114/NHK11142/NHK11142_0109.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0110.wav ./dic/NHK1114/NHK11142/NHK11142_0110.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0111.wav ./dic/NHK1114/NHK11142/NHK11142_0111.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0112.wav ./dic/NHK1114/NHK11142/NHK11142_0112.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0113.wav ./dic/NHK1114/NHK11142/NHK11142_0113.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0114.wav ./dic/NHK1114/NHK11142/NHK11142_0114.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0115.wav ./dic/NHK1114/NHK11142/NHK11142_0115.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0116.wav ./dic/NHK1114/NHK11142/NHK11142_0116.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0117.wav ./dic/NHK1114/NHK11142/NHK11142_0117.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0118.wav ./dic/NHK1114/NHK11142/NHK11142_0118.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0119.wav ./dic/NHK1114/NHK11142/NHK11142_0119.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0120.wav ./dic/NHK1114/NHK11142/NHK11142_0120.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0121.wav ./dic/NHK1114/NHK11142/NHK11142_0121.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0122.wav ./dic/NHK1114/NHK11142/NHK11142_0122.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0123.wav ./dic/NHK1114/NHK11142/NHK11142_0123.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0124.wav ./dic/NHK1114/NHK11142/NHK11142_0124.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0125.wav ./dic/NHK1114/NHK11142/NHK11142_0125.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0126.wav ./dic/NHK1114/NHK11142/NHK11142_0126.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0127.wav ./dic/NHK1114/NHK11142/NHK11142_0127.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0128.wav ./dic/NHK1114/NHK11142/NHK11142_0128.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0129.wav ./dic/NHK1114/NHK11142/NHK11142_0129.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0130.wav ./dic/NHK1114/NHK11142/NHK11142_0130.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0131.wav ./dic/NHK1114/NHK11142/NHK11142_0131.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0132.wav ./dic/NHK1114/NHK11142/NHK11142_0132.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0133.wav ./dic/NHK1114/NHK11142/NHK11142_0133.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0134.wav ./dic/NHK1114/NHK11142/NHK11142_0134.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0135.wav ./dic/NHK1114/NHK11142/NHK11142_0135.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0136.wav ./dic/NHK1114/NHK11142/NHK11142_0136.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0137.wav ./dic/NHK1114/NHK11142/NHK11142_0137.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0138.wav ./dic/NHK1114/NHK11142/NHK11142_0138.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0139.wav ./dic/NHK1114/NHK11142/NHK11142_0139.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0140.wav ./dic/NHK1114/NHK11142/NHK11142_0140.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0141.wav ./dic/NHK1114/NHK11142/NHK11142_0141.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0142.wav ./dic/NHK1114/NHK11142/NHK11142_0142.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0143.wav ./dic/NHK1114/NHK11142/NHK11142_0143.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0144.wav ./dic/NHK1114/NHK11142/NHK11142_0144.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0145.wav ./dic/NHK1114/NHK11142/NHK11142_0145.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0146.wav ./dic/NHK1114/NHK11142/NHK11142_0146.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0147.wav ./dic/NHK1114/NHK11143/NHK11143_0147.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0148.wav ./dic/NHK1114/NHK11143/NHK11143_0148.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0149.wav ./dic/NHK1114/NHK11143/NHK11143_0149.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0150.wav ./dic/NHK1114/NHK11143/NHK11143_0150.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0151.wav ./dic/NHK1114/NHK11143/NHK11143_0151.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0152.wav ./dic/NHK1114/NHK11143/NHK11143_0152.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0153.wav ./dic/NHK1114/NHK11143/NHK11143_0153.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0154.wav ./dic/NHK1114/NHK11143/NHK11143_0154.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0155.wav ./dic/NHK1114/NHK11143/NHK11143_0155.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0156.wav ./dic/NHK1114/NHK11143/NHK11143_0156.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0157.wav ./dic/NHK1114/NHK11143/NHK11143_0157.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0158.wav ./dic/NHK1114/NHK11143/NHK11143_0158.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0159.wav ./dic/NHK1114/NHK11143/NHK11143_0159.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0160.wav ./dic/NHK1114/NHK11143/NHK11143_0160.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0161.wav ./dic/NHK1114/NHK11143/NHK11143_0161.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0162.wav ./dic/NHK1114/NHK11143/NHK11143_0162.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0163.wav ./dic/NHK1114/NHK11143/NHK11143_0163.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0164.wav ./dic/NHK1114/NHK11143/NHK11143_0164.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0165.wav ./dic/NHK1114/NHK11143/NHK11143_0165.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0166.wav ./dic/NHK1114/NHK11143/NHK11143_0166.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0167.wav ./dic/NHK1114/NHK11143/NHK11143_0167.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0168.wav ./dic/NHK1114/NHK11143/NHK11143_0168.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0169.wav ./dic/NHK1114/NHK11143/NHK11143_0169.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0170.wav ./dic/NHK1114/NHK11143/NHK11143_0170.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0171.wav ./dic/NHK1114/NHK11143/NHK11143_0171.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0172.wav ./dic/NHK1114/NHK11143/NHK11143_0172.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0173.wav ./dic/NHK1114/NHK11143/NHK11143_0173.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0174.wav ./dic/NHK1114/NHK11143/NHK11143_0174.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0175.wav ./dic/NHK1114/NHK11143/NHK11143_0175.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0176.wav ./dic/NHK1114/NHK11143/NHK11143_0176.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0177.wav ./dic/NHK1114/NHK11143/NHK11143_0177.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0178.wav ./dic/NHK1114/NHK11143/NHK11143_0178.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0179.wav ./dic/NHK1114/NHK11143/NHK11143_0179.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0180.wav ./dic/NHK1114/NHK11143/NHK11143_0180.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0181.wav ./dic/NHK1114/NHK11143/NHK11143_0181.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0182.wav ./dic/NHK1114/NHK11143/NHK11143_0182.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0183.wav ./dic/NHK1114/NHK11143/NHK11143_0183.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0184.wav ./dic/NHK1114/NHK11143/NHK11143_0184.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0185.wav ./dic/NHK1114/NHK11143/NHK11143_0185.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0186.wav ./dic/NHK1114/NHK11143/NHK11143_0186.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0187.wav ./dic/NHK1114/NHK11143/NHK11143_0187.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0188.wav ./dic/NHK1114/NHK11143/NHK11143_0188.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0189.wav ./dic/NHK1114/NHK11143/NHK11143_0189.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0190.wav ./dic/NHK1114/NHK11143/NHK11143_0190.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0191.wav ./dic/NHK1114/NHK11143/NHK11143_0191.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0192.wav ./dic/NHK1114/NHK11143/NHK11143_0192.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0193.wav ./dic/NHK1114/NHK11143/NHK11143_0193.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0194.wav ./dic/NHK1114/NHK11143/NHK11143_0194.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0195.wav ./dic/NHK1114/NHK11143/NHK11143_0195.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0196.wav ./dic/NHK1114/NHK11143/NHK11143_0196.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0197.wav ./dic/NHK1114/NHK11143/NHK11143_0197.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0198.wav ./dic/NHK1114/NHK11143/NHK11143_0198.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0199.wav ./dic/NHK1114/NHK11143/NHK11143_0199.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0200.wav ./dic/NHK1114/NHK11143/NHK11143_0200.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0201.wav ./dic/NHK1114/NHK11143/NHK11143_0201.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0202.wav ./dic/NHK1114/NHK11143/NHK11143_0202.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0203.wav ./dic/NHK1114/NHK11143/NHK11143_0203.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0204.wav ./dic/NHK1114/NHK11143/NHK11143_0204.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0205.wav ./dic/NHK1114/NHK11143/NHK11143_0205.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0206.wav ./dic/NHK1114/NHK11143/NHK11143_0206.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0207.wav ./dic/NHK1114/NHK11143/NHK11143_0207.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0208.wav ./dic/NHK1114/NHK11143/NHK11143_0208.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0209.wav ./dic/NHK1114/NHK11143/NHK11143_0209.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0210.wav ./dic/NHK1114/NHK11143/NHK11143_0210.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0211.wav ./dic/NHK1114/NHK11143/NHK11143_0211.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0212.wav ./dic/NHK1114/NHK11143/NHK11143_0212.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0213.wav ./dic/NHK1114/NHK11143/NHK11143_0213.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0214.wav ./dic/NHK1114/NHK11143/NHK11143_0214.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0215.wav ./dic/NHK1114/NHK11143/NHK11143_0215.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0216.wav ./dic/NHK1114/NHK11143/NHK11143_0216.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0217.wav ./dic/NHK1114/NHK11143/NHK11143_0217.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0218.wav ./dic/NHK1114/NHK11143/NHK11143_0218.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0219.wav ./dic/NHK1114/NHK11143/NHK11143_0219.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0220.wav ./dic/NHK1114/NHK11144/NHK11144_0220.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0221.wav ./dic/NHK1114/NHK11144/NHK11144_0221.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0222.wav ./dic/NHK1114/NHK11144/NHK11144_0222.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0223.wav ./dic/NHK1114/NHK11144/NHK11144_0223.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0224.wav ./dic/NHK1114/NHK11144/NHK11144_0224.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0225.wav ./dic/NHK1114/NHK11144/NHK11144_0225.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0226.wav ./dic/NHK1114/NHK11144/NHK11144_0226.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0227.wav ./dic/NHK1114/NHK11144/NHK11144_0227.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0228.wav ./dic/NHK1114/NHK11144/NHK11144_0228.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0229.wav ./dic/NHK1114/NHK11144/NHK11144_0229.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0230.wav ./dic/NHK1114/NHK11144/NHK11144_0230.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0231.wav ./dic/NHK1114/NHK11144/NHK11144_0231.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0232.wav ./dic/NHK1114/NHK11144/NHK11144_0232.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0233.wav ./dic/NHK1114/NHK11144/NHK11144_0233.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0234.wav ./dic/NHK1114/NHK11144/NHK11144_0234.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0235.wav ./dic/NHK1114/NHK11144/NHK11144_0235.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0236.wav ./dic/NHK1114/NHK11144/NHK11144_0236.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0237.wav ./dic/NHK1114/NHK11144/NHK11144_0237.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0238.wav ./dic/NHK1114/NHK11144/NHK11144_0238.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0239.wav ./dic/NHK1114/NHK11144/NHK11144_0239.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0240.wav ./dic/NHK1114/NHK11144/NHK11144_0240.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0241.wav ./dic/NHK1114/NHK11144/NHK11144_0241.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0242.wav ./dic/NHK1114/NHK11144/NHK11144_0242.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0243.wav ./dic/NHK1114/NHK11144/NHK11144_0243.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0244.wav ./dic/NHK1114/NHK11144/NHK11144_0244.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0245.wav ./dic/NHK1114/NHK11144/NHK11144_0245.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0246.wav ./dic/NHK1114/NHK11144/NHK11144_0246.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0247.wav ./dic/NHK1114/NHK11144/NHK11144_0247.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0248.wav ./dic/NHK1114/NHK11144/NHK11144_0248.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0249.wav ./dic/NHK1114/NHK11144/NHK11144_0249.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0250.wav ./dic/NHK1114/NHK11144/NHK11144_0250.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0251.wav ./dic/NHK1114/NHK11144/NHK11144_0251.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0252.wav ./dic/NHK1114/NHK11144/NHK11144_0252.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0253.wav ./dic/NHK1114/NHK11144/NHK11144_0253.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0254.wav ./dic/NHK1114/NHK11144/NHK11144_0254.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0255.wav ./dic/NHK1114/NHK11144/NHK11144_0255.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0256.wav ./dic/NHK1114/NHK11144/NHK11144_0256.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0257.wav ./dic/NHK1114/NHK11144/NHK11144_0257.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0258.wav ./dic/NHK1114/NHK11144/NHK11144_0258.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0259.wav ./dic/NHK1114/NHK11144/NHK11144_0259.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0260.wav ./dic/NHK1114/NHK11144/NHK11144_0260.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0261.wav ./dic/NHK1114/NHK11144/NHK11144_0261.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0262.wav ./dic/NHK1114/NHK11144/NHK11144_0262.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0263.wav ./dic/NHK1114/NHK11144/NHK11144_0263.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0264.wav ./dic/NHK1114/NHK11144/NHK11144_0264.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0265.wav ./dic/NHK1114/NHK11144/NHK11144_0265.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0266.wav ./dic/NHK1114/NHK11144/NHK11144_0266.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0267.wav ./dic/NHK1114/NHK11144/NHK11144_0267.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0268.wav ./dic/NHK1114/NHK11144/NHK11144_0268.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0269.wav ./dic/NHK1114/NHK11144/NHK11144_0269.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0270.wav ./dic/NHK1114/NHK11144/NHK11144_0270.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0271.wav ./dic/NHK1114/NHK11144/NHK11144_0271.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0272.wav ./dic/NHK1114/NHK11144/NHK11144_0272.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0273.wav ./dic/NHK1114/NHK11144/NHK11144_0273.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0274.wav ./dic/NHK1114/NHK11144/NHK11144_0274.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0275.wav ./dic/NHK1114/NHK11144/NHK11144_0275.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0276.wav ./dic/NHK1114/NHK11144/NHK11144_0276.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0277.wav ./dic/NHK1114/NHK11144/NHK11144_0277.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0278.wav ./dic/NHK1114/NHK11144/NHK11144_0278.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0279.wav ./dic/NHK1114/NHK11144/NHK11144_0279.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0280.wav ./dic/NHK1114/NHK11144/NHK11144_0280.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0281.wav ./dic/NHK1114/NHK11144/NHK11144_0281.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0282.wav ./dic/NHK1114/NHK11144/NHK11144_0282.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0283.wav ./dic/NHK1114/NHK11144/NHK11144_0283.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0284.wav ./dic/NHK1114/NHK11144/NHK11144_0284.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0285.wav ./dic/NHK1114/NHK11144/NHK11144_0285.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0286.wav ./dic/NHK1114/NHK11144/NHK11144_0286.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0287.wav ./dic/NHK1114/NHK11144/NHK11144_0287.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0288.wav ./dic/NHK1114/NHK11144/NHK11144_0288.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0289.wav ./dic/NHK1114/NHK11144/NHK11144_0289.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0290.wav ./dic/NHK1114/NHK11144/NHK11144_0290.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0291.wav ./dic/NHK1114/NHK11144/NHK11144_0291.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0292.wav ./dic/NHK1114/NHK11144/NHK11144_0292.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0293.wav ./dic/NHK1114/NHK11145/NHK11145_0293.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0294.wav ./dic/NHK1114/NHK11145/NHK11145_0294.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0295.wav ./dic/NHK1114/NHK11145/NHK11145_0295.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0296.wav ./dic/NHK1114/NHK11145/NHK11145_0296.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0297.wav ./dic/NHK1114/NHK11145/NHK11145_0297.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0298.wav ./dic/NHK1114/NHK11145/NHK11145_0298.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0299.wav ./dic/NHK1114/NHK11145/NHK11145_0299.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0300.wav ./dic/NHK1114/NHK11145/NHK11145_0300.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0301.wav ./dic/NHK1114/NHK11145/NHK11145_0301.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0302.wav ./dic/NHK1114/NHK11145/NHK11145_0302.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0303.wav ./dic/NHK1114/NHK11145/NHK11145_0303.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0304.wav ./dic/NHK1114/NHK11145/NHK11145_0304.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0305.wav ./dic/NHK1114/NHK11145/NHK11145_0305.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0306.wav ./dic/NHK1114/NHK11145/NHK11145_0306.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0307.wav ./dic/NHK1114/NHK11145/NHK11145_0307.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0308.wav ./dic/NHK1114/NHK11145/NHK11145_0308.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0309.wav ./dic/NHK1114/NHK11145/NHK11145_0309.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0310.wav ./dic/NHK1114/NHK11145/NHK11145_0310.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0311.wav ./dic/NHK1114/NHK11145/NHK11145_0311.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0312.wav ./dic/NHK1114/NHK11145/NHK11145_0312.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0313.wav ./dic/NHK1114/NHK11145/NHK11145_0313.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0314.wav ./dic/NHK1114/NHK11145/NHK11145_0314.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0315.wav ./dic/NHK1114/NHK11145/NHK11145_0315.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0316.wav ./dic/NHK1114/NHK11145/NHK11145_0316.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0317.wav ./dic/NHK1114/NHK11145/NHK11145_0317.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0318.wav ./dic/NHK1114/NHK11145/NHK11145_0318.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0319.wav ./dic/NHK1114/NHK11145/NHK11145_0319.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0320.wav ./dic/NHK1114/NHK11145/NHK11145_0320.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0321.wav ./dic/NHK1114/NHK11145/NHK11145_0321.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0322.wav ./dic/NHK1114/NHK11145/NHK11145_0322.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0323.wav ./dic/NHK1114/NHK11145/NHK11145_0323.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0324.wav ./dic/NHK1114/NHK11145/NHK11145_0324.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0325.wav ./dic/NHK1114/NHK11145/NHK11145_0325.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0326.wav ./dic/NHK1114/NHK11145/NHK11145_0326.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0327.wav ./dic/NHK1114/NHK11145/NHK11145_0327.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0328.wav ./dic/NHK1114/NHK11145/NHK11145_0328.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0329.wav ./dic/NHK1114/NHK11145/NHK11145_0329.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0330.wav ./dic/NHK1114/NHK11145/NHK11145_0330.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0331.wav ./dic/NHK1114/NHK11145/NHK11145_0331.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0332.wav ./dic/NHK1114/NHK11145/NHK11145_0332.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0333.wav ./dic/NHK1114/NHK11145/NHK11145_0333.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0334.wav ./dic/NHK1114/NHK11145/NHK11145_0334.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0335.wav ./dic/NHK1114/NHK11145/NHK11145_0335.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0336.wav ./dic/NHK1114/NHK11145/NHK11145_0336.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0337.wav ./dic/NHK1114/NHK11145/NHK11145_0337.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0338.wav ./dic/NHK1114/NHK11145/NHK11145_0338.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0339.wav ./dic/NHK1114/NHK11145/NHK11145_0339.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0340.wav ./dic/NHK1114/NHK11145/NHK11145_0340.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0341.wav ./dic/NHK1114/NHK11145/NHK11145_0341.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0342.wav ./dic/NHK1114/NHK11145/NHK11145_0342.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0343.wav ./dic/NHK1114/NHK11145/NHK11145_0343.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0344.wav ./dic/NHK1114/NHK11145/NHK11145_0344.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0345.wav ./dic/NHK1114/NHK11145/NHK11145_0345.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0346.wav ./dic/NHK1114/NHK11145/NHK11145_0346.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0347.wav ./dic/NHK1114/NHK11145/NHK11145_0347.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0348.wav ./dic/NHK1114/NHK11145/NHK11145_0348.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0349.wav ./dic/NHK1114/NHK11145/NHK11145_0349.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0350.wav ./dic/NHK1114/NHK11145/NHK11145_0350.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0351.wav ./dic/NHK1114/NHK11145/NHK11145_0351.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0352.wav ./dic/NHK1114/NHK11145/NHK11145_0352.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0353.wav ./dic/NHK1114/NHK11145/NHK11145_0353.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0354.wav ./dic/NHK1114/NHK11145/NHK11145_0354.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0355.wav ./dic/NHK1114/NHK11145/NHK11145_0355.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0356.wav ./dic/NHK1114/NHK11145/NHK11145_0356.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0357.wav ./dic/NHK1114/NHK11145/NHK11145_0357.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0358.wav ./dic/NHK1114/NHK11145/NHK11145_0358.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0359.wav ./dic/NHK1114/NHK11145/NHK11145_0359.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0360.wav ./dic/NHK1114/NHK11145/NHK11145_0360.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0361.wav ./dic/NHK1114/NHK11145/NHK11145_0361.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0362.wav ./dic/NHK1114/NHK11145/NHK11145_0362.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0363.wav ./dic/NHK1114/NHK11145/NHK11145_0363.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0364.wav ./dic/NHK1114/NHK11145/NHK11145_0364.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0365.wav ./dic/NHK1114/NHK11145/NHK11145_0365.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0366.wav ./dic/NHK1114/NHK11146/NHK11146_0366.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0367.wav ./dic/NHK1114/NHK11146/NHK11146_0367.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0368.wav ./dic/NHK1114/NHK11146/NHK11146_0368.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0369.wav ./dic/NHK1114/NHK11146/NHK11146_0369.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0370.wav ./dic/NHK1114/NHK11146/NHK11146_0370.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0371.wav ./dic/NHK1114/NHK11146/NHK11146_0371.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0372.wav ./dic/NHK1114/NHK11146/NHK11146_0372.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0373.wav ./dic/NHK1114/NHK11146/NHK11146_0373.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0374.wav ./dic/NHK1114/NHK11146/NHK11146_0374.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0375.wav ./dic/NHK1114/NHK11146/NHK11146_0375.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0376.wav ./dic/NHK1114/NHK11146/NHK11146_0376.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0377.wav ./dic/NHK1114/NHK11146/NHK11146_0377.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0378.wav ./dic/NHK1114/NHK11146/NHK11146_0378.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0379.wav ./dic/NHK1114/NHK11146/NHK11146_0379.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0380.wav ./dic/NHK1114/NHK11146/NHK11146_0380.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0381.wav ./dic/NHK1114/NHK11146/NHK11146_0381.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0382.wav ./dic/NHK1114/NHK11146/NHK11146_0382.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0383.wav ./dic/NHK1114/NHK11146/NHK11146_0383.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0384.wav ./dic/NHK1114/NHK11146/NHK11146_0384.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0385.wav ./dic/NHK1114/NHK11146/NHK11146_0385.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0386.wav ./dic/NHK1114/NHK11146/NHK11146_0386.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0387.wav ./dic/NHK1114/NHK11146/NHK11146_0387.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0388.wav ./dic/NHK1114/NHK11146/NHK11146_0388.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0389.wav ./dic/NHK1114/NHK11146/NHK11146_0389.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0390.wav ./dic/NHK1114/NHK11146/NHK11146_0390.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0391.wav ./dic/NHK1114/NHK11146/NHK11146_0391.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0392.wav ./dic/NHK1114/NHK11146/NHK11146_0392.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0393.wav ./dic/NHK1114/NHK11146/NHK11146_0393.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0394.wav ./dic/NHK1114/NHK11146/NHK11146_0394.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0395.wav ./dic/NHK1114/NHK11146/NHK11146_0395.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0396.wav ./dic/NHK1114/NHK11146/NHK11146_0396.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0397.wav ./dic/NHK1114/NHK11146/NHK11146_0397.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0398.wav ./dic/NHK1114/NHK11146/NHK11146_0398.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0399.wav ./dic/NHK1114/NHK11146/NHK11146_0399.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0400.wav ./dic/NHK1114/NHK11146/NHK11146_0400.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0401.wav ./dic/NHK1114/NHK11146/NHK11146_0401.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0402.wav ./dic/NHK1114/NHK11146/NHK11146_0402.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0403.wav ./dic/NHK1114/NHK11146/NHK11146_0403.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0404.wav ./dic/NHK1114/NHK11146/NHK11146_0404.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0405.wav ./dic/NHK1114/NHK11146/NHK11146_0405.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0406.wav ./dic/NHK1114/NHK11146/NHK11146_0406.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0407.wav ./dic/NHK1114/NHK11146/NHK11146_0407.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0408.wav ./dic/NHK1114/NHK11146/NHK11146_0408.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0409.wav ./dic/NHK1114/NHK11146/NHK11146_0409.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0410.wav ./dic/NHK1114/NHK11146/NHK11146_0410.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0411.wav ./dic/NHK1114/NHK11146/NHK11146_0411.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0412.wav ./dic/NHK1114/NHK11146/NHK11146_0412.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0413.wav ./dic/NHK1114/NHK11146/NHK11146_0413.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0414.wav ./dic/NHK1114/NHK11146/NHK11146_0414.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0415.wav ./dic/NHK1114/NHK11146/NHK11146_0415.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0416.wav ./dic/NHK1114/NHK11146/NHK11146_0416.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0417.wav ./dic/NHK1114/NHK11146/NHK11146_0417.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0418.wav ./dic/NHK1114/NHK11146/NHK11146_0418.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0419.wav ./dic/NHK1114/NHK11146/NHK11146_0419.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0420.wav ./dic/NHK1114/NHK11146/NHK11146_0420.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0421.wav ./dic/NHK1114/NHK11146/NHK11146_0421.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0422.wav ./dic/NHK1114/NHK11146/NHK11146_0422.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0423.wav ./dic/NHK1114/NHK11146/NHK11146_0423.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0424.wav ./dic/NHK1114/NHK11146/NHK11146_0424.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0425.wav ./dic/NHK1114/NHK11146/NHK11146_0425.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0426.wav ./dic/NHK1114/NHK11146/NHK11146_0426.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0427.wav ./dic/NHK1114/NHK11146/NHK11146_0427.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0428.wav ./dic/NHK1114/NHK11146/NHK11146_0428.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0429.wav ./dic/NHK1114/NHK11146/NHK11146_0429.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0430.wav ./dic/NHK1114/NHK11146/NHK11146_0430.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0431.wav ./dic/NHK1114/NHK11146/NHK11146_0431.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0432.wav ./dic/NHK1114/NHK11146/NHK11146_0432.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0433.wav ./dic/NHK1114/NHK11146/NHK11146_0433.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0434.wav ./dic/NHK1114/NHK11146/NHK11146_0434.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0435.wav ./dic/NHK1114/NHK11146/NHK11146_0435.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0436.wav ./dic/NHK1114/NHK11146/NHK11146_0436.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0437.wav ./dic/NHK1114/NHK11146/NHK11146_0437.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0438.wav ./dic/NHK1114/NHK11146/NHK11146_0438.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0439.wav ./dic/NHK1114/NHK11147/NHK11147_0439.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0440.wav ./dic/NHK1114/NHK11147/NHK11147_0440.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0441.wav ./dic/NHK1114/NHK11147/NHK11147_0441.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0442.wav ./dic/NHK1114/NHK11147/NHK11147_0442.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0443.wav ./dic/NHK1114/NHK11147/NHK11147_0443.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0444.wav ./dic/NHK1114/NHK11147/NHK11147_0444.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0445.wav ./dic/NHK1114/NHK11147/NHK11147_0445.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0446.wav ./dic/NHK1114/NHK11147/NHK11147_0446.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0447.wav ./dic/NHK1114/NHK11147/NHK11147_0447.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0448.wav ./dic/NHK1114/NHK11147/NHK11147_0448.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0449.wav ./dic/NHK1114/NHK11147/NHK11147_0449.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0450.wav ./dic/NHK1114/NHK11147/NHK11147_0450.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0451.wav ./dic/NHK1114/NHK11147/NHK11147_0451.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0452.wav ./dic/NHK1114/NHK11147/NHK11147_0452.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0453.wav ./dic/NHK1114/NHK11147/NHK11147_0453.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0454.wav ./dic/NHK1114/NHK11147/NHK11147_0454.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0455.wav ./dic/NHK1114/NHK11147/NHK11147_0455.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0456.wav ./dic/NHK1114/NHK11147/NHK11147_0456.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0457.wav ./dic/NHK1114/NHK11147/NHK11147_0457.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0458.wav ./dic/NHK1114/NHK11147/NHK11147_0458.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0459.wav ./dic/NHK1114/NHK11147/NHK11147_0459.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0460.wav ./dic/NHK1114/NHK11147/NHK11147_0460.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0461.wav ./dic/NHK1114/NHK11147/NHK11147_0461.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0462.wav ./dic/NHK1114/NHK11147/NHK11147_0462.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0463.wav ./dic/NHK1114/NHK11147/NHK11147_0463.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0464.wav ./dic/NHK1114/NHK11147/NHK11147_0464.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0465.wav ./dic/NHK1114/NHK11147/NHK11147_0465.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0466.wav ./dic/NHK1114/NHK11147/NHK11147_0466.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0467.wav ./dic/NHK1114/NHK11147/NHK11147_0467.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0468.wav ./dic/NHK1114/NHK11147/NHK11147_0468.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0469.wav ./dic/NHK1114/NHK11147/NHK11147_0469.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0470.wav ./dic/NHK1114/NHK11147/NHK11147_0470.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0471.wav ./dic/NHK1114/NHK11147/NHK11147_0471.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0472.wav ./dic/NHK1114/NHK11147/NHK11147_0472.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0473.wav ./dic/NHK1114/NHK11147/NHK11147_0473.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0474.wav ./dic/NHK1114/NHK11147/NHK11147_0474.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0475.wav ./dic/NHK1114/NHK11147/NHK11147_0475.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0476.wav ./dic/NHK1114/NHK11147/NHK11147_0476.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0477.wav ./dic/NHK1114/NHK11147/NHK11147_0477.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0478.wav ./dic/NHK1114/NHK11147/NHK11147_0478.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0479.wav ./dic/NHK1114/NHK11147/NHK11147_0479.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0480.wav ./dic/NHK1114/NHK11147/NHK11147_0480.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0481.wav ./dic/NHK1114/NHK11147/NHK11147_0481.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0482.wav ./dic/NHK1114/NHK11147/NHK11147_0482.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0483.wav ./dic/NHK1114/NHK11147/NHK11147_0483.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0484.wav ./dic/NHK1114/NHK11147/NHK11147_0484.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0485.wav ./dic/NHK1114/NHK11147/NHK11147_0485.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0486.wav ./dic/NHK1114/NHK11147/NHK11147_0486.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0487.wav ./dic/NHK1114/NHK11147/NHK11147_0487.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0488.wav ./dic/NHK1114/NHK11147/NHK11147_0488.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0489.wav ./dic/NHK1114/NHK11147/NHK11147_0489.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0490.wav ./dic/NHK1114/NHK11147/NHK11147_0490.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0491.wav ./dic/NHK1114/NHK11147/NHK11147_0491.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0492.wav ./dic/NHK1114/NHK11147/NHK11147_0492.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0493.wav ./dic/NHK1114/NHK11147/NHK11147_0493.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0494.wav ./dic/NHK1114/NHK11147/NHK11147_0494.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0495.wav ./dic/NHK1114/NHK11147/NHK11147_0495.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0496.wav ./dic/NHK1114/NHK11147/NHK11147_0496.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0497.wav ./dic/NHK1114/NHK11147/NHK11147_0497.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0498.wav ./dic/NHK1114/NHK11147/NHK11147_0498.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0499.wav ./dic/NHK1114/NHK11147/NHK11147_0499.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0500.wav ./dic/NHK1114/NHK11147/NHK11147_0500.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0501.wav ./dic/NHK1114/NHK11147/NHK11147_0501.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0502.wav ./dic/NHK1114/NHK11147/NHK11147_0502.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0503.wav ./dic/NHK1114/NHK11147/NHK11147_0503.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0504.wav ./dic/NHK1114/NHK11147/NHK11147_0504.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0505.wav ./dic/NHK1114/NHK11147/NHK11147_0505.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0506.wav ./dic/NHK1114/NHK11147/NHK11147_0506.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0507.wav ./dic/NHK1114/NHK11147/NHK11147_0507.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0508.wav ./dic/NHK1114/NHK11147/NHK11147_0508.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0509.wav ./dic/NHK1114/NHK11147/NHK11147_0509.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0510.wav ./dic/NHK1114/NHK11147/NHK11147_0510.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0511.wav ./dic/NHK1114/NHK11147/NHK11147_0511.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0512.wav ./dic/NHK1114/NHK11147/NHK11147_0512.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0513.wav ./dic/NHK1114/NHK11147/NHK11147_0513.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0514.wav ./dic/NHK1114/NHK11147/NHK11147_0514.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0515.wav ./dic/NHK1114/NHK11147/NHK11147_0515.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0516.wav ./dic/NHK1114/NHK11147/NHK11147_0516.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0517.wav ./dic/NHK1114/NHK11147/NHK11147_0517.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0518.wav ./dic/NHK1114/NHK11147/NHK11147_0518.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0519.wav ./dic/NHK1114/NHK11147/NHK11147_0519.wav
-cp /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0520.wav ./dic/NHK1114/NHK11147/NHK11147_0520.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0001.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_001.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0002.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_002.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0003.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_003.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0004.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_004.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0005.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_005.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0006.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_006.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0007.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_007.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0008.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_008.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0009.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_009.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0010.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_010.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0011.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_011.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0012.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_012.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0013.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_013.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0014.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_014.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0015.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_015.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0016.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_016.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0017.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_017.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0018.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_018.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0019.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_019.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0020.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_020.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0021.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_021.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0022.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_022.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0023.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_023.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0024.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_024.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0025.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_025.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0026.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_026.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0027.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_027.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0028.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_028.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0029.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_029.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0030.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_030.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0031.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_031.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0032.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_032.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0033.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_033.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0034.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_034.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0035.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_035.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0036.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_036.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0037.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_037.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0038.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_038.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0039.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_039.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0040.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_040.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0041.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_041.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0042.wav -r 16000 ./dic/NHK0825/NHK08251/NHK08251_042.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0043.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_043.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0044.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_044.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0045.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_045.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0046.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_046.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0047.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_047.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0048.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_048.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0049.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_049.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0050.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_050.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0051.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_051.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0052.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_052.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0053.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_053.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0054.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_054.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0055.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_055.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0056.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_056.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0057.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_057.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0058.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_058.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0059.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_059.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0060.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_060.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0061.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_061.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0062.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_062.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0063.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_063.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0064.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_064.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0065.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_065.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0066.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_066.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0067.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_067.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0068.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_068.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0069.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_069.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0070.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_070.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0071.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_071.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0072.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_072.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0073.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_073.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0074.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_074.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0075.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_075.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0076.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_076.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0077.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_077.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0078.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_078.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0079.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_079.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0080.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_080.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0081.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_081.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0082.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_082.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0083.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_083.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0084.wav -r 16000 ./dic/NHK0825/NHK08252/NHK08252_084.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0085.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_085.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0086.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_086.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0087.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_087.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0088.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_088.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0089.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_089.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0090.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_090.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0091.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_091.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0092.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_092.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0093.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_093.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0094.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_094.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0095.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_095.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0096.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_096.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0097.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_097.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0098.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_098.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0099.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_099.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0100.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_100.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0101.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_101.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0102.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_102.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0103.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_103.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0104.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_104.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0105.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_105.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0106.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_106.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0107.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_107.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0108.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_108.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0109.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_109.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0110.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_110.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0111.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_111.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0112.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_112.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0113.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_113.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0114.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_114.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0115.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_115.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0116.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_116.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0117.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_117.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0118.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_118.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0119.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_119.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0120.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_120.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0121.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_121.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0122.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_122.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0123.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_123.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0124.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_124.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0125.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_125.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0126.wav -r 16000 ./dic/NHK0825/NHK08253/NHK08253_126.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0127.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_127.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0128.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_128.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0129.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_129.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0130.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_130.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0131.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_131.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0132.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_132.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0133.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_133.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0134.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_134.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0135.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_135.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0136.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_136.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0137.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_137.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0138.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_138.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0139.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_139.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0140.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_140.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0141.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_141.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0142.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_142.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0143.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_143.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0144.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_144.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0145.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_145.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0146.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_146.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0147.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_147.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0148.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_148.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0149.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_149.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0150.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_150.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0151.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_151.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0152.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_152.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0153.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_153.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0154.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_154.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0155.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_155.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0156.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_156.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0157.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_157.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0158.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_158.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0159.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_159.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0160.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_160.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0161.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_161.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0162.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_162.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0163.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_163.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0164.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_164.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0165.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_165.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0166.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_166.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0167.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_167.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0168.wav -r 16000 ./dic/NHK0825/NHK08254/NHK08254_168.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0169.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_169.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0170.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_170.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0171.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_171.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0172.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_172.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0173.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_173.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0174.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_174.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0175.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_175.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0176.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_176.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0177.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_177.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0178.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_178.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0179.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_179.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0180.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_180.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0181.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_181.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0182.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_182.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0183.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_183.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0184.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_184.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0185.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_185.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0186.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_186.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0187.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_187.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0188.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_188.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0189.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_189.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0190.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_190.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0191.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_191.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0192.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_192.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0193.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_193.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0194.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_194.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0195.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_195.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0196.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_196.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0197.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_197.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0198.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_198.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0199.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_199.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0200.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_200.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0201.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_201.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0202.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_202.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0203.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_203.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0204.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_204.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0205.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_205.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0206.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_206.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0207.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_207.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0208.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_208.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0209.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_209.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0210.wav -r 16000 ./dic/NHK0825/NHK08255/NHK08255_210.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0211.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_211.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0212.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_212.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0213.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_213.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0214.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_214.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0215.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_215.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0216.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_216.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0217.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_217.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0218.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_218.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0219.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_219.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0220.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_220.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0221.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_221.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0222.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_222.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0223.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_223.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0224.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_224.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0225.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_225.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0226.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_226.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0227.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_227.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0228.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_228.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0229.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_229.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0230.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_230.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0231.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_231.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0232.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_232.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0233.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_233.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0234.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_234.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0235.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_235.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0236.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_236.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0237.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_237.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0238.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_238.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0239.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_239.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0240.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_240.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0241.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_241.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0242.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_242.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0243.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_243.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0244.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_244.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0245.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_245.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0246.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_246.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0247.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_247.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0248.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_248.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0249.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_249.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0250.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_250.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0251.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_251.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0252.wav -r 16000 ./dic/NHK0825/NHK08256/NHK08256_252.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0253.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_253.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0254.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_254.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0255.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_255.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0256.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_256.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0257.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_257.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0258.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_258.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0259.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_259.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0260.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_260.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0261.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_261.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0262.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_262.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0263.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_263.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0264.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_264.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0265.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_265.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0266.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_266.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0267.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_267.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0268.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_268.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0269.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_269.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0270.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_270.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0271.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_271.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0272.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_272.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0273.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_273.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0274.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_274.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0275.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_275.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0276.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_276.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0277.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_277.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0278.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_278.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0279.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_279.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0280.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_280.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0281.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_281.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0282.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_282.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0283.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_283.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0284.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_284.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0285.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_285.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0286.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_286.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0287.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_287.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0288.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_288.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0289.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_289.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0290.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_290.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0291.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_291.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0292.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_292.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0293.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_293.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0294.wav -r 16000 ./dic/NHK0825/NHK08257/NHK08257_294.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0295.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_295.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0296.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_296.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0297.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_297.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0298.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_298.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0299.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_299.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0300.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_300.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0301.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_301.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0302.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_302.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0303.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_303.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0304.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_304.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0305.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_305.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0306.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_306.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0307.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_307.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0308.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_308.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0309.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_309.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0310.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_310.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0311.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_311.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0312.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_312.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0313.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_313.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0314.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_314.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0315.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_315.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0316.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_316.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0317.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_317.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0318.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_318.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0319.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_319.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0320.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_320.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0321.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_321.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0322.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_322.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0323.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_323.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0324.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_324.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0325.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_325.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0326.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_326.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0327.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_327.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0328.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_328.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0329.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_329.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0330.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_330.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0331.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_331.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0332.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_332.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0333.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_333.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0334.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_334.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0335.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_335.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0336.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_336.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0337.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_337.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0338.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_338.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0339.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_339.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0340.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_340.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0341.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_341.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0342.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_342.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0343.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_343.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0344.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_344.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0825_0345.wav -r 16000 ./dic/NHK0825/NHK08258/NHK08258_345.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0001.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_001.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0002.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_002.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0003.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_003.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0004.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_004.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0005.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_005.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0006.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_006.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0007.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_007.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0008.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_008.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0009.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_009.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0010.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_010.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0011.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_011.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0012.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_012.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0013.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_013.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0014.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_014.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0015.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_015.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0016.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_016.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0017.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_017.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0018.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_018.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0019.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_019.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0020.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_020.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0021.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_021.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0022.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_022.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0023.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_023.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0024.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_024.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0025.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_025.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0026.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_026.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0027.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_027.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0028.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_028.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0029.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_029.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0030.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_030.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0031.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_031.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0032.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_032.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0033.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_033.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0034.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_034.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0035.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_035.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0036.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_036.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0037.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_037.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0038.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_038.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0039.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_039.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0040.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_040.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0041.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_041.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0042.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_042.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0043.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_043.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0044.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_044.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0045.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_045.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0046.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_046.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0047.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_047.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0048.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_048.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0049.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_049.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0050.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_050.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0051.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_051.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0052.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_052.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0053.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_053.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0054.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_054.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0055.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_055.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0056.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_056.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0057.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_057.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0058.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_058.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0059.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_059.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0060.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_060.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0061.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_061.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0062.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_062.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0063.wav -r 16000 ./dic/NHK0826/NHK08261/NHK08261_063.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0064.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_064.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0065.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_065.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0066.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_066.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0067.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_067.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0068.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_068.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0069.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_069.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0070.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_070.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0071.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_071.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0072.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_072.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0073.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_073.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0074.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_074.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0075.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_075.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0076.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_076.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0077.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_077.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0078.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_078.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0079.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_079.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0080.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_080.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0081.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_081.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0082.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_082.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0083.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_083.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0084.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_084.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0085.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_085.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0086.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_086.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0087.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_087.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0088.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_088.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0089.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_089.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0090.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_090.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0091.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_091.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0092.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_092.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0093.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_093.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0094.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_094.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0095.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_095.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0096.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_096.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0097.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_097.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0098.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_098.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0099.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_099.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0100.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_100.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0101.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_101.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0102.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_102.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0103.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_103.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0104.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_104.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0105.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_105.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0106.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_106.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0107.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_107.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0108.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_108.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0109.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_109.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0110.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_110.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0111.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_111.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0112.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_112.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0113.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_113.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0114.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_114.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0115.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_115.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0116.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_116.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0117.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_117.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0118.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_118.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0119.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_119.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0120.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_120.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0121.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_121.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0122.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_122.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0123.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_123.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0124.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_124.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0125.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_125.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0126.wav -r 16000 ./dic/NHK0826/NHK08262/NHK08262_126.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0127.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_127.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0128.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_128.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0129.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_129.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0130.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_130.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0131.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_131.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0132.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_132.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0133.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_133.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0134.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_134.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0135.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_135.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0136.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_136.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0137.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_137.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0138.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_138.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0139.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_139.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0140.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_140.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0141.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_141.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0142.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_142.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0143.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_143.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0144.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_144.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0145.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_145.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0146.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_146.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0147.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_147.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0148.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_148.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0149.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_149.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0150.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_150.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0151.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_151.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0152.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_152.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0153.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_153.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0154.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_154.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0155.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_155.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0156.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_156.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0157.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_157.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0158.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_158.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0159.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_159.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0160.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_160.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0161.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_161.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0162.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_162.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0163.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_163.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0164.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_164.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0165.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_165.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0166.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_166.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0167.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_167.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0168.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_168.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0169.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_169.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0170.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_170.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0171.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_171.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0172.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_172.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0173.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_173.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0174.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_174.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0175.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_175.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0176.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_176.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0177.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_177.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0178.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_178.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0179.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_179.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0180.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_180.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0181.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_181.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0182.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_182.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0183.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_183.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0184.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_184.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0185.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_185.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0186.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_186.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0187.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_187.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0188.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_188.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0189.wav -r 16000 ./dic/NHK0826/NHK08263/NHK08263_189.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0190.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_190.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0191.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_191.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0192.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_192.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0193.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_193.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0194.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_194.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0195.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_195.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0196.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_196.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0197.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_197.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0198.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_198.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0199.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_199.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0200.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_200.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0201.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_201.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0202.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_202.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0203.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_203.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0204.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_204.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0205.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_205.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0206.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_206.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0207.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_207.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0208.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_208.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0209.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_209.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0210.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_210.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0211.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_211.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0212.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_212.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0213.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_213.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0214.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_214.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0215.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_215.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0216.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_216.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0217.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_217.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0218.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_218.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0219.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_219.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0220.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_220.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0221.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_221.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0222.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_222.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0223.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_223.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0224.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_224.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0225.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_225.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0226.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_226.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0227.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_227.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0228.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_228.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0229.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_229.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0230.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_230.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0231.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_231.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0232.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_232.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0233.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_233.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0234.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_234.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0235.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_235.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0236.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_236.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0237.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_237.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0238.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_238.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0239.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_239.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0240.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_240.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0241.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_241.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0242.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_242.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0243.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_243.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0244.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_244.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0245.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_245.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0246.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_246.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0247.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_247.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0248.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_248.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0249.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_249.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0250.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_250.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0251.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_251.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0252.wav -r 16000 ./dic/NHK0826/NHK08264/NHK08264_252.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0253.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_253.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0254.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_254.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0255.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_255.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0256.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_256.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0257.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_257.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0258.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_258.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0259.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_259.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0260.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_260.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0261.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_261.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0262.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_262.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0263.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_263.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0264.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_264.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0265.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_265.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0266.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_266.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0267.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_267.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0268.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_268.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0269.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_269.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0270.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_270.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0271.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_271.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0272.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_272.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0273.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_273.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0274.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_274.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0275.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_275.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0276.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_276.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0277.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_277.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0278.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_278.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0279.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_279.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0280.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_280.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0281.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_281.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0282.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_282.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0283.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_283.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0284.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_284.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0285.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_285.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0286.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_286.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0287.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_287.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0288.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_288.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0289.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_289.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0290.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_290.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0291.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_291.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0292.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_292.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0293.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_293.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0294.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_294.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0295.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_295.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0296.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_296.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0297.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_297.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0298.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_298.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0299.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_299.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0300.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_300.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0301.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_301.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0302.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_302.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0303.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_303.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0304.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_304.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0305.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_305.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0306.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_306.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0307.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_307.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0308.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_308.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0309.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_309.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0310.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_310.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0311.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_311.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0312.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_312.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0313.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_313.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0314.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_314.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0315.wav -r 16000 ./dic/NHK0826/NHK08265/NHK08265_315.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0316.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_316.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0317.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_317.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0318.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_318.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0319.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_319.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0320.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_320.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0321.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_321.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0322.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_322.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0323.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_323.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0324.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_324.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0325.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_325.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0326.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_326.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0327.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_327.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0328.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_328.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0329.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_329.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0330.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_330.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0331.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_331.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0332.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_332.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0333.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_333.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0334.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_334.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0335.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_335.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0336.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_336.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0337.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_337.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0338.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_338.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0339.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_339.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0340.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_340.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0341.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_341.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0342.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_342.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0343.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_343.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0344.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_344.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0345.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_345.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0346.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_346.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0347.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_347.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0348.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_348.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0349.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_349.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0350.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_350.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0351.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_351.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0352.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_352.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0353.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_353.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0354.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_354.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0355.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_355.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0356.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_356.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0357.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_357.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0358.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_358.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0359.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_359.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0360.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_360.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0361.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_361.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0362.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_362.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0363.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_363.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0364.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_364.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0365.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_365.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0366.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_366.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0367.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_367.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0368.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_368.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0369.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_369.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0370.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_370.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0371.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_371.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0372.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_372.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0373.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_373.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0374.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_374.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0375.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_375.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0376.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_376.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0377.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_377.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0378.wav -r 16000 ./dic/NHK0826/NHK08266/NHK08266_378.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0379.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_379.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0380.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_380.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0381.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_381.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0382.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_382.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0383.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_383.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0384.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_384.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0385.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_385.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0386.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_386.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0387.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_387.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0388.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_388.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0389.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_389.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0390.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_390.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0391.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_391.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0392.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_392.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0393.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_393.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0394.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_394.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0395.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_395.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0396.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_396.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0397.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_397.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0398.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_398.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0399.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_399.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0400.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_400.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0401.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_401.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0402.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_402.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0403.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_403.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0404.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_404.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0405.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_405.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0406.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_406.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0407.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_407.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0408.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_408.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0409.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_409.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0410.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_410.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0411.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_411.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0412.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_412.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0413.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_413.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0414.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_414.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0415.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_415.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0416.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_416.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0417.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_417.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0418.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_418.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0419.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_419.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0420.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_420.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0421.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_421.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0422.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_422.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0423.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_423.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0424.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_424.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0425.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_425.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0426.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_426.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0427.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_427.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0428.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_428.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0429.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_429.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0430.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_430.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0431.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_431.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0432.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_432.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0433.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_433.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0434.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_434.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0435.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_435.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0436.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_436.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0437.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_437.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0438.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_438.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0439.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_439.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0440.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_440.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0441.wav -r 16000 ./dic/NHK0826/NHK08267/NHK08267_441.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0442.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_442.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0443.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_443.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0444.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_444.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0445.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_445.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0446.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_446.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0447.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_447.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0448.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_448.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0449.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_449.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0450.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_450.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0451.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_451.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0452.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_452.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0453.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_453.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0454.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_454.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0455.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_455.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0456.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_456.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0457.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_457.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0458.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_458.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0459.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_459.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0460.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_460.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0461.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_461.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0462.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_462.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0463.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_463.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0464.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_464.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0465.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_465.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0466.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_466.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0467.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_467.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0468.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_468.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0469.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_469.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0470.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_470.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0471.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_471.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0472.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_472.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0473.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_473.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0474.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_474.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0475.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_475.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0476.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_476.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0477.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_477.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0478.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_478.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0479.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_479.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0480.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_480.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0481.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_481.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0482.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_482.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0483.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_483.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0484.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_484.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0485.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_485.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0486.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_486.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0487.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_487.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0488.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_488.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0489.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_489.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0490.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_490.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0491.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_491.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0492.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_492.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0493.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_493.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0494.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_494.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0495.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_495.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0496.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_496.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0497.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_497.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0498.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_498.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0499.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_499.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0500.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_500.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0501.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_501.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0502.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_502.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0503.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_503.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0504.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_504.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0505.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_505.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0506.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_506.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0507.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_507.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0508.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_508.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0509.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_509.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0510.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_510.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0511.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_511.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0512.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_512.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0513.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_513.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0514.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_514.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0515.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_515.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0516.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_516.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0517.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_517.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0518.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_518.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK0826_0519.wav -r 16000 ./dic/NHK0826/NHK08268/NHK08268_519.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0001.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_001.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0002.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_002.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0003.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_003.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0004.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_004.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0005.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_005.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0006.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_006.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0007.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_007.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0008.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_008.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0009.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_009.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0010.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_010.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0011.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_011.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0012.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_012.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0013.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_013.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0014.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_014.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0015.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_015.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0016.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_016.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0017.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_017.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0018.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_018.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0019.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_019.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0020.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_020.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0021.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_021.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0022.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_022.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0023.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_023.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0024.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_024.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0025.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_025.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0026.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_026.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0027.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_027.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0028.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_028.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0029.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_029.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0030.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_030.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0031.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_031.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0032.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_032.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0033.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_033.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0034.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_034.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0035.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_035.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0036.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_036.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0037.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_037.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0038.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_038.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0039.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_039.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0040.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_040.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0041.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_041.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0042.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_042.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0043.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_043.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0044.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_044.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0045.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_045.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0046.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_046.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0047.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_047.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0048.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_048.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0049.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_049.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0050.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_050.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0051.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_051.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0052.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_052.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0053.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_053.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0054.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_054.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0055.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_055.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0056.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_056.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0057.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_057.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0058.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_058.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0059.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_059.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0060.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_060.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0061.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_061.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0062.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_062.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0063.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_063.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0064.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_064.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0065.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_065.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0066.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_066.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0067.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_067.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0068.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_068.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0069.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_069.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0070.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_070.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0071.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_071.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0072.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_072.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0073.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_073.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0074.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_074.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0075.wav -r 16000 ./dic/NHK1112/NHK11121/NHK11121_075.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0076.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_076.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0077.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_077.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0078.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_078.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0079.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_079.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0080.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_080.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0081.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_081.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0082.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_082.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0083.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_083.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0084.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_084.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0085.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_085.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0086.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_086.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0087.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_087.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0088.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_088.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0089.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_089.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0090.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_090.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0091.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_091.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0092.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_092.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0093.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_093.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0094.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_094.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0095.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_095.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0096.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_096.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0097.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_097.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0098.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_098.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0099.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_099.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0100.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_100.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0101.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_101.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0102.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_102.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0103.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_103.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0104.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_104.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0105.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_105.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0106.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_106.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0107.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_107.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0108.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_108.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0109.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_109.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0110.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_110.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0111.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_111.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0112.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_112.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0113.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_113.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0114.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_114.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0115.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_115.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0116.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_116.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0117.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_117.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0118.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_118.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0119.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_119.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0120.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_120.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0121.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_121.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0122.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_122.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0123.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_123.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0124.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_124.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0125.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_125.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0126.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_126.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0127.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_127.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0128.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_128.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0129.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_129.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0130.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_130.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0131.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_131.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0132.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_132.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0133.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_133.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0134.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_134.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0135.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_135.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0136.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_136.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0137.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_137.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0138.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_138.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0139.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_139.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0140.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_140.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0141.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_141.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0142.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_142.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0143.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_143.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0144.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_144.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0145.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_145.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0146.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_146.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0147.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_147.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0148.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_148.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0149.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_149.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0150.wav -r 16000 ./dic/NHK1112/NHK11122/NHK11122_150.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0151.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_151.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0152.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_152.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0153.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_153.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0154.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_154.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0155.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_155.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0156.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_156.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0157.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_157.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0158.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_158.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0159.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_159.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0160.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_160.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0161.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_161.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0162.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_162.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0163.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_163.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0164.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_164.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0165.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_165.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0166.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_166.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0167.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_167.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0168.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_168.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0169.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_169.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0170.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_170.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0171.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_171.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0172.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_172.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0173.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_173.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0174.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_174.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0175.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_175.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0176.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_176.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0177.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_177.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0178.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_178.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0179.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_179.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0180.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_180.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0181.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_181.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0182.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_182.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0183.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_183.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0184.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_184.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0185.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_185.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0186.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_186.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0187.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_187.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0188.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_188.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0189.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_189.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0190.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_190.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0191.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_191.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0192.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_192.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0193.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_193.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0194.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_194.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0195.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_195.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0196.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_196.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0197.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_197.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0198.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_198.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0199.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_199.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0200.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_200.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0201.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_201.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0202.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_202.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0203.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_203.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0204.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_204.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0205.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_205.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0206.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_206.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0207.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_207.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0208.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_208.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0209.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_209.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0210.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_210.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0211.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_211.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0212.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_212.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0213.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_213.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0214.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_214.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0215.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_215.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0216.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_216.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0217.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_217.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0218.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_218.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0219.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_219.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0220.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_220.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0221.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_221.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0222.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_222.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0223.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_223.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0224.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_224.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0225.wav -r 16000 ./dic/NHK1112/NHK11123/NHK11123_225.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0226.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_226.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0227.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_227.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0228.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_228.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0229.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_229.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0230.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_230.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0231.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_231.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0232.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_232.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0233.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_233.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0234.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_234.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0235.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_235.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0236.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_236.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0237.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_237.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0238.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_238.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0239.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_239.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0240.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_240.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0241.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_241.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0242.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_242.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0243.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_243.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0244.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_244.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0245.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_245.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0246.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_246.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0247.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_247.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0248.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_248.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0249.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_249.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0250.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_250.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0251.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_251.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0252.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_252.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0253.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_253.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0254.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_254.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0255.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_255.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0256.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_256.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0257.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_257.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0258.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_258.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0259.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_259.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0260.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_260.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0261.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_261.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0262.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_262.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0263.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_263.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0264.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_264.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0265.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_265.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0266.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_266.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0267.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_267.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0268.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_268.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0269.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_269.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0270.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_270.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0271.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_271.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0272.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_272.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0273.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_273.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0274.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_274.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0275.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_275.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0276.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_276.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0277.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_277.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0278.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_278.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0279.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_279.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0280.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_280.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0281.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_281.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0282.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_282.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0283.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_283.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0284.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_284.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0285.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_285.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0286.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_286.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0287.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_287.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0288.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_288.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0289.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_289.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0290.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_290.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0291.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_291.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0292.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_292.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0293.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_293.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0294.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_294.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0295.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_295.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0296.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_296.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0297.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_297.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0298.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_298.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0299.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_299.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0300.wav -r 16000 ./dic/NHK1112/NHK11124/NHK11124_300.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0301.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_301.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0302.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_302.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0303.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_303.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0304.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_304.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0305.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_305.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0306.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_306.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0307.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_307.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0308.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_308.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0309.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_309.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0310.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_310.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0311.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_311.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0312.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_312.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0313.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_313.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0314.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_314.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0315.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_315.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0316.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_316.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0317.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_317.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0318.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_318.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0319.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_319.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0320.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_320.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0321.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_321.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0322.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_322.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0323.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_323.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0324.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_324.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0325.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_325.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0326.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_326.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0327.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_327.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0328.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_328.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0329.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_329.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0330.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_330.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0331.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_331.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0332.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_332.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0333.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_333.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0334.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_334.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0335.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_335.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0336.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_336.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0337.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_337.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0338.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_338.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0339.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_339.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0340.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_340.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0341.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_341.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0342.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_342.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0343.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_343.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0344.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_344.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0345.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_345.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0346.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_346.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0347.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_347.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0348.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_348.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0349.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_349.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0350.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_350.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0351.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_351.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0352.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_352.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0353.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_353.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0354.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_354.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0355.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_355.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0356.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_356.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0357.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_357.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0358.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_358.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0359.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_359.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0360.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_360.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0361.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_361.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0362.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_362.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0363.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_363.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0364.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_364.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0365.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_365.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0366.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_366.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0367.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_367.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0368.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_368.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0369.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_369.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0370.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_370.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0371.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_371.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0372.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_372.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0373.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_373.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0374.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_374.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0375.wav -r 16000 ./dic/NHK1112/NHK11125/NHK11125_375.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0376.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_376.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0377.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_377.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0378.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_378.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0379.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_379.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0380.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_380.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0381.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_381.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0382.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_382.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0383.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_383.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0384.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_384.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0385.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_385.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0386.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_386.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0387.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_387.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0388.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_388.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0389.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_389.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0390.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_390.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0391.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_391.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0392.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_392.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0393.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_393.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0394.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_394.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0395.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_395.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0396.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_396.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0397.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_397.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0398.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_398.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0399.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_399.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0400.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_400.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0401.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_401.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0402.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_402.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0403.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_403.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0404.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_404.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0405.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_405.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0406.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_406.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0407.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_407.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0408.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_408.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0409.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_409.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0410.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_410.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0411.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_411.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0412.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_412.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0413.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_413.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0414.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_414.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0415.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_415.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0416.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_416.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0417.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_417.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0418.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_418.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0419.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_419.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0420.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_420.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0421.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_421.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0422.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_422.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0423.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_423.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0424.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_424.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0425.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_425.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0426.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_426.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0427.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_427.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0428.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_428.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0429.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_429.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0430.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_430.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0431.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_431.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0432.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_432.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0433.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_433.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0434.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_434.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0435.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_435.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0436.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_436.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0437.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_437.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0438.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_438.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0439.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_439.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0440.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_440.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0441.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_441.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0442.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_442.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0443.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_443.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0444.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_444.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0445.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_445.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0446.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_446.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0447.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_447.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0448.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_448.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0449.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_449.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0450.wav -r 16000 ./dic/NHK1112/NHK11126/NHK11126_450.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0451.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_451.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0452.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_452.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0453.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_453.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0454.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_454.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0455.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_455.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0456.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_456.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0457.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_457.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0458.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_458.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0459.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_459.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0460.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_460.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0461.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_461.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0462.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_462.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0463.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_463.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0464.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_464.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0465.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_465.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0466.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_466.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0467.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_467.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0468.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_468.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0469.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_469.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0470.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_470.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0471.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_471.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0472.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_472.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0473.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_473.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0474.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_474.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0475.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_475.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0476.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_476.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0477.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_477.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0478.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_478.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0479.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_479.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0480.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_480.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0481.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_481.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0482.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_482.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0483.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_483.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0484.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_484.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0485.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_485.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0486.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_486.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0487.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_487.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0488.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_488.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0489.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_489.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0490.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_490.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0491.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_491.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0492.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_492.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0493.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_493.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0494.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_494.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0495.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_495.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0496.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_496.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0497.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_497.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0498.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_498.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0499.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_499.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0500.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_500.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0501.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_501.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0502.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_502.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0503.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_503.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0504.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_504.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0505.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_505.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0506.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_506.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0507.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_507.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0508.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_508.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0509.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_509.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0510.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_510.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0511.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_511.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0512.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_512.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0513.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_513.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0514.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_514.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0515.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_515.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0516.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_516.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0517.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_517.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0518.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_518.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0519.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_519.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0520.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_520.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0521.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_521.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0522.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_522.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0523.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_523.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0524.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_524.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0525.wav -r 16000 ./dic/NHK1112/NHK11127/NHK11127_525.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0526.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_526.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0527.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_527.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0528.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_528.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0529.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_529.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0530.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_530.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0531.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_531.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0532.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_532.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0533.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_533.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0534.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_534.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0535.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_535.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0536.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_536.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0537.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_537.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0538.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_538.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0539.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_539.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0540.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_540.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0541.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_541.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0542.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_542.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0543.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_543.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0544.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_544.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0545.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_545.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0546.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_546.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0547.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_547.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0548.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_548.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0549.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_549.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0550.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_550.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0551.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_551.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0552.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_552.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0553.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_553.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0554.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_554.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0555.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_555.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0556.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_556.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0557.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_557.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0558.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_558.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0559.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_559.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0560.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_560.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0561.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_561.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0562.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_562.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0563.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_563.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0564.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_564.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0565.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_565.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0566.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_566.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0567.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_567.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0568.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_568.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0569.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_569.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0570.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_570.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0571.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_571.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0572.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_572.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0573.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_573.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0574.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_574.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0575.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_575.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0576.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_576.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0577.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_577.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0578.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_578.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0579.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_579.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0580.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_580.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0581.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_581.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0582.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_582.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0583.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_583.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0584.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_584.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0585.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_585.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0586.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_586.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0587.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_587.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0588.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_588.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0589.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_589.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0590.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_590.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0591.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_591.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0592.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_592.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0593.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_593.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0594.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_594.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0595.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_595.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0596.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_596.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0597.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_597.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0598.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_598.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0599.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_599.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0600.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_600.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0601.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_601.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0602.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_602.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0603.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_603.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0604.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_604.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0605.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_605.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0606.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_606.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0607.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_607.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1112_0608.wav -r 16000 ./dic/NHK1112/NHK11128/NHK11128_608.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0001.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_001.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0002.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_002.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0003.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_003.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0004.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_004.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0005.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_005.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0006.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_006.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0007.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_007.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0008.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_008.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0009.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_009.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0010.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_010.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0011.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_011.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0012.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_012.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0013.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_013.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0014.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_014.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0015.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_015.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0016.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_016.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0017.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_017.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0018.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_018.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0019.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_019.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0020.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_020.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0021.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_021.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0022.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_022.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0023.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_023.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0024.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_024.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0025.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_025.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0026.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_026.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0027.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_027.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0028.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_028.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0029.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_029.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0030.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_030.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0031.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_031.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0032.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_032.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0033.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_033.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0034.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_034.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0035.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_035.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0036.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_036.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0037.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_037.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0038.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_038.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0039.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_039.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0040.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_040.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0041.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_041.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0042.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_042.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0043.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_043.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0044.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_044.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0045.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_045.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0046.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_046.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0047.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_047.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0048.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_048.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0049.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_049.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0050.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_050.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0051.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_051.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0052.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_052.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0053.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_053.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0054.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_054.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0055.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_055.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0056.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_056.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0057.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_057.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0058.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_058.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0059.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_059.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0060.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_060.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0061.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_061.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0062.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_062.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0063.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_063.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0064.wav -r 16000 ./dic/NHK1113/NHK11131/NHK11131_064.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0065.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_065.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0066.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_066.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0067.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_067.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0068.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_068.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0069.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_069.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0070.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_070.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0071.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_071.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0072.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_072.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0073.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_073.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0074.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_074.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0075.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_075.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0076.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_076.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0077.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_077.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0078.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_078.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0079.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_079.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0080.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_080.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0081.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_081.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0082.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_082.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0083.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_083.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0084.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_084.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0085.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_085.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0086.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_086.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0087.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_087.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0088.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_088.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0089.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_089.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0090.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_090.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0091.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_091.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0092.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_092.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0093.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_093.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0094.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_094.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0095.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_095.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0096.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_096.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0097.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_097.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0098.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_098.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0099.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_099.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0100.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_100.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0101.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_101.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0102.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_102.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0103.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_103.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0104.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_104.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0105.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_105.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0106.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_106.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0107.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_107.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0108.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_108.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0109.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_109.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0110.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_110.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0111.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_111.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0112.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_112.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0113.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_113.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0114.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_114.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0115.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_115.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0116.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_116.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0117.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_117.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0118.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_118.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0119.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_119.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0120.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_120.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0121.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_121.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0122.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_122.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0123.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_123.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0124.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_124.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0125.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_125.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0126.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_126.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0127.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_127.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0128.wav -r 16000 ./dic/NHK1113/NHK11132/NHK11132_128.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0129.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_129.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0130.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_130.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0131.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_131.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0132.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_132.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0133.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_133.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0134.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_134.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0135.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_135.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0136.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_136.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0137.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_137.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0138.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_138.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0139.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_139.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0140.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_140.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0141.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_141.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0142.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_142.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0143.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_143.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0144.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_144.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0145.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_145.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0146.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_146.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0147.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_147.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0148.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_148.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0149.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_149.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0150.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_150.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0151.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_151.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0152.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_152.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0153.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_153.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0154.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_154.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0155.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_155.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0156.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_156.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0157.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_157.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0158.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_158.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0159.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_159.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0160.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_160.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0161.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_161.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0162.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_162.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0163.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_163.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0164.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_164.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0165.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_165.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0166.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_166.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0167.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_167.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0168.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_168.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0169.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_169.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0170.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_170.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0171.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_171.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0172.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_172.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0173.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_173.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0174.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_174.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0175.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_175.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0176.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_176.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0177.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_177.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0178.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_178.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0179.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_179.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0180.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_180.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0181.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_181.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0182.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_182.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0183.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_183.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0184.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_184.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0185.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_185.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0186.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_186.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0187.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_187.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0188.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_188.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0189.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_189.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0190.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_190.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0191.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_191.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0192.wav -r 16000 ./dic/NHK1113/NHK11133/NHK11133_192.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0193.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_193.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0194.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_194.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0195.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_195.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0196.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_196.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0197.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_197.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0198.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_198.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0199.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_199.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0200.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_200.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0201.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_201.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0202.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_202.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0203.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_203.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0204.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_204.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0205.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_205.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0206.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_206.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0207.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_207.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0208.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_208.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0209.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_209.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0210.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_210.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0211.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_211.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0212.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_212.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0213.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_213.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0214.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_214.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0215.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_215.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0216.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_216.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0217.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_217.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0218.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_218.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0219.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_219.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0220.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_220.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0221.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_221.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0222.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_222.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0223.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_223.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0224.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_224.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0225.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_225.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0226.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_226.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0227.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_227.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0228.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_228.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0229.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_229.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0230.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_230.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0231.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_231.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0232.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_232.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0233.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_233.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0234.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_234.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0235.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_235.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0236.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_236.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0237.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_237.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0238.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_238.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0239.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_239.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0240.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_240.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0241.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_241.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0242.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_242.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0243.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_243.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0244.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_244.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0245.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_245.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0246.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_246.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0247.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_247.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0248.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_248.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0249.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_249.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0250.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_250.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0251.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_251.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0252.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_252.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0253.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_253.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0254.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_254.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0255.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_255.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0256.wav -r 16000 ./dic/NHK1113/NHK11134/NHK11134_256.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0257.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_257.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0258.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_258.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0259.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_259.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0260.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_260.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0261.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_261.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0262.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_262.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0263.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_263.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0264.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_264.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0265.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_265.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0266.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_266.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0267.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_267.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0268.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_268.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0269.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_269.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0270.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_270.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0271.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_271.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0272.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_272.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0273.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_273.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0274.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_274.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0275.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_275.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0276.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_276.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0277.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_277.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0278.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_278.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0279.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_279.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0280.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_280.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0281.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_281.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0282.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_282.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0283.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_283.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0284.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_284.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0285.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_285.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0286.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_286.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0287.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_287.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0288.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_288.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0289.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_289.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0290.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_290.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0291.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_291.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0292.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_292.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0293.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_293.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0294.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_294.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0295.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_295.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0296.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_296.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0297.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_297.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0298.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_298.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0299.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_299.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0300.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_300.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0301.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_301.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0302.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_302.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0303.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_303.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0304.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_304.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0305.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_305.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0306.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_306.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0307.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_307.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0308.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_308.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0309.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_309.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0310.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_310.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0311.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_311.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0312.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_312.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0313.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_313.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0314.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_314.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0315.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_315.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0316.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_316.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0317.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_317.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0318.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_318.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0319.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_319.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0320.wav -r 16000 ./dic/NHK1113/NHK11135/NHK11135_320.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0321.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_321.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0322.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_322.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0323.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_323.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0324.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_324.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0325.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_325.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0326.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_326.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0327.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_327.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0328.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_328.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0329.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_329.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0330.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_330.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0331.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_331.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0332.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_332.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0333.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_333.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0334.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_334.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0335.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_335.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0336.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_336.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0337.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_337.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0338.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_338.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0339.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_339.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0340.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_340.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0341.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_341.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0342.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_342.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0343.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_343.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0344.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_344.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0345.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_345.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0346.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_346.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0347.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_347.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0348.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_348.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0349.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_349.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0350.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_350.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0351.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_351.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0352.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_352.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0353.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_353.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0354.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_354.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0355.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_355.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0356.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_356.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0357.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_357.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0358.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_358.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0359.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_359.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0360.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_360.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0361.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_361.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0362.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_362.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0363.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_363.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0364.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_364.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0365.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_365.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0366.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_366.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0367.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_367.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0368.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_368.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0369.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_369.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0370.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_370.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0371.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_371.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0372.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_372.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0373.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_373.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0374.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_374.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0375.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_375.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0376.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_376.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0377.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_377.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0378.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_378.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0379.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_379.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0380.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_380.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0381.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_381.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0382.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_382.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0383.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_383.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0384.wav -r 16000 ./dic/NHK1113/NHK11136/NHK11136_384.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0385.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_385.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0386.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_386.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0387.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_387.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0388.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_388.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0389.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_389.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0390.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_390.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0391.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_391.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0392.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_392.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0393.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_393.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0394.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_394.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0395.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_395.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0396.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_396.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0397.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_397.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0398.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_398.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0399.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_399.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0400.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_400.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0401.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_401.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0402.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_402.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0403.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_403.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0404.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_404.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0405.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_405.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0406.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_406.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0407.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_407.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0408.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_408.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0409.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_409.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0410.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_410.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0411.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_411.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0412.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_412.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0413.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_413.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0414.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_414.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0415.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_415.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0416.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_416.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0417.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_417.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0418.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_418.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0419.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_419.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0420.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_420.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0421.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_421.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0422.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_422.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0423.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_423.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0424.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_424.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0425.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_425.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0426.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_426.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0427.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_427.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0428.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_428.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0429.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_429.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0430.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_430.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0431.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_431.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0432.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_432.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0433.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_433.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0434.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_434.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0435.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_435.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0436.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_436.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0437.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_437.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0438.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_438.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0439.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_439.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0440.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_440.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0441.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_441.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0442.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_442.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0443.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_443.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0444.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_444.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0445.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_445.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0446.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_446.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0447.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_447.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0448.wav -r 16000 ./dic/NHK1113/NHK11137/NHK11137_448.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0449.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_449.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0450.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_450.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0451.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_451.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0452.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_452.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0453.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_453.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0454.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_454.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0455.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_455.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0456.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_456.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0457.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_457.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0458.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_458.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0459.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_459.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0460.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_460.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0461.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_461.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0462.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_462.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0463.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_463.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0464.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_464.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0465.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_465.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0466.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_466.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0467.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_467.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0468.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_468.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0469.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_469.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0470.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_470.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0471.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_471.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0472.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_472.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0473.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_473.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0474.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_474.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0475.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_475.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0476.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_476.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0477.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_477.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0478.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_478.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0479.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_479.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0480.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_480.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0481.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_481.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0482.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_482.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0483.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_483.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0484.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_484.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0485.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_485.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0486.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_486.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0487.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_487.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0488.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_488.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0489.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_489.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0490.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_490.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0491.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_491.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0492.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_492.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0493.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_493.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0494.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_494.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0495.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_495.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0496.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_496.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0497.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_497.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0498.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_498.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0499.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_499.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0500.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_500.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0501.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_501.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0502.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_502.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0503.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_503.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0504.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_504.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0505.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_505.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0506.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_506.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0507.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_507.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0508.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_508.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0509.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_509.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0510.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_510.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0511.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_511.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0512.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_512.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0513.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_513.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0514.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_514.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0515.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_515.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0516.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_516.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0517.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_517.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0518.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_518.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0519.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_519.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1113_0520.wav -r 16000 ./dic/NHK1113/NHK11138/NHK11138_520.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0001.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_001.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0002.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_002.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0003.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_003.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0004.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_004.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0005.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_005.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0006.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_006.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0007.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_007.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0008.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_008.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0009.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_009.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0010.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_010.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0011.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_011.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0012.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_012.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0013.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_013.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0014.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_014.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0015.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_015.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0016.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_016.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0017.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_017.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0018.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_018.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0019.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_019.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0020.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_020.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0021.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_021.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0022.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_022.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0023.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_023.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0024.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_024.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0025.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_025.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0026.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_026.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0027.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_027.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0028.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_028.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0029.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_029.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0030.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_030.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0031.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_031.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0032.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_032.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0033.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_033.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0034.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_034.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0035.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_035.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0036.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_036.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0037.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_037.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0038.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_038.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0039.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_039.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0040.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_040.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0041.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_041.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0042.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_042.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0043.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_043.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0044.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_044.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0045.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_045.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0046.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_046.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0047.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_047.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0048.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_048.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0049.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_049.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0050.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_050.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0051.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_051.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0052.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_052.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0053.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_053.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0054.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_054.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0055.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_055.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0056.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_056.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0057.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_057.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0058.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_058.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0059.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_059.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0060.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_060.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0061.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_061.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0062.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_062.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0063.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_063.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0064.wav -r 16000 ./dic/NHK1114/NHK11141/NHK11141_064.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0065.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_065.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0066.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_066.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0067.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_067.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0068.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_068.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0069.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_069.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0070.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_070.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0071.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_071.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0072.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_072.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0073.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_073.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0074.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_074.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0075.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_075.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0076.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_076.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0077.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_077.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0078.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_078.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0079.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_079.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0080.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_080.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0081.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_081.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0082.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_082.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0083.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_083.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0084.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_084.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0085.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_085.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0086.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_086.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0087.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_087.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0088.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_088.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0089.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_089.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0090.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_090.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0091.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_091.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0092.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_092.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0093.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_093.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0094.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_094.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0095.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_095.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0096.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_096.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0097.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_097.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0098.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_098.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0099.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_099.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0100.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_100.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0101.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_101.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0102.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_102.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0103.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_103.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0104.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_104.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0105.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_105.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0106.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_106.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0107.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_107.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0108.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_108.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0109.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_109.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0110.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_110.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0111.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_111.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0112.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_112.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0113.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_113.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0114.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_114.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0115.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_115.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0116.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_116.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0117.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_117.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0118.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_118.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0119.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_119.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0120.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_120.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0121.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_121.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0122.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_122.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0123.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_123.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0124.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_124.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0125.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_125.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0126.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_126.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0127.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_127.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0128.wav -r 16000 ./dic/NHK1114/NHK11142/NHK11142_128.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0129.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_129.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0130.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_130.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0131.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_131.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0132.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_132.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0133.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_133.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0134.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_134.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0135.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_135.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0136.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_136.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0137.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_137.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0138.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_138.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0139.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_139.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0140.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_140.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0141.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_141.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0142.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_142.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0143.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_143.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0144.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_144.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0145.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_145.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0146.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_146.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0147.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_147.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0148.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_148.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0149.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_149.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0150.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_150.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0151.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_151.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0152.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_152.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0153.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_153.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0154.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_154.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0155.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_155.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0156.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_156.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0157.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_157.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0158.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_158.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0159.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_159.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0160.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_160.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0161.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_161.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0162.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_162.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0163.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_163.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0164.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_164.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0165.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_165.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0166.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_166.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0167.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_167.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0168.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_168.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0169.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_169.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0170.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_170.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0171.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_171.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0172.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_172.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0173.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_173.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0174.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_174.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0175.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_175.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0176.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_176.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0177.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_177.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0178.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_178.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0179.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_179.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0180.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_180.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0181.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_181.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0182.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_182.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0183.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_183.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0184.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_184.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0185.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_185.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0186.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_186.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0187.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_187.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0188.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_188.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0189.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_189.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0190.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_190.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0191.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_191.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0192.wav -r 16000 ./dic/NHK1114/NHK11143/NHK11143_192.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0193.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_193.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0194.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_194.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0195.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_195.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0196.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_196.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0197.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_197.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0198.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_198.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0199.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_199.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0200.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_200.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0201.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_201.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0202.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_202.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0203.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_203.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0204.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_204.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0205.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_205.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0206.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_206.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0207.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_207.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0208.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_208.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0209.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_209.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0210.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_210.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0211.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_211.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0212.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_212.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0213.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_213.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0214.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_214.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0215.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_215.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0216.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_216.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0217.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_217.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0218.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_218.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0219.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_219.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0220.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_220.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0221.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_221.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0222.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_222.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0223.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_223.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0224.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_224.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0225.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_225.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0226.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_226.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0227.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_227.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0228.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_228.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0229.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_229.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0230.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_230.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0231.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_231.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0232.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_232.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0233.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_233.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0234.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_234.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0235.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_235.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0236.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_236.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0237.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_237.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0238.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_238.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0239.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_239.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0240.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_240.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0241.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_241.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0242.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_242.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0243.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_243.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0244.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_244.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0245.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_245.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0246.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_246.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0247.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_247.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0248.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_248.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0249.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_249.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0250.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_250.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0251.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_251.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0252.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_252.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0253.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_253.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0254.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_254.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0255.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_255.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0256.wav -r 16000 ./dic/NHK1114/NHK11144/NHK11144_256.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0257.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_257.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0258.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_258.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0259.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_259.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0260.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_260.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0261.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_261.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0262.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_262.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0263.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_263.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0264.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_264.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0265.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_265.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0266.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_266.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0267.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_267.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0268.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_268.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0269.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_269.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0270.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_270.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0271.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_271.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0272.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_272.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0273.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_273.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0274.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_274.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0275.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_275.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0276.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_276.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0277.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_277.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0278.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_278.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0279.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_279.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0280.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_280.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0281.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_281.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0282.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_282.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0283.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_283.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0284.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_284.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0285.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_285.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0286.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_286.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0287.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_287.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0288.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_288.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0289.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_289.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0290.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_290.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0291.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_291.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0292.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_292.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0293.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_293.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0294.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_294.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0295.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_295.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0296.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_296.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0297.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_297.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0298.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_298.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0299.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_299.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0300.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_300.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0301.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_301.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0302.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_302.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0303.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_303.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0304.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_304.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0305.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_305.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0306.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_306.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0307.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_307.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0308.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_308.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0309.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_309.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0310.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_310.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0311.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_311.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0312.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_312.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0313.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_313.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0314.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_314.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0315.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_315.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0316.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_316.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0317.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_317.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0318.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_318.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0319.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_319.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0320.wav -r 16000 ./dic/NHK1114/NHK11145/NHK11145_320.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0321.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_321.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0322.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_322.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0323.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_323.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0324.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_324.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0325.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_325.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0326.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_326.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0327.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_327.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0328.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_328.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0329.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_329.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0330.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_330.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0331.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_331.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0332.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_332.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0333.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_333.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0334.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_334.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0335.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_335.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0336.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_336.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0337.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_337.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0338.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_338.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0339.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_339.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0340.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_340.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0341.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_341.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0342.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_342.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0343.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_343.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0344.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_344.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0345.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_345.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0346.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_346.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0347.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_347.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0348.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_348.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0349.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_349.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0350.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_350.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0351.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_351.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0352.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_352.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0353.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_353.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0354.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_354.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0355.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_355.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0356.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_356.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0357.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_357.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0358.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_358.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0359.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_359.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0360.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_360.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0361.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_361.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0362.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_362.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0363.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_363.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0364.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_364.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0365.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_365.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0366.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_366.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0367.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_367.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0368.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_368.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0369.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_369.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0370.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_370.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0371.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_371.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0372.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_372.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0373.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_373.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0374.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_374.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0375.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_375.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0376.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_376.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0377.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_377.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0378.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_378.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0379.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_379.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0380.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_380.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0381.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_381.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0382.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_382.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0383.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_383.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0384.wav -r 16000 ./dic/NHK1114/NHK11146/NHK11146_384.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0385.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_385.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0386.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_386.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0387.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_387.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0388.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_388.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0389.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_389.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0390.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_390.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0391.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_391.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0392.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_392.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0393.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_393.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0394.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_394.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0395.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_395.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0396.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_396.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0397.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_397.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0398.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_398.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0399.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_399.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0400.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_400.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0401.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_401.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0402.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_402.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0403.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_403.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0404.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_404.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0405.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_405.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0406.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_406.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0407.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_407.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0408.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_408.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0409.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_409.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0410.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_410.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0411.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_411.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0412.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_412.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0413.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_413.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0414.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_414.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0415.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_415.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0416.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_416.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0417.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_417.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0418.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_418.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0419.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_419.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0420.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_420.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0421.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_421.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0422.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_422.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0423.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_423.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0424.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_424.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0425.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_425.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0426.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_426.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0427.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_427.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0428.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_428.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0429.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_429.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0430.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_430.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0431.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_431.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0432.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_432.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0433.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_433.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0434.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_434.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0435.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_435.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0436.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_436.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0437.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_437.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0438.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_438.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0439.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_439.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0440.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_440.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0441.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_441.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0442.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_442.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0443.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_443.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0444.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_444.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0445.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_445.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0446.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_446.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0447.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_447.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0448.wav -r 16000 ./dic/NHK1114/NHK11147/NHK11147_448.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0449.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_449.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0450.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_450.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0451.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_451.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0452.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_452.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0453.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_453.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0454.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_454.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0455.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_455.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0456.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_456.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0457.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_457.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0458.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_458.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0459.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_459.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0460.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_460.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0461.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_461.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0462.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_462.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0463.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_463.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0464.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_464.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0465.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_465.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0466.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_466.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0467.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_467.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0468.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_468.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0469.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_469.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0470.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_470.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0471.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_471.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0472.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_472.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0473.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_473.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0474.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_474.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0475.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_475.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0476.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_476.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0477.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_477.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0478.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_478.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0479.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_479.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0480.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_480.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0481.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_481.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0482.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_482.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0483.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_483.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0484.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_484.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0485.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_485.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0486.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_486.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0487.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_487.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0488.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_488.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0489.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_489.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0490.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_490.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0491.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_491.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0492.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_492.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0493.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_493.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0494.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_494.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0495.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_495.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0496.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_496.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0497.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_497.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0498.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_498.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0499.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_499.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0500.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_500.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0501.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_501.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0502.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_502.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0503.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_503.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0504.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_504.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0505.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_505.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0506.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_506.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0507.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_507.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0508.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_508.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0509.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_509.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0510.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_510.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0511.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_511.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0512.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_512.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0513.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_513.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0514.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_514.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0515.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_515.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0516.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_516.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0517.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_517.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0518.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_518.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0519.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_519.wav
+sox /home/nozaki/newsdata/cutwav/vdet_wav/NHK1114_0520.wav -r 16000 ./dic/NHK1114/NHK11148/NHK11148_520.wav
